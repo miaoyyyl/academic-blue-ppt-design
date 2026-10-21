@@ -2,7 +2,7 @@
 
 从 Word 制作可编辑蓝白科研汇报，按论证关系、图片职责和页面容量选择原生组件与图文组合。
 
-当前版本：`word-native-preview-17-reference-candidate`。这是 v17 候选版备份，包含48类原生基础组件和27类组合；尚未替换本机正式安装版。
+当前版本：`word-native-preview-17-reference-candidate`。这是 v17 版本。
 
 ## 内容
 
