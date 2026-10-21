@@ -1,0 +1,21 @@
+{
+  "id": "materials-chevron-link-optional",
+  "role": "component-test",
+  "title": "三段渐深说明连接件",
+  "operations": [
+    {
+      "id": "materials-chevron-link-optional",
+      "typeId": "materials-chevron-link",
+      "bounds": [
+        200,
+        260,
+        90,
+        40
+      ],
+      "fields": {},
+      "textOptions": {},
+      "objectBoxes": {}
+    }
+  ],
+  "notes": "中性原生组件示例"
+}

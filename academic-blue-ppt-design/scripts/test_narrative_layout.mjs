@@ -1,0 +1,14 @@
+import assert from 'node:assert/strict';import fs from 'node:fs';
+import {sectionLabels,applyNarrativePolicy,validateNarrativePolicy,textHeight,contentPanelHeight} from '../assets/narrative-layout.mjs';
+const checks=[],test=(name,fn)=>{fn();checks.push({name,pass:true});};
+const p={chapters:[{id:'a'},{id:'b'}],pages:[{id:'x',role:'content',chapterId:'a',operations:[{typeId:'materials-frame',fields:{number:'03'}}]},{id:'y',role:'content',chapterId:'b',subsectionId:'same'},{id:'z',role:'content',chapterId:'b',subsectionId:'same'},{id:'w',role:'content',chapterId:'b',subsectionId:'other'}]};
+test('chapter label independent from physical page',()=>assert.equal(sectionLabels(p).get('x').label,'1'));
+test('same subsection across pages keeps label',()=>assert.equal(sectionLabels(p).get('y').label,sectionLabels(p).get('z').label));
+test('another subsection increments within chapter',()=>assert.equal(sectionLabels(p).get('w').label,'2.2'));
+test('preparation copies input',()=>{const q=applyNarrativePolicy(p);assert.equal(q.pages[0].operations[0].fields.number,'1');assert.equal(p.pages[0].operations[0].fields.number,'03');});
+test('physical page header rejected',()=>assert(!validateNarrativePolicy(p).pass));
+test('unknown chapter cannot fallback to page number',()=>assert.throws(()=>sectionLabels({chapters:[],pages:[{id:'q',role:'content'}]})));
+test('content height responds to width',()=>assert(textHeight('条件与证据'.repeat(15),250)>textHeight('条件与证据'.repeat(15),600)));
+test('short text does not allocate full canvas',()=>assert(contentPanelHeight(['中性依据。'],550)<150));
+test('capacity failure does not shrink',()=>assert.throws(()=>contentPanelHeight(['中性依据。'.repeat(500)],250,17,{maxHeight:250})));
+if(process.argv[2])fs.writeFileSync(process.argv[2],JSON.stringify({pass:true,checks},null,2));console.log(JSON.stringify({pass:true,checks:checks.length}));

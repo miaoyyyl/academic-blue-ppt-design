@@ -1,0 +1,307 @@
+{
+  "sourcePage": 9,
+  "sourceObjectIds": [
+    "77",
+    "76",
+    "89"
+  ],
+  "sourceBoundsEmu": [
+    4825306,
+    2473444,
+    6820595,
+    1924366
+  ],
+  "slots": {
+    "number": "79",
+    "heading": "76",
+    "body": "89"
+  },
+  "objects": [
+    {
+      "sourceId": "76",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"76\" name=\"文本框 75\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{938950C7-899F-2A22-9AB6-4452B6F06FC6}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"5198529\" y=\"2473444\"/><a:ext cx=\"6447372\" cy=\"1032462\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:pPr><a:lnSpc><a:spcPct val=\"120000\"/></a:lnSpc><a:defRPr/></a:pPr><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"2000\" kern=\"0\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"C00000\"/></a:solidFill><a:latin typeface=\"+mj-ea\"/><a:ea typeface=\"+mj-ea\"/><a:cs typeface=\"+mn-ea\"/></a:rPr><a:t></a:t></a:r><a:endParaRPr lang=\"en-US\" altLang=\"zh-CN\" sz=\"2000\" kern=\"0\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"C00000\"/></a:solidFill><a:latin typeface=\"+mj-ea\"/><a:ea typeface=\"+mj-ea\"/><a:cs typeface=\"+mn-ea\"/></a:endParaRPr></a:p><a:p><a:pPr><a:lnSpc><a:spcPct val=\"120000\"/></a:lnSpc><a:defRPr/></a:pPr><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" kern=\"0\" dirty=\"0\"><a:solidFill><a:schemeClr val=\"tx1\"><a:lumMod val=\"85000\"/><a:lumOff val=\"15000\"/></a:schemeClr></a:solidFill><a:latin typeface=\"+mn-ea\"/><a:cs typeface=\"+mn-ea\"/></a:rPr><a:t></a:t></a:r><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" kern=\"0\" dirty=\"0\"><a:solidFill><a:schemeClr val=\"accent6\"/></a:solidFill><a:latin typeface=\"+mn-ea\"/><a:cs typeface=\"+mn-ea\"/></a:rPr><a:t></a:t></a:r><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" kern=\"0\" dirty=\"0\"><a:solidFill><a:schemeClr val=\"tx1\"><a:lumMod val=\"85000\"/><a:lumOff val=\"15000\"/></a:schemeClr></a:solidFill><a:latin typeface=\"+mn-ea\"/><a:cs typeface=\"+mn-ea\"/></a:rPr><a:t></a:t></a:r><a:endParaRPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" kern=\"0\" dirty=\"0\"><a:solidFill><a:schemeClr val=\"tx1\"><a:lumMod val=\"85000\"/><a:lumOff val=\"15000\"/></a:schemeClr></a:solidFill><a:latin typeface=\"+mn-ea\"/><a:cs typeface=\"+mn-ea\"/><a:sym typeface=\"Arial\" panose=\"020B0604020202020204\" pitchFamily=\"34\" charset=\"0\"/></a:endParaRPr></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "0cf2d1c08a049a03c4f13c6ce4cbc0bdb12d1f0fec4cf471adfdeba238cb3d30",
+      "sourceBoundsEmu": [
+        5198529,
+        2473444,
+        6447372,
+        1032462
+      ],
+      "sourceXmlSha256": "00c22ca4e0a5062c8a1c9b3b6608c10a2472c3a9c44200f399b4f8e186486b2e",
+      "sourceVisualSha256": "d5dca3a2c45e3110a575c41294433bdcd5c683590bb1ac4a333bbdf977b5af80",
+      "neutralVisualSha256": "d5dca3a2c45e3110a575c41294433bdcd5c683590bb1ac4a333bbdf977b5af80",
+      "allSourceIds": [
+        "76"
+      ]
+    },
+    {
+      "sourceId": "77",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:grpSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvGrpSpPr><p:cNvPr id=\"77\" name=\"组合 76\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{A1A0610C-0227-4E4C-093F-046474260530}\"/></a:ext></a:extLst></p:cNvPr><p:cNvGrpSpPr/><p:nvPr/></p:nvGrpSpPr><p:grpSpPr><a:xfrm><a:off x=\"4825306\" y=\"2492615\"/><a:ext cx=\"343561\" cy=\"400110\"/><a:chOff x=\"2397481\" y=\"1946075\"/><a:chExt cx=\"434099\" cy=\"505550\"/></a:xfrm></p:grpSpPr><p:sp><p:nvSpPr><p:cNvPr id=\"78\" name=\"椭圆 77\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{EB880DBA-D7D9-4D3C-C5FA-7BC803C6ABF5}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"2397481\" y=\"1982475\"/><a:ext cx=\"434099\" cy=\"434101\"/></a:xfrm><a:prstGeom prst=\"ellipse\"><a:avLst/></a:prstGeom><a:solidFill><a:schemeClr val=\"accent6\"/></a:solidFill><a:ln w=\"28575\"><a:solidFill><a:schemeClr val=\"accent6\"><a:lumMod val=\"20000\"/><a:lumOff val=\"80000\"/></a:schemeClr></a:solidFill></a:ln><a:effectLst><a:outerShdw blurRad=\"152400\" dist=\"190500\" dir=\"13500000\" algn=\"ctr\" rotWithShape=\"0\"><a:schemeClr val=\"bg1\"><a:alpha val=\"66000\"/></a:schemeClr></a:outerShdw></a:effectLst></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"50000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"2600\" b=\"1\"><a:latin typeface=\"Arial\" panose=\"020B0604020202020204\" pitchFamily=\"34\" charset=\"0\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"+mn-ea\"/><a:sym typeface=\"Arial\" panose=\"020B0604020202020204\" pitchFamily=\"34\" charset=\"0\"/></a:endParaRPr></a:p></p:txBody></p:sp><p:sp><p:nvSpPr><p:cNvPr id=\"79\" name=\"文本框 78\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{C106B968-70C8-0F8C-1C97-86F1F840B7FC}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"2465477\" y=\"1946075\"/><a:ext cx=\"335585\" cy=\"505550\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:r><a:rPr lang=\"en-US\" altLang=\"zh-CN\" sz=\"2000\" b=\"1\" spc=\"300\" dirty=\"0\"><a:solidFill><a:schemeClr val=\"bg1\"/></a:solidFill><a:latin typeface=\"+mj-ea\"/><a:ea typeface=\"+mj-ea\"/><a:cs typeface=\"+mn-ea\"/><a:sym typeface=\"Arial\" panose=\"020B0604020202020204\" pitchFamily=\"34\" charset=\"0\"/></a:rPr><a:t></a:t></a:r><a:endParaRPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"2000\" b=\"1\" spc=\"300\" dirty=\"0\"><a:solidFill><a:schemeClr val=\"bg1\"/></a:solidFill><a:latin typeface=\"+mj-ea\"/><a:ea typeface=\"+mj-ea\"/><a:cs typeface=\"+mn-ea\"/><a:sym typeface=\"Arial\" panose=\"020B0604020202020204\" pitchFamily=\"34\" charset=\"0\"/></a:endParaRPr></a:p></p:txBody></p:sp></p:grpSp>",
+      "geometryStyleSha256": "a3d2dd97033ccb0df70686d4f22ad8c925d571e87f3562f04c17dd0fae4325b8",
+      "sourceBoundsEmu": [
+        4825306,
+        2492615,
+        343561,
+        400110
+      ],
+      "sourceXmlSha256": "b55f547a83818ae1148b85c8427f6c4fb699dea9d56e695bc96790b8f5bd11d4",
+      "sourceVisualSha256": "55f358a2c416321c01ad205c2fe3d281b0c3d9019dc72df04ef705eb01d8c5c9",
+      "neutralVisualSha256": "55f358a2c416321c01ad205c2fe3d281b0c3d9019dc72df04ef705eb01d8c5c9",
+      "allSourceIds": [
+        "77",
+        "78",
+        "79"
+      ]
+    },
+    {
+      "sourceId": "89",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"89\" name=\"文本框 88\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{0F0FA5D5-E699-64F1-397E-D50E45C0EF33}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"5198528\" y=\"3660813\"/><a:ext cx=\"6447371\" cy=\"736997\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:pPr><a:lnSpc><a:spcPct val=\"120000\"/></a:lnSpc><a:defRPr/></a:pPr><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"2000\" kern=\"0\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"C00000\"/></a:solidFill><a:latin typeface=\"+mj-ea\"/><a:ea typeface=\"+mj-ea\"/><a:cs typeface=\"+mn-ea\"/></a:rPr><a:t></a:t></a:r><a:endParaRPr lang=\"en-US\" altLang=\"zh-CN\" sz=\"2000\" kern=\"0\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"C00000\"/></a:solidFill><a:latin typeface=\"+mj-ea\"/><a:ea typeface=\"+mj-ea\"/><a:cs typeface=\"+mn-ea\"/></a:endParaRPr></a:p><a:p><a:pPr><a:lnSpc><a:spcPct val=\"120000\"/></a:lnSpc><a:defRPr/></a:pPr><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" kern=\"0\" dirty=\"0\"><a:solidFill><a:schemeClr val=\"tx1\"><a:lumMod val=\"85000\"/><a:lumOff val=\"15000\"/></a:schemeClr></a:solidFill><a:latin typeface=\"+mn-ea\"/><a:cs typeface=\"+mn-ea\"/></a:rPr><a:t></a:t></a:r><a:r><a:rPr lang=\"en-US\" altLang=\"zh-CN\" sz=\"1600\" kern=\"0\" dirty=\"0\"><a:solidFill><a:schemeClr val=\"accent6\"/></a:solidFill><a:latin typeface=\"+mn-ea\"/><a:cs typeface=\"+mn-ea\"/></a:rPr><a:t></a:t></a:r><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" kern=\"0\" dirty=\"0\"><a:solidFill><a:schemeClr val=\"accent6\"/></a:solidFill><a:latin typeface=\"+mn-ea\"/><a:cs typeface=\"+mn-ea\"/></a:rPr><a:t></a:t></a:r><a:r><a:rPr lang=\"en-US\" altLang=\"zh-CN\" sz=\"1600\" kern=\"0\" dirty=\"0\"><a:solidFill><a:schemeClr val=\"accent6\"/></a:solidFill><a:latin typeface=\"+mn-ea\"/><a:cs typeface=\"+mn-ea\"/></a:rPr><a:t></a:t></a:r><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" kern=\"0\" dirty=\"0\"><a:solidFill><a:schemeClr val=\"accent6\"/></a:solidFill><a:latin typeface=\"+mn-ea\"/><a:cs typeface=\"+mn-ea\"/></a:rPr><a:t></a:t></a:r><a:endParaRPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" kern=\"0\" dirty=\"0\"><a:solidFill><a:schemeClr val=\"accent6\"/></a:solidFill><a:latin typeface=\"+mn-ea\"/><a:cs typeface=\"+mn-ea\"/><a:sym typeface=\"Arial\" panose=\"020B0604020202020204\" pitchFamily=\"34\" charset=\"0\"/></a:endParaRPr></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "0cf2d1c08a049a03c4f13c6ce4cbc0bdb12d1f0fec4cf471adfdeba238cb3d30",
+      "sourceBoundsEmu": [
+        5198528,
+        3660813,
+        6447371,
+        736997
+      ],
+      "sourceXmlSha256": "e9b05bdaa38254c52e846c307699065235c49709c817457a2b4db37435810578",
+      "sourceVisualSha256": "89291e7a1954bddb2c44024259653dae486fc510cde11c3761d1be1026fbcdff",
+      "neutralVisualSha256": "89291e7a1954bddb2c44024259653dae486fc510cde11c3761d1be1026fbcdff",
+      "allSourceIds": [
+        "89"
+      ]
+    }
+  ],
+  "typeId": "materials-circle-numbered-row",
+  "relation": "enumeration",
+  "repeatable": true,
+  "itemCount": 1,
+  "sourceFile": "materials/1深蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+  "sourceFileSha256": "83cdad74701b75d8f4d2527ce1b0138c3ce54574ddc4a4dd47c7c7a04db9afcb",
+  "nativeOnly": true,
+  "noGeometryFallback": true,
+  "capacityPolicy": "Explicit font and slot bounds; actual PowerPoint fit check is mandatory. Never shrink or truncate.",
+  "label": "无底色圆形编号条目",
+  "semanticRole": "同层枚举或共用比较维度的一行。圆形编号只表序号，正文可以写活性及条件。",
+  "forbiddenUses": [
+    "序号代表相互转化关系",
+    "无文稿依据的数值活性排序"
+  ],
+  "sourceSlidePart": "ppt/slides/slide9.xml",
+  "sourceSlideSha256": "7226b065f21fce813431d4c2279421afdd85850200098bcd01c9ccb0e049b561",
+  "capacity": {
+    "numberChars": 2,
+    "headingChars": 10,
+    "bodyCharsStandard": 42,
+    "bodyCharsCapacity": 72,
+    "bodyFontPt": 18,
+    "bodyBoxPx": [
+      830,
+      94
+    ]
+  },
+  "candidateDeckPages": [
+    5,
+    6
+  ],
+  "immutableFields": [
+    "objects[*].xml drawing geometry and style",
+    "group hierarchy and child order",
+    "fill/line/effect/style/adjustment/flip/rotation",
+    "sourceFileSha256",
+    "sourcePage",
+    "sourceObjectIds",
+    "slots values and ancestor IDs",
+    "nativeOnly=true",
+    "noGeometryFallback=true"
+  ],
+  "allowedMutations": [
+    "slot text",
+    "explicit font options",
+    "position and size",
+    "repeat whole component if repeatable=true"
+  ],
+  "assetDependencies": [],
+  "slotProvenance": {
+    "heading": {
+      "sourceObjectId": "76",
+      "ancestorGroupIds": [],
+      "sourceBoundsEmu": [
+        5198529,
+        2473444,
+        6447372,
+        1032462
+      ],
+      "sourceSlideBoundsEmu": [
+        5198529,
+        2473444,
+        6447372,
+        1032462
+      ],
+      "coordinateSpace": "slide",
+      "sourceShapeTag": "sp"
+    },
+    "number": {
+      "sourceObjectId": "79",
+      "ancestorGroupIds": [
+        "77"
+      ],
+      "sourceBoundsEmu": [
+        2465477,
+        1946075,
+        335585,
+        505550
+      ],
+      "sourceSlideBoundsEmu": [
+        4879120,
+        2492615,
+        265594,
+        400110
+      ],
+      "coordinateSpace": "group-local",
+      "sourceShapeTag": "sp"
+    },
+    "body": {
+      "sourceObjectId": "89",
+      "ancestorGroupIds": [],
+      "sourceBoundsEmu": [
+        5198528,
+        3660813,
+        6447371,
+        736997
+      ],
+      "sourceSlideBoundsEmu": [
+        5198528,
+        3660813,
+        6447371,
+        736997
+      ],
+      "coordinateSpace": "slide",
+      "sourceShapeTag": "sp"
+    }
+  },
+  "themeDependencies": [
+    {
+      "sourceObjectId": "76",
+      "scheme": "tx1",
+      "location": "text-style",
+      "propertyContext": "text-style",
+      "directColorShiftUnderCurrentRoot": false,
+      "sourceRgb": "000000",
+      "rootRgb": "000000",
+      "sameResolvedColor": true
+    },
+    {
+      "sourceObjectId": "76",
+      "scheme": "accent6",
+      "location": "text-style",
+      "propertyContext": "text-style",
+      "directColorShiftUnderCurrentRoot": false,
+      "sourceRgb": "0B4FA1",
+      "rootRgb": "0046A4",
+      "sameResolvedColor": false
+    },
+    {
+      "sourceObjectId": "77",
+      "scheme": "accent6",
+      "location": "drawing-style",
+      "propertyContext": "direct-drawing-property",
+      "directColorShiftUnderCurrentRoot": true,
+      "sourceRgb": "0B4FA1",
+      "rootRgb": "0046A4",
+      "sameResolvedColor": false
+    },
+    {
+      "sourceObjectId": "77",
+      "scheme": "bg1",
+      "location": "drawing-style",
+      "propertyContext": "direct-drawing-property",
+      "directColorShiftUnderCurrentRoot": false,
+      "sourceRgb": "FFFFFF",
+      "rootRgb": "FFFFFF",
+      "sameResolvedColor": true
+    },
+    {
+      "sourceObjectId": "77",
+      "scheme": "accent1",
+      "location": "drawing-style",
+      "propertyContext": "style-reference",
+      "directColorShiftUnderCurrentRoot": false,
+      "sourceRgb": "549E39",
+      "rootRgb": "0046A4",
+      "sameResolvedColor": false
+    },
+    {
+      "sourceObjectId": "77",
+      "scheme": "lt1",
+      "location": "drawing-style",
+      "propertyContext": "style-reference",
+      "directColorShiftUnderCurrentRoot": false,
+      "sourceRgb": "FFFFFF",
+      "rootRgb": "FFFFFF",
+      "sameResolvedColor": true
+    },
+    {
+      "sourceObjectId": "77",
+      "scheme": "bg1",
+      "location": "text-style",
+      "propertyContext": "text-style",
+      "directColorShiftUnderCurrentRoot": false,
+      "sourceRgb": "FFFFFF",
+      "rootRgb": "FFFFFF",
+      "sameResolvedColor": true
+    },
+    {
+      "sourceObjectId": "89",
+      "scheme": "tx1",
+      "location": "text-style",
+      "propertyContext": "text-style",
+      "directColorShiftUnderCurrentRoot": false,
+      "sourceRgb": "000000",
+      "rootRgb": "000000",
+      "sameResolvedColor": true
+    },
+    {
+      "sourceObjectId": "89",
+      "scheme": "accent6",
+      "location": "text-style",
+      "propertyContext": "text-style",
+      "directColorShiftUnderCurrentRoot": false,
+      "sourceRgb": "0B4FA1",
+      "rootRgb": "0046A4",
+      "sameResolvedColor": false
+    }
+  ],
+  "groupTransforms": [
+    {
+      "sourceGroupId": "77",
+      "transformAttributes": {},
+      "off": {
+        "x": 4825306,
+        "y": 2492615
+      },
+      "ext": {
+        "cx": 343561,
+        "cy": 400110
+      },
+      "chOff": {
+        "x": 2397481,
+        "y": 1946075
+      },
+      "chExt": {
+        "cx": 434099,
+        "cy": 505550
+      },
+      "sourceScaleX": 0.7914346727359427,
+      "sourceScaleY": 0.7914350707150628
+    }
+  ],
+  "sourceThemeSha256": "5d300941e1b11d352667542549243b99e6c3240ceebacc24462a98b71f75f4ce",
+  "targetRootThemeSha256": "b3c4d5af972226d58ab89269501ab351840cdab07887b29d02439efc2b632c08",
+  "visibleThemeShiftUnderCurrentRoot": true,
+  "bridgeCompatibility": {
+    "usesExistingPrototypeAndRender": true,
+    "requiresBackendChanges": false,
+    "nestedSlotBoxes": "Use group-local coordinates if overriding; avoid absolute slide coordinates.",
+    "zeroHeightChildrenPreserved": "Timeline line remains zero-height in asset XML; current remap rounds to at least 1 EMU when rendered."
+  }
+}

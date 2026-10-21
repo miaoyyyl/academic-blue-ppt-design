@@ -1,0 +1,45 @@
+{
+  "id": "materials-frame-capacity",
+  "role": "component-test",
+  "title": "materials-frame / capacity",
+  "operations": [
+    {
+      "typeId": "materials-frame",
+      "bounds": [
+        0,
+        0,
+        1280,
+        77
+      ],
+      "fields": {
+        "title": "多条件约束下的方法比较与证据解释及适用范围分析",
+        "number": "01"
+      },
+      "textOptions": {
+        "title": {
+          "font": 30,
+          "color": "FFFFFF",
+          "bold": true,
+          "box": [
+            124,
+            10,
+            1100,
+            57
+          ]
+        },
+        "number": {
+          "font": 23,
+          "color": "004BAD",
+          "align": "ctr",
+          "box": [
+            45,
+            13,
+            73,
+            50
+          ]
+        }
+      }
+    }
+  ],
+  "notes": "中性组件检验；没有科学事实与用户身份。"
+}

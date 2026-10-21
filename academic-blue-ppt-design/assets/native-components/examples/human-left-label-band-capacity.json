@@ -1,0 +1,149 @@
+{
+  "id": "human-left-label-band-capacity",
+  "role": "component-test",
+  "title": "左侧主题标签 · 近容量内容",
+  "operations": [
+    {
+      "typeId": "materials-frame",
+      "bounds": [
+        0,
+        0,
+        1280,
+        77
+      ],
+      "fields": {
+        "title": "左侧主题标签 · 近容量内容",
+        "number": "1"
+      },
+      "textOptions": {
+        "title": {
+          "font": 30,
+          "color": "FFFFFF",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 100,
+          "box": [
+            124,
+            10,
+            1100,
+            57
+          ],
+          "bold": true
+        },
+        "number": {
+          "font": 23,
+          "color": "004BAD",
+          "align": "ctr",
+          "vAlign": "ctr",
+          "leading": 100,
+          "box": [
+            45,
+            13,
+            73,
+            50
+          ],
+          "bold": true
+        }
+      },
+      "objectBoxes": {},
+      "id": "human-left-label-band-capacity.op1"
+    },
+    {
+      "typeId": "human-left-label-band",
+      "bounds": [
+        60,
+        205,
+        1160,
+        180.34
+      ],
+      "fields": {
+        "label": "条件\n说明",
+        "body": [
+          "对象在指定条件下产生相应变化，说明材料、方法与观察之间的联系；解释适用范围及证据边界，具体结论须由调用方本次输入支持。",
+          "对象在指定条件下产生相应变化，说明材料、方法与观察之间的联系；解释适用范围及证据边界，具体结论须由调用方本次输入支持。"
+        ]
+      },
+      "textOptions": {
+        "label": {
+          "font": 21,
+          "color": "FFFFFF",
+          "align": "ctr",
+          "vAlign": "ctr",
+          "leading": 110,
+          "box": [
+            70,
+            219,
+            130,
+            152.34
+          ],
+          "bold": true
+        },
+        "body": {
+          "font": 19,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 110,
+          "box": [
+            230,
+            219,
+            964,
+            154.34
+          ],
+          "paragraphAfter": 8,
+          "labelBold": true,
+          "bold": false
+        }
+      },
+      "objectBoxes": {
+        "3": [
+          60,
+          205,
+          1160,
+          180.34
+        ],
+        "4": [
+          60,
+          205,
+          150,
+          180.34
+        ]
+      },
+      "id": "human-left-label-band-capacity.op2"
+    },
+    {
+      "typeId": "materials-caption",
+      "bounds": [
+        60,
+        665,
+        1160,
+        42
+      ],
+      "fields": {
+        "body": "human-left-label-band | by_human/环境修复Cd污染修复.pptx | 原页 3 | 中性示例，非科研结论"
+      },
+      "textOptions": {
+        "body": {
+          "font": 11,
+          "color": "284461",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 100,
+          "box": [
+            60,
+            665,
+            1160,
+            42
+          ],
+          "bold": false
+        }
+      },
+      "objectBoxes": {},
+      "id": "human-left-label-band-capacity.op3"
+    }
+  ],
+  "notes": [
+    "中性原生组件测试，不包含样本原文、Logo或科研结论。",
+    "源组件：by_human/环境修复Cd污染修复.pptx，实际页码3，对象3,4,5,10"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "materials-panel-heading-capacity",
+  "role": "component-test",
+  "title": "通栏蓝色面板标题",
+  "operations": [
+    {
+      "id": "materials-panel-heading-capacity",
+      "typeId": "materials-panel-heading",
+      "bounds": [
+        150,
+        240,
+        650,
+        48
+      ],
+      "fields": {
+        "heading": "研究任务及其对应证据范围"
+      },
+      "textOptions": {
+        "heading": {
+          "box": [
+            166,
+            244,
+            618,
+            40
+          ],
+          "font": 20,
+          "color": "FFFFFF",
+          "align": "ctr",
+          "vAlign": "ctr"
+        }
+      },
+      "objectBoxes": {}
+    }
+  ],
+  "notes": "中性原生组件示例"
+}

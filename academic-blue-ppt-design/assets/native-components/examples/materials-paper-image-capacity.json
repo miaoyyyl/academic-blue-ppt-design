@@ -1,0 +1,20 @@
+{
+  "id": "materials-paper-image-capacity",
+  "role": "component-test",
+  "title": "materials-paper-image / capacity",
+  "operations": [
+    {
+      "typeId": "materials-paper-image",
+      "bounds": [
+        80,
+        160,
+        1100,
+        350
+      ],
+      "fields": {},
+      "textOptions": {},
+      "assetId": "neutral-image"
+    }
+  ],
+  "notes": "中性组件检验；没有科学事实与用户身份。"
+}

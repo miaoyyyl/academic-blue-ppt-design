@@ -1,0 +1,92 @@
+{
+  "sourcePage": 9,
+  "sourceObjectIds": [
+    "12"
+  ],
+  "sourceBoundsEmu": [
+    4764417,
+    4687901,
+    674925,
+    377235
+  ],
+  "slots": {},
+  "objects": [
+    {
+      "sourceId": "12",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"12\" name=\"箭头: 右 11\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{032B56BC-FB4C-4F9D-BA3F-A0C70FAE9D68}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm rot=\"16200000\" flipV=\"1\"><a:off x=\"4764417\" y=\"4687901\"/><a:ext cx=\"674925\" cy=\"377235\"/></a:xfrm><a:prstGeom prst=\"rightArrow\"><a:avLst><a:gd name=\"adj1\" fmla=\"val 50000\"/><a:gd name=\"adj2\" fmla=\"val 69007\"/></a:avLst></a:prstGeom><a:gradFill flip=\"none\" rotWithShape=\"1\"><a:gsLst><a:gs pos=\"0\"><a:srgbClr val=\"0C56AE\"><a:alpha val=\"0\"/></a:srgbClr></a:gs><a:gs pos=\"100000\"><a:srgbClr val=\"0C56AE\"><a:alpha val=\"50000\"/></a:srgbClr></a:gs></a:gsLst><a:lin ang=\"0\" scaled=\"1\"/><a:tileRect/></a:gradFill><a:ln><a:noFill/></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:srgbClr val=\"0C56AE\"><a:shade val=\"50000\"/></a:srgbClr></a:lnRef><a:fillRef idx=\"1\"><a:srgbClr val=\"0C56AE\"/></a:fillRef><a:effectRef idx=\"0\"><a:srgbClr val=\"0C56AE\"/></a:effectRef><a:fontRef idx=\"minor\"><a:srgbClr val=\"FFFFFF\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"zh-CN\" altLang=\"en-US\"/></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "18b6eb19615de4c9a83a965b5bd7fe5518f458204cc24b04e6aba77c3eb897f1",
+      "sourceBoundsEmu": [
+        4764417,
+        4687901,
+        674925,
+        377235
+      ],
+      "sourceGeometryStyleSha256": "a111066452ac3c3b852252d72ece26e71463e5558892ec98e078f5c46a981c1f"
+    }
+  ],
+  "typeId": "materials-upward-link",
+  "label": "由下向上机理连接件",
+  "relation": "support",
+  "sourceFile": "materials/4白蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+  "sourceFileSha256": "11ea0401903ddfb9df94e5e2f9955a7f554c81d96a41d280914ac60bfb14fa5e",
+  "sourceSlidePart": "ppt/slides/slide9.xml",
+  "nativeOnly": true,
+  "noGeometryFallback": true,
+  "repeatable": true,
+  "itemCount": 1,
+  "contentTasks": [
+    "inputs-to-mechanism"
+  ],
+  "visualTreatment": "directional-link",
+  "coordinateFixture": true,
+  "themeResolution": {
+    "themePart": "ppt/theme/theme1.xml",
+    "mapping": {
+      "bg1": "lt1",
+      "tx1": "dk1",
+      "bg2": "lt2",
+      "tx2": "dk2",
+      "accent1": "accent1",
+      "accent2": "accent2",
+      "accent3": "accent3",
+      "accent4": "accent4",
+      "accent5": "accent5",
+      "accent6": "accent6",
+      "hlink": "hlink",
+      "folHlink": "folHlink"
+    },
+    "colors": [
+      {
+        "source": "accent1",
+        "resolved": "0C56AE"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0C56AE"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0C56AE"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0C56AE"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0C56AE"
+      },
+      {
+        "source": "lt1",
+        "resolved": "FFFFFF"
+      }
+    ],
+    "policy": "Resolve source theme RGB only; retain source geometry, line, gradient and group hierarchy."
+  },
+  "capacityPolicy": "Assigned font, explicit slot boxes and real PowerPoint text checks; reject overflow instead of shrinking.",
+  "semanticConstraints": [
+    "Current task supplies all text. Reference scientific content and figures are never defaults.",
+    "Direction expresses a sourced relationship, not an invented process."
+  ],
+  "defaultTextOptions": {}
+}

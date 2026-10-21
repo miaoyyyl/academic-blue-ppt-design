@@ -1,0 +1,48 @@
+{
+  "id": "materials-dashed-keyword-optional",
+  "role": "component-test",
+  "title": "白底虚线短标签",
+  "operations": [
+    {
+      "id": "materials-dashed-keyword-optional",
+      "typeId": "materials-dashed-keyword",
+      "bounds": [
+        150,
+        240,
+        260,
+        80
+      ],
+      "fields": {
+        "label": ""
+      },
+      "textOptions": {
+        "label": {
+          "box": [
+            166,
+            248,
+            228,
+            64
+          ],
+          "font": 18,
+          "align": "ctr",
+          "vAlign": "ctr"
+        }
+      },
+      "objectBoxes": {
+        "65": [
+          150,
+          240,
+          260,
+          80
+        ],
+        "87": [
+          166,
+          248,
+          228,
+          64
+        ]
+      }
+    }
+  ],
+  "notes": "中性原生组件示例"
+}

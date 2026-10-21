@@ -1,0 +1,60 @@
+{
+  "id": "materials-badge-panel-optional",
+  "role": "component-test",
+  "title": "materials-badge-panel / optional",
+  "operations": [
+    {
+      "typeId": "materials-badge-panel",
+      "bounds": [
+        70,
+        190,
+        520,
+        340
+      ],
+      "fields": {
+        "heading": "同层栏目甲",
+        "body": [
+          ""
+        ]
+      },
+      "textOptions": {
+        "heading": {
+          "font": 20,
+          "color": "FFFFFF",
+          "bold": true,
+          "box": [
+            82,
+            194,
+            216,
+            36
+          ]
+        },
+        "body": {
+          "font": 17,
+          "color": "162B40",
+          "box": [
+            84,
+            245,
+            492,
+            271
+          ]
+        }
+      },
+      "objectBoxes": {
+        "13": [
+          70,
+          204,
+          520,
+          326
+        ],
+        "14": [
+          70,
+          190,
+          240,
+          42
+        ]
+      }
+    }
+  ],
+  "notes": "中性组件检验；没有科学事实与用户身份。"
+}

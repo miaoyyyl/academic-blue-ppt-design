@@ -1,0 +1,142 @@
+{
+  "id": "materials-hexagon-explanation-capacity",
+  "role": "component-test",
+  "title": "六边形条件说明 · 近容量内容",
+  "operations": [
+    {
+      "typeId": "materials-frame",
+      "bounds": [
+        0,
+        0,
+        1280,
+        77
+      ],
+      "fields": {
+        "title": "六边形条件说明 · 近容量内容",
+        "number": "11"
+      },
+      "textOptions": {
+        "title": {
+          "font": 30,
+          "color": "FFFFFF",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 100,
+          "box": [
+            124,
+            10,
+            1100,
+            57
+          ],
+          "bold": true
+        },
+        "number": {
+          "font": 23,
+          "color": "004BAD",
+          "align": "ctr",
+          "vAlign": "ctr",
+          "leading": 100,
+          "box": [
+            45,
+            13,
+            73,
+            50
+          ],
+          "bold": true
+        }
+      },
+      "objectBoxes": {},
+      "id": "materials-hexagon-explanation-capacity.op1"
+    },
+    {
+      "typeId": "materials-hexagon-explanation",
+      "bounds": [
+        65,
+        230,
+        1150,
+        250
+      ],
+      "fields": {
+        "label": "条件甲",
+        "body": [
+          "对象在指定条件下产生相应变化，说明材料、方法与观察之间的联系；解释适用范围及证据边界，具体结论须由调用方本次输入支持。",
+          "对象在指定条件下产生相应变化，说明材料、方法与观察之间的联系；解释适用范围及证据边界，具体结论须由调用方本次输入支持。"
+        ]
+      },
+      "textOptions": {
+        "label": {
+          "font": 20,
+          "color": "FFFFFF",
+          "bold": true,
+          "align": "ctr",
+          "vAlign": "ctr",
+          "leading": 100
+        },
+        "body": {
+          "font": 19,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 110,
+          "box": [
+            285,
+            230,
+            905,
+            157.01
+          ],
+          "paragraphAfter": 10,
+          "bold": false
+        }
+      },
+      "objectBoxes": {
+        "49": [
+          65,
+          240,
+          165,
+          148
+        ],
+        "52": [
+          285,
+          230,
+          905,
+          157.01
+        ]
+      },
+      "id": "materials-hexagon-explanation-capacity.op2"
+    },
+    {
+      "typeId": "materials-caption",
+      "bounds": [
+        60,
+        665,
+        1160,
+        42
+      ],
+      "fields": {
+        "body": "materials-hexagon-explanation | materials/【蓝色系】青年申请长江ppt模板.pptx | 原页 35 | 中性示例，非科研结论"
+      },
+      "textOptions": {
+        "body": {
+          "font": 11,
+          "color": "284461",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 100,
+          "box": [
+            60,
+            665,
+            1160,
+            42
+          ],
+          "bold": false
+        }
+      },
+      "objectBoxes": {},
+      "id": "materials-hexagon-explanation-capacity.op3"
+    }
+  ],
+  "notes": [
+    "中性原生组件测试，不包含样本原文、Logo或科研结论。",
+    "源组件：materials/【蓝色系】青年申请长江ppt模板.pptx，实际页码35，对象49,52"
+  ]
+}

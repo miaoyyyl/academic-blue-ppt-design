@@ -1,0 +1,81 @@
+{
+  "sourcePage": 37,
+  "sourceObjectIds": [
+    "91"
+  ],
+  "sourceBoundsEmu": [
+    8498205,
+    1550670,
+    349885,
+    5084445
+  ],
+  "slots": {},
+  "objects": [
+    {
+      "sourceId": "91",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"91\" name=\"左大括号 90\"/><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"8498205\" y=\"1550670\"/><a:ext cx=\"349885\" cy=\"5084445\"/></a:xfrm><a:prstGeom prst=\"leftBrace\"><a:avLst><a:gd name=\"adj1\" fmla=\"val 145629\"/><a:gd name=\"adj2\" fmla=\"val 50000\"/></a:avLst></a:prstGeom><a:ln w=\"63500\" cap=\"rnd\"><a:solidFill><a:srgbClr val=\"026CD4\"/></a:solidFill><a:round/></a:ln></p:spPr><p:style><a:lnRef idx=\"1\"><a:srgbClr val=\"026CD4\"/></a:lnRef><a:fillRef idx=\"0\"><a:srgbClr val=\"026CD4\"/></a:fillRef><a:effectRef idx=\"0\"><a:srgbClr val=\"026CD4\"/></a:effectRef><a:fontRef idx=\"minor\"><a:srgbClr val=\"000000\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"zh-CN\" altLang=\"en-US\"><a:latin typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/><a:cs typeface=\"+mn-ea\"/><a:sym typeface=\"汉仪旗黑-55简\" panose=\"00020600040101010101\" pitchFamily=\"18\" charset=\"-122\"/></a:endParaRPr></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "93555b663065f1d60c96e240e9f9d8dd3caa6e7aea0c01c26994881cfdf904dc",
+      "sourceBoundsEmu": [
+        8498205,
+        1550670,
+        349885,
+        5084445
+      ]
+    }
+  ],
+  "typeId": "materials-brace-group",
+  "label": "大括号汇总分组",
+  "relation": "hierarchy",
+  "sourceFile": "materials/【蓝色系】青年申请长江ppt模板.pptx",
+  "sourceFileSha256": "9d5edd1d24b67290fc7b791591ef9ee5621f803ee36ad5b7c72f9a96218b4ee6",
+  "sourceSlidePart": "ppt/slides/slide37.xml",
+  "nativeOnly": true,
+  "noGeometryFallback": true,
+  "repeatable": true,
+  "itemCount": 1,
+  "visualTreatment": "group-brace",
+  "contentTasks": [
+    "group-summary",
+    "classification-summary"
+  ],
+  "markerRole": null,
+  "defaultTextOptions": {},
+  "bulletSource": null,
+  "coordinateFixture": true,
+  "themeResolution": {
+    "policy": "resolve source scheme colors to source RGB; preserve alpha/luminance/gradient stops",
+    "themePart": "ppt/theme/theme2.xml",
+    "mappings": [
+      {
+        "scheme": "accent1",
+        "mapped": "accent1",
+        "rgb": "026CD4"
+      },
+      {
+        "scheme": "accent1",
+        "mapped": "accent1",
+        "rgb": "026CD4"
+      },
+      {
+        "scheme": "accent1",
+        "mapped": "accent1",
+        "rgb": "026CD4"
+      },
+      {
+        "scheme": "accent1",
+        "mapped": "accent1",
+        "rgb": "026CD4"
+      },
+      {
+        "scheme": "tx1",
+        "mapped": "dk1",
+        "rgb": "000000"
+      }
+    ]
+  },
+  "capacityPolicy": "Keep assigned pt size; validate actual PowerPoint fit. Use content height, reorganize or split; never shrink or truncate.",
+  "semanticConstraints": [
+    "Symbols identify list roles; unordered items must not be represented as temporal or causal arrows.",
+    "Text is supplied by the current task; source scientific text and identities are not runtime defaults."
+  ]
+}

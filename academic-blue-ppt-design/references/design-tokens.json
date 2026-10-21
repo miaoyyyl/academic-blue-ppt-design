@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "slide": {
+    "aspectRatio": "16:9",
+    "widthIn": 13.333,
+    "heightIn": 7.5,
+    "safeMarginIn": 0.5,
+    "gridColumns": 12,
+    "gutterIn": { "min": 0.18, "max": 0.25 },
+    "titleBandHeightIn": { "min": 0.75, "max": 0.83 },
+    "bottomSafeAreaIn": { "min": 0.3, "max": 0.45 }
+  },
+  "colors": {
+    "core": {
+      "navy": "#004088",
+      "primary": "#0B4FA1",
+      "brightBlue": "#0D5CBB",
+      "softBlue": "#E5EDF4",
+      "background": "#FFFFFF",
+      "backgroundSoft": "#F7F9FC",
+      "text": "#111111",
+      "muted": "#666666",
+      "accentRed": "#C00000",
+      "border": "#A9C7E8"
+    },
+    "variants": {
+      "deep-blue": {
+        "primary": "#004088",
+        "secondary": "#1E5B9F",
+        "background": "#F7F9FD",
+        "blueAreaPercent": { "min": 18, "max": 20 },
+        "blueAreaPercentIdentityPages": { "min": 18, "max": 25 }
+      },
+      "institutional-blue": {
+        "primary": "#0B4FA1",
+        "secondary": "#0D5CBB",
+        "background": "#F7F9FC",
+        "blueAreaPercent": { "min": 12, "max": 20 }
+      },
+      "evidence-white": {
+        "primary": "#0C56AE",
+        "secondary": "#E5EDF4",
+        "background": "#FFFFFF",
+        "blueAreaPercent": { "min": 8, "max": 16 }
+      }
+    },
+    "areaRules": {
+      "whiteAndLightPercent": { "min": 70, "max": 85 },
+      "redPercentNormalMax": 1,
+      "redPercentRiskMax": 3
+    }
+  },
+  "typography": {
+    "chinese": {
+      "preferred": "Source Han Sans CN",
+      "fallback": "Microsoft YaHei",
+      "optionalFormalCover": "Source Han Serif CN Heavy"
+    },
+    "latinAndData": {
+      "preferred": "DIN Next",
+      "aliases": ["DIN Next LT Pro", "DIN"],
+      "fallback": "Arial"
+    },
+    "sizesPt": {
+      "coverTitle": { "min": 64, "max": 80 },
+      "slideTitle": { "min": 32, "max": 36 },
+      "takeaway": { "min": 22, "max": 24 },
+      "componentTitle": { "min": 20, "max": 24 },
+      "body": { "min": 16, "max": 18 },
+      "technicalTableMinimum": 14,
+      "caption": { "min": 10, "max": 12 },
+      "data": { "min": 28, "max": 42 }
+    }
+  },
+  "density": {
+    "defaultProfile": "balanced-research",
+    "profiles": {
+      "screen-first": { "knowledgeUnitsPerSlide": { "min": 3, "max": 5 } },
+      "balanced-research": { "knowledgeUnitsPerSlide": { "min": 4, "max": 6 } },
+      "course-review": { "knowledgeUnitsPerSlide": { "min": 4, "max": 7 } }
+    },
+    "evidenceUnitsPerSlide": { "min": 3, "max": 7, "usage": "compatibility alias; count effective knowledge units by profile" },
+    "specificityAnchorsMin": 2,
+    "novelUnitsMin": 2,
+    "priorityACoveragePercent": 100,
+    "metaTextShareMax": 0.25,
+    "majorModulesMax": 6,
+    "singleTextBlockOverdenseAboveCharacters": 140,
+    "bodyChineseCharactersNormal": { "min": 0, "max": 500, "usage": "visual risk diagnostic only; not proof of knowledge sufficiency" },
+    "pageOverdenseAboveCharacters": 500,
+    "minSecondsPerKnowledgeUnit": 7,
+    "maxVisibleCharactersPerSecond": 8,
+    "novelUnitsExemptRoles": ["section-navigation", "assessment", "closing"],
+    "imagesNormal": { "allowedMin": 0, "typicalMin": 2, "typicalMax": 4, "strictComparisonMax": 6 }
+  }
+}

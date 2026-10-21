@@ -1,0 +1,56 @@
+{
+  "id": "materials-gradient-connector-standard",
+  "role": "component-test",
+  "title": "原生渐显单向连接线 / standard",
+  "operations": [
+    {
+      "typeId": "materials-frame",
+      "bounds": [
+        0,
+        0,
+        1280,
+        77
+      ],
+      "fields": {
+        "title": "原生渐显单向连接线 / 标准",
+        "number": "05"
+      },
+      "textOptions": {
+        "title": {
+          "font": 27,
+          "bold": true,
+          "color": "FFFFFF",
+          "box": [
+            124,
+            10,
+            1100,
+            57
+          ]
+        },
+        "number": {
+          "font": 23,
+          "color": "0046A4",
+          "align": "ctr",
+          "vAlign": "ctr",
+          "box": [
+            45,
+            13,
+            73,
+            50
+          ]
+        }
+      }
+    },
+    {
+      "typeId": "materials-gradient-connector",
+      "bounds": [
+        120,
+        300,
+        240,
+        1.8214203227841765
+      ],
+      "fields": {}
+    }
+  ],
+  "notes": "中性组件操作示例。没有科学事实、用户身份或原稿图片。容量数值为待 PowerPoint 实渲染核验的候选边界。"
+}

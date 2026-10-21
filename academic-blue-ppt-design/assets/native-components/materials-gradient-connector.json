@@ -1,0 +1,123 @@
+{
+  "sourcePage": 6,
+  "sourceObjectIds": [
+    "19"
+  ],
+  "sourceBoundsEmu": [
+    3803415,
+    4944498,
+    4585169,
+    34798
+  ],
+  "slots": {},
+  "objects": [
+    {
+      "sourceId": "19",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvCxnSpPr><p:cNvPr id=\"19\" name=\"米菲PPT6\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{A7C051DC-43EC-4638-8CC9-11C77BFA6F45}\"/></a:ext></a:extLst></p:cNvPr><p:cNvCxnSpPr><a:cxnSpLocks/></p:cNvCxnSpPr><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"3803415\" y=\"4944498\"/><a:ext cx=\"4585169\" cy=\"34798\"/></a:xfrm><a:prstGeom prst=\"line\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"53975\"><a:gradFill flip=\"none\" rotWithShape=\"1\"><a:gsLst><a:gs pos=\"100000\"><a:schemeClr val=\"accent1\"/></a:gs><a:gs pos=\"0\"><a:schemeClr val=\"accent1\"><a:alpha val=\"0\"/></a:schemeClr></a:gs></a:gsLst><a:lin ang=\"0\" scaled=\"1\"/><a:tileRect/></a:gradFill><a:tailEnd type=\"triangle\"/></a:ln><a:effectLst/></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"50000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style></p:cxnSp>",
+      "geometryStyleSha256": "238877bbf89379eae6a9d3de45812799df433fe731ed620e407327398d883224",
+      "sourceBoundsEmu": [
+        3803415,
+        4944498,
+        4585169,
+        34798
+      ],
+      "sourceXmlSha256": "810cbc40907850725f6a081dcad2e1680fea3e9a57c640a2731009a5e9d29ed4",
+      "sourceVisualSha256": "ec151b6e595c8970829dee9d295d9066431d8f39e4ce47df73e2d45caaed83d0",
+      "neutralVisualSha256": "ec151b6e595c8970829dee9d295d9066431d8f39e4ce47df73e2d45caaed83d0",
+      "allSourceIds": [
+        "19"
+      ]
+    }
+  ],
+  "typeId": "materials-gradient-connector",
+  "relation": "flow",
+  "repeatable": true,
+  "itemCount": 1,
+  "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+  "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+  "nativeOnly": true,
+  "noGeometryFallback": true,
+  "capacityPolicy": "Explicit font and slot bounds; actual PowerPoint fit check is mandatory. Never shrink or truncate.",
+  "label": "原生渐显单向连接线",
+  "semanticRole": "有文稿支持的单向步骤或作用。保留渐变线、原生三角箭头和微小斜率。",
+  "forbiddenUses": [
+    "同层类别间没有机制依据的箭头",
+    "仅用颜色变化表示实测数值"
+  ],
+  "sourceSlidePart": "ppt/slides/slide6.xml",
+  "sourceSlideSha256": "98ef72e27e5713b649fb5b57a4f0d392e27bf8eb19a6320777be810516cd530a",
+  "capacity": {
+    "textSlots": 0,
+    "standardBoxPx": [
+      240,
+      1.82
+    ],
+    "minRecommendedWidthPx": 65
+  },
+  "candidateDeckPages": [
+    6,
+    13,
+    15
+  ],
+  "immutableFields": [
+    "objects[*].xml drawing geometry and style",
+    "group hierarchy and child order",
+    "fill/line/effect/style/adjustment/flip/rotation",
+    "sourceFileSha256",
+    "sourcePage",
+    "sourceObjectIds",
+    "slots values and ancestor IDs",
+    "nativeOnly=true",
+    "noGeometryFallback=true"
+  ],
+  "allowedMutations": [
+    "slot text",
+    "explicit font options",
+    "position and size",
+    "repeat whole component if repeatable=true"
+  ],
+  "assetDependencies": [],
+  "slotProvenance": {},
+  "themeDependencies": [
+    {
+      "sourceObjectId": "19",
+      "scheme": "accent1",
+      "location": "drawing-style",
+      "propertyContext": "direct-drawing-property",
+      "directColorShiftUnderCurrentRoot": false,
+      "sourceRgb": "0046A4",
+      "rootRgb": "0046A4",
+      "sameResolvedColor": true
+    },
+    {
+      "sourceObjectId": "19",
+      "scheme": "accent1",
+      "location": "drawing-style",
+      "propertyContext": "style-reference",
+      "directColorShiftUnderCurrentRoot": false,
+      "sourceRgb": "0046A4",
+      "rootRgb": "0046A4",
+      "sameResolvedColor": true
+    },
+    {
+      "sourceObjectId": "19",
+      "scheme": "lt1",
+      "location": "drawing-style",
+      "propertyContext": "style-reference",
+      "directColorShiftUnderCurrentRoot": false,
+      "sourceRgb": "FFFFFF",
+      "rootRgb": "FFFFFF",
+      "sameResolvedColor": true
+    }
+  ],
+  "groupTransforms": [],
+  "sourceThemeSha256": "988ba204d5ae1d7b1b6f78a660b8d53331686cdc600a75367c065a9cf0c5bd31",
+  "targetRootThemeSha256": "b3c4d5af972226d58ab89269501ab351840cdab07887b29d02439efc2b632c08",
+  "visibleThemeShiftUnderCurrentRoot": false,
+  "bridgeCompatibility": {
+    "usesExistingPrototypeAndRender": true,
+    "requiresBackendChanges": false,
+    "nestedSlotBoxes": "Use group-local coordinates if overriding; avoid absolute slide coordinates.",
+    "zeroHeightChildrenPreserved": "Timeline line remains zero-height in asset XML; current remap rounds to at least 1 EMU when rendered."
+  }
+}

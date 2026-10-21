@@ -1,0 +1,132 @@
+{
+  "id": "human-arrow-outline-list-capacity",
+  "role": "component-test",
+  "title": "有框箭头解释 · 近容量内容",
+  "operations": [
+    {
+      "typeId": "materials-frame",
+      "bounds": [
+        0,
+        0,
+        1280,
+        77
+      ],
+      "fields": {
+        "title": "有框箭头解释 · 近容量内容",
+        "number": "2"
+      },
+      "textOptions": {
+        "title": {
+          "font": 30,
+          "color": "FFFFFF",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 100,
+          "box": [
+            124,
+            10,
+            1100,
+            57
+          ],
+          "bold": true
+        },
+        "number": {
+          "font": 23,
+          "color": "004BAD",
+          "align": "ctr",
+          "vAlign": "ctr",
+          "leading": 100,
+          "box": [
+            45,
+            13,
+            73,
+            50
+          ],
+          "bold": true
+        }
+      },
+      "objectBoxes": {},
+      "id": "human-arrow-outline-list-capacity.op1"
+    },
+    {
+      "typeId": "human-arrow-outline-list",
+      "bounds": [
+        90,
+        192,
+        1100,
+        427.82
+      ],
+      "fields": {
+        "body": [
+          "条件甲：对象在指定条件下产生相应变化，说明材料、方法与观察之间的联系；解释适用范围及证据边界，具体结论须由调用方本次输入支持。",
+          "条件乙：对象在指定条件下产生相应变化，说明材料、方法与观察之间的联系；解释适用范围及证据边界，具体结论须由调用方本次输入支持。",
+          "条件丙：对象在指定条件下产生相应变化，说明材料、方法与观察之间的联系；解释适用范围及证据边界，具体结论须由调用方本次输入支持。",
+          "条件丁：对象在指定条件下产生相应变化，说明材料、方法与观察之间的联系；解释适用范围及证据边界，具体结论须由调用方本次输入支持。",
+          "条件戊：对象在指定条件下产生相应变化，说明材料、方法与观察之间的联系；解释适用范围及证据边界，具体结论须由调用方本次输入支持。"
+        ]
+      },
+      "textOptions": {
+        "body": {
+          "font": 18,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 110,
+          "box": [
+            110,
+            211,
+            1050,
+            390.82
+          ],
+          "paragraphAfter": 12,
+          "labelBold": true,
+          "bullet": "source",
+          "bold": false
+        }
+      },
+      "objectBoxes": {
+        "29": [
+          90,
+          192,
+          1100,
+          427.82
+        ]
+      },
+      "id": "human-arrow-outline-list-capacity.op2"
+    },
+    {
+      "typeId": "materials-caption",
+      "bounds": [
+        60,
+        665,
+        1160,
+        42
+      ],
+      "fields": {
+        "body": "human-arrow-outline-list | by_human/环境修复Cd污染修复.pptx | 原页 3 | 中性示例，非科研结论"
+      },
+      "textOptions": {
+        "body": {
+          "font": 11,
+          "color": "284461",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 100,
+          "box": [
+            60,
+            665,
+            1160,
+            42
+          ],
+          "bold": false
+        }
+      },
+      "objectBoxes": {},
+      "id": "human-arrow-outline-list-capacity.op3"
+    }
+  ],
+  "notes": [
+    "中性原生组件测试，不包含样本原文、Logo或科研结论。",
+    "源组件：by_human/环境修复Cd污染修复.pptx，实际页码3，对象29,22"
+  ]
+}

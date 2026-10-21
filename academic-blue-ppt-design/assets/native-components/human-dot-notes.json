@@ -1,0 +1,73 @@
+{
+  "sourcePage": 7,
+  "sourceObjectIds": [
+    "1029"
+  ],
+  "sourceBoundsEmu": [
+    375112,
+    1185377,
+    5572760,
+    2982362
+  ],
+  "slots": {
+    "body": "1029"
+  },
+  "objects": [
+    {
+      "sourceId": "1029",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"1029\" name=\"文本框 1028\"/><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"375112\" y=\"1185377\"/><a:ext cx=\"5572760\" cy=\"2982362\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\"><a:noAutofit/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL=\"0\" marR=\"0\" lvl=\"0\" indent=\"0\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" fontAlgn=\"auto\" latinLnBrk=\"0\" hangingPunct=\"1\"><a:lnSpc><a:spcPct val=\"150000\"/></a:lnSpc><a:spcBef><a:spcPts val=\"0\"/></a:spcBef><a:spcAft><a:spcPts val=\"0\"/></a:spcAft><a:buClrTx/><a:buSzTx/><a:buFontTx/><a:buNone/><a:tabLst/><a:defRPr/></a:pPr><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"2400\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"0B4FA1\"/></a:solidFill><a:latin typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:endParaRPr lang=\"en-US\" altLang=\"zh-CN\" sz=\"2400\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"0B4FA1\"/></a:solidFill><a:latin typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/></a:endParaRPr></a:p><a:p><a:pPr marL=\"342900\" marR=\"0\" lvl=\"0\" indent=\"-342900\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" fontAlgn=\"auto\" latinLnBrk=\"0\" hangingPunct=\"1\"><a:lnSpc><a:spcPct val=\"150000\"/></a:lnSpc><a:spcBef><a:spcPts val=\"0\"/></a:spcBef><a:spcAft><a:spcPts val=\"0\"/></a:spcAft><a:buClrTx/><a:buSzTx/><a:buFont typeface=\"Arial\" panose=\"020B0604020202020204\" pitchFamily=\"34\" charset=\"0\"/><a:buChar char=\"•\"/><a:tabLst/><a:defRPr/></a:pPr><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:latin typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"C00000\"/></a:solidFill><a:latin typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:latin typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:r><a:rPr lang=\"en-US\" altLang=\"zh-CN\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:latin typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/></a:rPr><a:t/></a:r></a:p><a:p><a:pPr marL=\"342900\" marR=\"0\" lvl=\"0\" indent=\"-342900\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" fontAlgn=\"auto\" latinLnBrk=\"0\" hangingPunct=\"1\"><a:lnSpc><a:spcPct val=\"150000\"/></a:lnSpc><a:spcBef><a:spcPts val=\"0\"/></a:spcBef><a:spcAft><a:spcPts val=\"0\"/></a:spcAft><a:buClrTx/><a:buSzTx/><a:buFont typeface=\"Arial\" panose=\"020B0604020202020204\" pitchFamily=\"34\" charset=\"0\"/><a:buChar char=\"•\"/><a:tabLst/><a:defRPr/></a:pPr><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:latin typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"C00000\"/></a:solidFill><a:latin typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:latin typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/></a:rPr><a:t/></a:r></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "b3a8dc5ac034cd2be407cb84f8471fbfb19e5a803739ba25ea56acfb48ff0e41",
+      "sourceBoundsEmu": [
+        375112,
+        1185377,
+        5572760,
+        2982362
+      ]
+    }
+  ],
+  "typeId": "human-dot-notes",
+  "label": "圆点简洁条目",
+  "relation": "unordered",
+  "sourceFile": "by_human/环境修复Cd污染修复.pptx",
+  "sourceFileSha256": "6622622d5d38b85b5e11c68cb21ac8bd259e42477bc66a4d914865834879fd42",
+  "sourceSlidePart": "ppt/slides/slide7.xml",
+  "nativeOnly": true,
+  "noGeometryFallback": true,
+  "repeatable": true,
+  "itemCount": 1,
+  "visualTreatment": "open-list",
+  "contentTasks": [
+    "limitations",
+    "supporting-points",
+    "comparison-notes"
+  ],
+  "markerRole": "dot",
+  "defaultTextOptions": {
+    "body": {
+      "bullet": "source"
+    }
+  },
+  "bulletSource": {
+    "char": "•",
+    "font": {
+      "typeface": "Arial",
+      "panose": "020B0604020202020204",
+      "pitchFamily": "34",
+      "charset": "0"
+    },
+    "marL": "342900",
+    "indent": "-342900",
+    "xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" marL=\"342900\" marR=\"0\" lvl=\"0\" indent=\"-342900\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" fontAlgn=\"auto\" latinLnBrk=\"0\" hangingPunct=\"1\"><a:lnSpc><a:spcPct val=\"150000\"/></a:lnSpc><a:spcBef><a:spcPts val=\"0\"/></a:spcBef><a:spcAft><a:spcPts val=\"0\"/></a:spcAft><a:buClrTx/><a:buSzTx/><a:buFont typeface=\"Arial\" panose=\"020B0604020202020204\" pitchFamily=\"34\" charset=\"0\"/><a:buChar char=\"&#8226;\"/><a:tabLst/><a:defRPr/></a:pPr>"
+  },
+  "coordinateFixture": true,
+  "themeResolution": {
+    "policy": "resolve source scheme colors to source RGB; preserve alpha/luminance/gradient stops",
+    "themePart": "ppt/theme/theme2.xml",
+    "mappings": []
+  },
+  "capacityPolicy": "Keep assigned pt size; validate actual PowerPoint fit. Use content height, reorganize or split; never shrink or truncate.",
+  "semanticConstraints": [
+    "Symbols identify list roles; unordered items must not be represented as temporal or causal arrows.",
+    "Text is supplied by the current task; source scientific text and identities are not runtime defaults."
+  ]
+}

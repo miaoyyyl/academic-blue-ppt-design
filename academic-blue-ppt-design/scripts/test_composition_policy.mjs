@@ -1,0 +1,55 @@
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import path from 'node:path';
+import {auditComposition,recommendComponents} from '../assets/component-selection.mjs';
+import {bankDir,findCases} from '../assets/native-components/api.mjs';
+const checks=[],check=(name,fn)=>{fn();checks.push({name,pass:true});};
+const op=(typeId,fields,bounds=[40,190,560,350],extra={})=>({typeId,fields,bounds,textOptions:{body:{font:17},heading:{font:20}},...extra});
+const page=(operations,extra={})=>({id:'sample',role:'content',title:'条件与证据',operations,...extra});
+// Structural validity does not imply full visual acceptance; see test_visual_policy.
+const audit=p=>{const r=auditComposition({pages:[p]});const issues=r.issues.filter(i=>!r.visual.issues.includes(i));return {...r,issues,pass:!issues.length};};
+const has=(p,code)=>audit(p).issues.some(i=>i.code===code);
+const prose='材料支持的条件、作用与边界需要放在同一解释单元中。';
+const bare=()=>op('materials-text',{body:prose});
+const panel=()=>op('materials-filled-column',{heading:'适用条件',body:prose});
+const capsule=()=>page([
+  op('materials-gradient-tab',{heading:'适用条件'},[40,310,300,44],{id:'h'}),
+  op('materials-text',{body:prose},[40,370,560,120],{id:'b'}),
+],{contentGroups:[{id:'g',task:'condition-groups',relation:'parallel',bounds:[40,310,560,180],anchorId:'h',memberIds:['b']}]});
+check('groups are recommended a blue-white panel rather than a bare list',()=>assert.equal(recommendComponents({task:'conditions',structure:'groups',itemCount:2}).cases[0].typeId,'materials-filled-column'));
+check('short items retain source-native markers and binding instructions',()=>{const r=recommendComponents({task:'conditions',structure:'items',itemCount:3});assert.equal(r.cases[0].typeId,'human-square-notes');assert(r.cases[0].selectionReason.usage.includes('panel'));});
+check('ordinary method explanations have badge and column candidates',()=>assert.deepEqual(recommendComponents({task:'method-groups',itemCount:3}).cases.map(c=>c.typeId),['materials-badge-panel','materials-filled-column']));
+check('a title heading can use a rounded blue-white capsule',()=>assert.equal(recommendComponents({task:'group-heading'}).cases[0].typeId,'materials-gradient-tab'));
+check('component discovery includes ordinary explanation groups',()=>assert(findCases({contentTask:'condition-groups',contentStructure:'groups'}).some(c=>c.typeId==='materials-filled-column')));
+check('numeric spotlight tasks fail at selection',()=>assert(!recommendComponents({task:'metric-spotlight'}).ok));
+check('a genuine titled column passes',()=>assert(audit(page([panel()])).pass));
+check('a genuine badge panel passes',()=>assert(audit(page([op('materials-badge-panel',{heading:'作用机制',body:prose})])).pass));
+check('a bound rounded title and explanation pass',()=>assert(audit(capsule()).pass));
+check('pure text two-column layout fails',()=>assert(has(page([bare(),op('materials-text',{body:prose},[650,190,560,350])]),'PURE_TEXT_BODY_FORBIDDEN')));
+check('bare source-native symbols are still a text-only layout',()=>assert(has(page([op('human-square-notes',{body:[prose,prose]})]),'PURE_TEXT_BODY_FORBIDDEN')));
+check('a common thesis cannot structure loose body text',()=>assert(has(page([op('human-gradient-statement',{body:'共同判断'},[40,98,1200,62]),bare()]),'PURE_TEXT_BODY_FORBIDDEN')));
+check('a tiny image cannot rescue a text-only layout',()=>assert(has(page([bare(),op('materials-paper-image',{},[900,600,20,20],{assetId:'small'})]),'PURE_TEXT_BODY_FORBIDDEN')));
+check('a large unrelated image cannot rescue loose text either',()=>assert(has(page([bare(),op('materials-paper-image',{},[650,190,560,350],{assetId:'large'})]),'PURE_TEXT_BODY_FORBIDDEN')));
+check('a loose heading capsule cannot rescue body text',()=>{const p=capsule();delete p.contentGroups;assert(has(p,'PURE_TEXT_BODY_FORBIDDEN'));});
+check('a declared group needs real bound member IDs',()=>{const p=capsule();p.contentGroups[0].memberIds=['missing'];assert(has(p,'INVALID_CONTENT_GROUP'));});
+check('a distant decoration is not a valid heading group',()=>{const p=capsule();p.operations[1].bounds[1]=500;assert(has(p,'INVALID_CONTENT_GROUP'));});
+check('a shrunk blue header is not a structural anchor',()=>{const p=capsule();p.operations[0].objectBoxes={'33':[40,190,1,1]};assert(has(p,'INVALID_CONTENT_GROUP'));});
+check('a title text box cannot sit outside its capsule',()=>{const p=capsule();p.operations[0].textOptions.heading.box=[650,190,300,44];assert(has(p,'INVALID_CONTENT_GROUP'));});
+check('empty native panels do not cover unrelated text',()=>assert(has(page([op('materials-badge-panel',{heading:'',body:''}),bare()]),'PURE_TEXT_BODY_FORBIDDEN')));
+check('a useful small panel does not cover another loose column',()=>assert(has(page([panel(),op('materials-text',{body:prose},[650,190,560,350])]),'UNSTRUCTURED_BODY_TEXT')));
+check('parent panels can contain subordinate explanation',()=>assert(audit(page([op('materials-badge-panel',{heading:'上位概念',body:''},[40,190,560,350]),op('materials-text',{body:prose},[60,270,520,220])])).pass));
+check('normal-size numeric evidence in a panel passes',()=>assert(audit(page([op('materials-filled-column',{heading:'证据及范围',body:'监测值为12.5%，仅代表本次样点，不能外推。'})])).pass));
+check('large numeric body text fails inside a real panel',()=>assert(has(page([op('materials-filled-column',{heading:'证据',body:'12.5%'},undefined,{textOptions:{body:{font:46}}})]),'NUMERIC_SPOTLIGHT_FORBIDDEN')));
+check('fullwidth values and Chinese large quantities are detected',()=>{for(const value of ['１２．５％','三千万公顷'])assert(has(page([op('materials-filled-column',{heading:'证据',body:value},undefined,{textOptions:{body:{font:36}}})]),'NUMERIC_SPOTLIGHT_FORBIDDEN'));});
+check('numeric dates cannot become a spotlight layout',()=>assert(has(page([op('materials-timeline-three',{date0:'1978',body0:prose},undefined,{textOptions:{date0:{font:44},body0:{font:17}}})]),'NUMERIC_SPOTLIGHT_FORBIDDEN')));
+check('normal-size sourced timeline dates remain valid',()=>assert(audit(page([op('materials-timeline-three',{date0:'1978',body0:prose},undefined,{textOptions:{date0:{font:21},body0:{font:17}}})],{relation:'temporal',sourceIds:['s1'],compositionOptions:{relationEvidence:{kind:'temporal',sourceIds:['s1']}}})).pass));
+check('unknown inherited numeric font cannot pass unchecked',()=>assert(has(page([op('materials-filled-column',{heading:'证据',body:'12.5%'},undefined,{textOptions:{}})]),'NUMERIC_FONT_UNRESOLVED')));
+check('declared key-claim task cannot hide arbitrary text',()=>assert(has(page([op('materials-text',{body:prose},undefined,{componentTask:'key-claim'})]),'PURE_TEXT_BODY_FORBIDDEN')));
+check('legacy version and rationale cannot waive prohibitions',()=>{const p=page([bare()],{compositionRationale:'这是精简风格，使用文字。'});assert(!auditComposition({layoutPolicy:{componentSelectionVersion:1},pages:[p]}).pass);});
+check('fabricated actual-evidence fields are ignored in a plan',()=>{const o=bare();o._actualFields={body:''};assert(has(page([o]),'PURE_TEXT_BODY_FORBIDDEN'));});
+check('changing content role cannot exclude it',()=>assert(has(page([panel()],{role:'toc'}),'PAGE_ROLE_CONTENT_MISMATCH')));
+check('bibliographic references retain their actual text role',()=>assert(audit(page([bare()],{role:'reference',title:'参考文献'})).pass));
+check('font emphasis in actual runs is checked',()=>{const p=page([panel()]);p.operations[0]._actualFields={heading:'证据',body:'监测值12.5%，只适用于本次样点。'};p.operations[0]._actualTextRuns={body:[{text:'监测值',font:17},{text:'12.5%',font:48},{text:'只适用于本次样点。',font:17}]};assert(auditComposition({pages:[p]},{actualEvidence:true}).issues.some(i=>i.code==='NUMERIC_SPOTLIGHT_FORBIDDEN'));});
+check('renamed layout families do not hide repetition of side labels',()=>{const pages=[1,2,3].map(i=>page([op('human-left-label-band',{label:'背景',body:prose})],{id:'p'+i,layoutFamily:'different-'+i}));assert(auditComposition({pages}).issues.some(i=>i.code==='REPEATED_BODY_TREATMENT'));});
+check('neutral library fixtures stay available without becoming body-layout exceptions',()=>{const fixture=JSON.parse(fs.readFileSync(path.join(bankDir,'examples','materials-text-standard.json'),'utf8'));assert(audit(fixture).pass);fixture.operations.find(o=>o.typeId==='materials-text').fields.body=['把中性案例替换成实际正文后不能用组件测试身份规避检查。'];assert(has(fixture,'PURE_TEXT_BODY_FORBIDDEN'));});
+const report={pass:true,checks};if(process.argv[2])fs.writeFileSync(process.argv[2],JSON.stringify(report,null,2));console.log(JSON.stringify({pass:true,checks:checks.length}));

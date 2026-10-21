@@ -1,0 +1,115 @@
+{
+  "sourcePage": 9,
+  "sourceObjectIds": [
+    "123",
+    "127"
+  ],
+  "sourceBoundsEmu": [
+    3435938,
+    5213981,
+    3429319,
+    520069
+  ],
+  "slots": {
+    "label": "127"
+  },
+  "objects": [
+    {
+      "sourceId": "123",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"123\" name=\"幻云PPT-演示军团1\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{64612A4A-5CA1-4646-B0D7-19981BE2D5E1}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"3435938\" y=\"5213981\"/><a:ext cx=\"3429319\" cy=\"520069\"/></a:xfrm><a:prstGeom prst=\"roundRect\"><a:avLst><a:gd name=\"adj\" fmla=\"val 617\"/></a:avLst></a:prstGeom><a:solidFill><a:srgbClr val=\"FFFFFF\"/></a:solidFill><a:ln w=\"3175\"><a:solidFill><a:srgbClr val=\"0C56AE\"/></a:solidFill></a:ln><a:effectLst/></p:spPr><p:style><a:lnRef idx=\"2\"><a:srgbClr val=\"0C56AE\"><a:shade val=\"50000\"/></a:srgbClr></a:lnRef><a:fillRef idx=\"1\"><a:srgbClr val=\"0C56AE\"/></a:fillRef><a:effectRef idx=\"0\"><a:srgbClr val=\"0C56AE\"/></a:effectRef><a:fontRef idx=\"minor\"><a:srgbClr val=\"FFFFFF\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"en-US\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"E5EDF4\"/></a:solidFill></a:endParaRPr></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "a5320c59f5f7218c3551b127a8ccf5ceceef39b2b980a2b72b1315d5ef73e759",
+      "sourceBoundsEmu": [
+        3435938,
+        5213981,
+        3429319,
+        520069
+      ],
+      "sourceGeometryStyleSha256": "03cacb09472588c2831350e5e40d9303072cfaa95b07ebc8dbeafa268315e802"
+    },
+    {
+      "sourceId": "127",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"127\" name=\"文本框 126\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{E2E11DFA-4135-406C-AEFD-6BBA08F03A16}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"3837545\" y=\"5255814\"/><a:ext cx=\"2626104\" cy=\"436402\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"none\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:pPr><a:lnSpc><a:spcPct val=\"120000\"/></a:lnSpc><a:buClr><a:srgbClr val=\"C00000\"/></a:buClr><a:buSzPct val=\"80000\"/><a:defRPr/></a:pPr><a:r><a:rPr lang=\"en-US\" altLang=\"zh-CN\" sz=\"2000\" kern=\"100\" dirty=\"0\"><a:latin typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"2000\" kern=\"100\" dirty=\"0\"><a:latin typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:r><a:rPr lang=\"en-US\" altLang=\"zh-CN\" sz=\"2000\" kern=\"100\" dirty=\"0\"><a:latin typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"2000\" kern=\"100\" dirty=\"0\"><a:latin typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:endParaRPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"2000\" kern=\"100\" dirty=\"0\"><a:latin typeface=\"思源黑体 CN Medium\" panose=\"020B0600000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Medium\" panose=\"020B0600000000000000\" pitchFamily=\"34\" charset=\"-122\"/></a:endParaRPr></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "0cf2d1c08a049a03c4f13c6ce4cbc0bdb12d1f0fec4cf471adfdeba238cb3d30",
+      "sourceBoundsEmu": [
+        3837545,
+        5255814,
+        2626104,
+        436402
+      ],
+      "sourceGeometryStyleSha256": "0cf2d1c08a049a03c4f13c6ce4cbc0bdb12d1f0fec4cf471adfdeba238cb3d30"
+    }
+  ],
+  "typeId": "materials-compact-label",
+  "label": "白底实线短标签",
+  "relation": "condition",
+  "sourceFile": "materials/4白蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+  "sourceFileSha256": "11ea0401903ddfb9df94e5e2f9955a7f554c81d96a41d280914ac60bfb14fa5e",
+  "sourceSlidePart": "ppt/slides/slide9.xml",
+  "nativeOnly": true,
+  "noGeometryFallback": true,
+  "repeatable": true,
+  "itemCount": 1,
+  "contentTasks": [
+    "material-label"
+  ],
+  "visualTreatment": "outline-keyword",
+  "coordinateFixture": true,
+  "themeResolution": {
+    "themePart": "ppt/theme/theme1.xml",
+    "mapping": {
+      "bg1": "lt1",
+      "tx1": "dk1",
+      "bg2": "lt2",
+      "tx2": "dk2",
+      "accent1": "accent1",
+      "accent2": "accent2",
+      "accent3": "accent3",
+      "accent4": "accent4",
+      "accent5": "accent5",
+      "accent6": "accent6",
+      "hlink": "hlink",
+      "folHlink": "folHlink"
+    },
+    "colors": [
+      {
+        "source": "bg1",
+        "resolved": "FFFFFF"
+      },
+      {
+        "source": "accent6",
+        "resolved": "0C56AE"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0C56AE"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0C56AE"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0C56AE"
+      },
+      {
+        "source": "lt1",
+        "resolved": "FFFFFF"
+      }
+    ],
+    "policy": "Resolve source theme RGB only; retain source geometry, line, gradient and group hierarchy."
+  },
+  "capacityPolicy": "Assigned font, explicit slot boxes and real PowerPoint text checks; reject overflow instead of shrinking.",
+  "semanticConstraints": [
+    "Current task supplies all text. Reference scientific content and figures are never defaults.",
+    "Direction expresses a sourced relationship, not an invented process."
+  ],
+  "defaultTextOptions": {
+    "label": {
+      "font": 18,
+      "bold": true,
+      "align": "ctr",
+      "vAlign": "ctr",
+      "color": "004BAD"
+    }
+  }
+}

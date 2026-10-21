@@ -1,0 +1,19 @@
+{
+  "id": "materials-flow-arrow-capacity",
+  "role": "component-test",
+  "title": "materials-flow-arrow / capacity",
+  "operations": [
+    {
+      "typeId": "materials-flow-arrow",
+      "bounds": [
+        100,
+        260,
+        120,
+        80
+      ],
+      "fields": {},
+      "textOptions": {}
+    }
+  ],
+  "notes": "中性组件检验；没有科学事实与用户身份。"
+}

@@ -1,0 +1,143 @@
+{
+  "sourcePage": 4,
+  "sourceObjectIds": [
+    "90",
+    "91"
+  ],
+  "sourceBoundsEmu": [
+    634808,
+    2893547,
+    1665594,
+    457088
+  ],
+  "slots": {
+    "body": "91"
+  },
+  "objects": [
+    {
+      "sourceId": "90",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"90\" name=\"矩形: 圆角 51\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{1D6F0957-CBE9-4EB2-A9C2-E99AC9D57770}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"634808\" y=\"2893547\"/><a:ext cx=\"1665594\" cy=\"457088\"/></a:xfrm><a:prstGeom prst=\"roundRect\"><a:avLst><a:gd name=\"adj\" fmla=\"val 0\"/></a:avLst></a:prstGeom><a:solidFill><a:sysClr val=\"window\" lastClr=\"FFFFFF\"/></a:solidFill><a:ln w=\"3175\" cap=\"flat\" cmpd=\"sng\" algn=\"ctr\"><a:solidFill><a:schemeClr val=\"accent6\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"800000\"/></a:ln><a:effectLst/></p:spPr><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"1400\" kern=\"0\"><a:latin typeface=\"等线\"/><a:ea typeface=\"等线\" panose=\"02010600030101010101\" pitchFamily=\"2\" charset=\"-122\"/></a:endParaRPr></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "5c83291f2b842a8abff777d14029e874b9b8b381f4a9db452eb7d99c09a83227",
+      "sourceBoundsEmu": [
+        634808,
+        2893547,
+        1665594,
+        457088
+      ],
+      "sourceXmlSha256": "fddcd7f95a93e35f9eeade6870ffad3fc4849a09d24c67745a261aaa13937601",
+      "sourceVisualSha256": "edcc8382d42cc4d7e7446e9e38c0ffd071bc07d6331fd87e1843abeaecc4ca53",
+      "neutralVisualSha256": "edcc8382d42cc4d7e7446e9e38c0ffd071bc07d6331fd87e1843abeaecc4ca53",
+      "allSourceIds": [
+        "90"
+      ]
+    },
+    {
+      "sourceId": "91",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"91\" name=\"文本框 90\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{FCBD2846-6681-41CB-9EE6-57E8C43E2538}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"695475\" y=\"2921203\"/><a:ext cx=\"1569660\" cy=\"401777\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"none\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:pPr algn=\"ctr\"><a:lnSpc><a:spcPct val=\"120000\"/></a:lnSpc></a:pPr><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" dirty=\"0\"><a:latin typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/></a:rPr><a:t></a:t></a:r><a:endParaRPr lang=\"en-US\" altLang=\"zh-CN\" dirty=\"0\"><a:latin typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/></a:endParaRPr></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "0cf2d1c08a049a03c4f13c6ce4cbc0bdb12d1f0fec4cf471adfdeba238cb3d30",
+      "sourceBoundsEmu": [
+        695475,
+        2921203,
+        1569660,
+        401777
+      ],
+      "sourceXmlSha256": "60ed7795fc873d9561fd2a10cc28edd30457510fe100b3c2706cf489b11b42b9",
+      "sourceVisualSha256": "9f28d5fb0025774adcc1521092daf69e121ca4609e4d4f349ce7a5da2a633ca9",
+      "neutralVisualSha256": "9f28d5fb0025774adcc1521092daf69e121ca4609e4d4f349ce7a5da2a633ca9",
+      "allSourceIds": [
+        "91"
+      ]
+    }
+  ],
+  "typeId": "materials-outline-condition",
+  "relation": "condition",
+  "repeatable": true,
+  "itemCount": 1,
+  "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+  "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+  "nativeOnly": true,
+  "noGeometryFallback": true,
+  "capacityPolicy": "Explicit font and slot bounds; actual PowerPoint fit check is mandatory. Never shrink or truncate.",
+  "label": "紧凑白底细蓝框条件节点",
+  "semanticRole": "机制条件、入口或共同维度的短节点，无蓝色标题带。",
+  "forbiddenUses": [
+    "超过两行仍靠缩字容纳",
+    "节点本身暗示未经证实的流程"
+  ],
+  "sourceSlidePart": "ppt/slides/slide4.xml",
+  "sourceSlideSha256": "bd9d5752eaaf3557c665a878a37fa4e0e3161f37308bba2c0c95dcf1aed61029",
+  "capacity": {
+    "bodyCharsStandard": 8,
+    "bodyCharsCapacity": 20,
+    "bodyFontPt": 18,
+    "standardBoxPx": [
+      260,
+      64
+    ]
+  },
+  "candidateDeckPages": [
+    6,
+    13,
+    15
+  ],
+  "immutableFields": [
+    "objects[*].xml drawing geometry and style",
+    "group hierarchy and child order",
+    "fill/line/effect/style/adjustment/flip/rotation",
+    "sourceFileSha256",
+    "sourcePage",
+    "sourceObjectIds",
+    "slots values and ancestor IDs",
+    "nativeOnly=true",
+    "noGeometryFallback=true"
+  ],
+  "allowedMutations": [
+    "slot text",
+    "explicit font options",
+    "position and size",
+    "repeat whole component if repeatable=true"
+  ],
+  "assetDependencies": [],
+  "slotProvenance": {
+    "body": {
+      "sourceObjectId": "91",
+      "ancestorGroupIds": [],
+      "sourceBoundsEmu": [
+        695475,
+        2921203,
+        1569660,
+        401777
+      ],
+      "sourceSlideBoundsEmu": [
+        695475,
+        2921203,
+        1569660,
+        401777
+      ],
+      "coordinateSpace": "slide",
+      "sourceShapeTag": "sp"
+    }
+  },
+  "themeDependencies": [
+    {
+      "sourceObjectId": "90",
+      "scheme": "accent6",
+      "location": "drawing-style",
+      "propertyContext": "direct-drawing-property",
+      "directColorShiftUnderCurrentRoot": false,
+      "sourceRgb": "0046A4",
+      "rootRgb": "0046A4",
+      "sameResolvedColor": true
+    }
+  ],
+  "groupTransforms": [],
+  "sourceThemeSha256": "988ba204d5ae1d7b1b6f78a660b8d53331686cdc600a75367c065a9cf0c5bd31",
+  "targetRootThemeSha256": "b3c4d5af972226d58ab89269501ab351840cdab07887b29d02439efc2b632c08",
+  "visibleThemeShiftUnderCurrentRoot": false,
+  "bridgeCompatibility": {
+    "usesExistingPrototypeAndRender": true,
+    "requiresBackendChanges": false,
+    "nestedSlotBoxes": "Use group-local coordinates if overriding; avoid absolute slide coordinates.",
+    "zeroHeightChildrenPreserved": "Timeline line remains zero-height in asset XML; current remap rounds to at least 1 EMU when rendered."
+  }
+}

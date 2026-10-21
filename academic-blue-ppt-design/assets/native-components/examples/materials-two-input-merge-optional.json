@@ -1,0 +1,86 @@
+{
+  "id": "materials-two-input-merge-optional",
+  "role": "component-test",
+  "title": "两条件汇入同一结果的原生组合 / optional",
+  "operations": [
+    {
+      "typeId": "materials-frame",
+      "bounds": [
+        0,
+        0,
+        1280,
+        77
+      ],
+      "fields": {
+        "title": "两条件汇入同一结果的原生组合 / 简短变化",
+        "number": "04"
+      },
+      "textOptions": {
+        "title": {
+          "font": 27,
+          "bold": true,
+          "color": "FFFFFF",
+          "box": [
+            124,
+            10,
+            1100,
+            57
+          ]
+        },
+        "number": {
+          "font": 23,
+          "color": "0046A4",
+          "align": "ctr",
+          "vAlign": "ctr",
+          "box": [
+            45,
+            13,
+            73,
+            50
+          ]
+        }
+      }
+    },
+    {
+      "typeId": "materials-two-input-merge",
+      "bounds": [
+        200.0,
+        245,
+        880,
+        219.69851574845111
+      ],
+      "fields": {
+        "input0": "条件甲",
+        "input1": "条件乙",
+        "result": "结果甲"
+      },
+      "textOptions": {
+        "input0": {
+          "font": 18,
+          "bold": true,
+          "color": "162B40",
+          "align": "ctr",
+          "vAlign": "ctr",
+          "leading": 105
+        },
+        "input1": {
+          "font": 18,
+          "bold": true,
+          "color": "162B40",
+          "align": "ctr",
+          "vAlign": "ctr",
+          "leading": 105
+        },
+        "result": {
+          "font": 18,
+          "bold": true,
+          "color": "162B40",
+          "align": "ctr",
+          "vAlign": "ctr",
+          "leading": 105
+        }
+      }
+    }
+  ],
+  "notes": "中性组件操作示例。没有科学事实、用户身份或原稿图片。容量数值为待 PowerPoint 实渲染核验的候选边界。"
+}

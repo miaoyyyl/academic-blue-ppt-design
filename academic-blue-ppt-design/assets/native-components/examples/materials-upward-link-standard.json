@@ -1,0 +1,21 @@
+{
+  "id": "materials-upward-link-standard",
+  "role": "component-test",
+  "title": "由下向上机理连接件",
+  "operations": [
+    {
+      "id": "materials-upward-link-standard",
+      "typeId": "materials-upward-link",
+      "bounds": [
+        290,
+        260,
+        65,
+        38
+      ],
+      "fields": {},
+      "textOptions": {},
+      "objectBoxes": {}
+    }
+  ],
+  "notes": "中性原生组件示例"
+}

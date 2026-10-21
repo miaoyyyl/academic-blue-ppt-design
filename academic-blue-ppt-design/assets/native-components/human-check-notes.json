@@ -1,0 +1,73 @@
+{
+  "sourcePage": 3,
+  "sourceObjectIds": [
+    "56"
+  ],
+  "sourceBoundsEmu": [
+    1570383,
+    2676937,
+    4256316,
+    1844800
+  ],
+  "slots": {
+    "body": "56"
+  },
+  "objects": [
+    {
+      "sourceId": "56",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"56\" name=\"文本框 55\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{020EED4E-20C9-0A83-DFA9-9B1AE89526FE}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"1570383\" y=\"2676937\"/><a:ext cx=\"4256316\" cy=\"1844800\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL=\"0\" marR=\"0\" lvl=\"1\" indent=\"-285750\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" fontAlgn=\"auto\" latinLnBrk=\"0\" hangingPunct=\"1\"><a:lnSpc><a:spcPct val=\"120000\"/></a:lnSpc><a:spcBef><a:spcPts val=\"0\"/></a:spcBef><a:spcAft><a:spcPts val=\"0\"/></a:spcAft><a:buClrTx/><a:buSzTx/><a:buFont typeface=\"Wingdings\" panose=\"05000000000000000000\" pitchFamily=\"2\" charset=\"2\"/><a:buChar char=\"ü\"/><a:tabLst/><a:defRPr/></a:pPr><a:r><a:rPr kumimoji=\"0\" lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" b=\"1\" i=\"0\" u=\"none\" strike=\"noStrike\" kern=\"1200\" cap=\"none\" spc=\"0\" normalizeH=\"0\" baseline=\"0\" noProof=\"0\" dirty=\"0\"><a:ln><a:noFill/></a:ln><a:solidFill><a:prstClr val=\"black\"/></a:solidFill><a:effectLst/><a:uLnTx/><a:uFillTx/><a:latin typeface=\"等线\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"+mn-cs\"/></a:rPr><a:t/></a:r><a:r><a:rPr kumimoji=\"0\" lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" b=\"0\" i=\"0\" u=\"none\" strike=\"noStrike\" kern=\"1200\" cap=\"none\" spc=\"0\" normalizeH=\"0\" baseline=\"0\" noProof=\"0\" dirty=\"0\"><a:ln><a:noFill/></a:ln><a:solidFill><a:prstClr val=\"black\"/></a:solidFill><a:effectLst/><a:uLnTx/><a:uFillTx/><a:latin typeface=\"等线\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"+mn-cs\"/></a:rPr><a:t/></a:r></a:p><a:p><a:pPr marL=\"0\" marR=\"0\" lvl=\"1\" indent=\"-285750\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" fontAlgn=\"auto\" latinLnBrk=\"0\" hangingPunct=\"1\"><a:lnSpc><a:spcPct val=\"120000\"/></a:lnSpc><a:spcBef><a:spcPts val=\"0\"/></a:spcBef><a:spcAft><a:spcPts val=\"0\"/></a:spcAft><a:buClrTx/><a:buSzTx/><a:buFont typeface=\"Wingdings\" panose=\"05000000000000000000\" pitchFamily=\"2\" charset=\"2\"/><a:buChar char=\"ü\"/><a:tabLst/><a:defRPr/></a:pPr><a:r><a:rPr kumimoji=\"0\" lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" b=\"1\" i=\"0\" u=\"none\" strike=\"noStrike\" kern=\"1200\" cap=\"none\" spc=\"0\" normalizeH=\"0\" baseline=\"0\" noProof=\"0\" dirty=\"0\"><a:ln><a:noFill/></a:ln><a:solidFill><a:prstClr val=\"black\"/></a:solidFill><a:effectLst/><a:uLnTx/><a:uFillTx/><a:latin typeface=\"等线\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"+mn-cs\"/></a:rPr><a:t/></a:r><a:r><a:rPr kumimoji=\"0\" lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" b=\"0\" i=\"0\" u=\"none\" strike=\"noStrike\" kern=\"1200\" cap=\"none\" spc=\"0\" normalizeH=\"0\" baseline=\"0\" noProof=\"0\" dirty=\"0\"><a:ln><a:noFill/></a:ln><a:solidFill><a:prstClr val=\"black\"/></a:solidFill><a:effectLst/><a:uLnTx/><a:uFillTx/><a:latin typeface=\"等线\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"+mn-cs\"/></a:rPr><a:t/></a:r></a:p><a:p><a:pPr marL=\"0\" marR=\"0\" lvl=\"1\" indent=\"-285750\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" fontAlgn=\"auto\" latinLnBrk=\"0\" hangingPunct=\"1\"><a:lnSpc><a:spcPct val=\"120000\"/></a:lnSpc><a:spcBef><a:spcPts val=\"0\"/></a:spcBef><a:spcAft><a:spcPts val=\"0\"/></a:spcAft><a:buClrTx/><a:buSzTx/><a:buFont typeface=\"Wingdings\" panose=\"05000000000000000000\" pitchFamily=\"2\" charset=\"2\"/><a:buChar char=\"ü\"/><a:tabLst/><a:defRPr/></a:pPr><a:r><a:rPr kumimoji=\"0\" lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" b=\"1\" i=\"0\" u=\"none\" strike=\"noStrike\" kern=\"1200\" cap=\"none\" spc=\"0\" normalizeH=\"0\" baseline=\"0\" noProof=\"0\" dirty=\"0\"><a:ln><a:noFill/></a:ln><a:solidFill><a:prstClr val=\"black\"/></a:solidFill><a:effectLst/><a:uLnTx/><a:uFillTx/><a:latin typeface=\"等线\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"+mn-cs\"/></a:rPr><a:t/></a:r><a:r><a:rPr kumimoji=\"0\" lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" b=\"0\" i=\"0\" u=\"none\" strike=\"noStrike\" kern=\"1200\" cap=\"none\" spc=\"0\" normalizeH=\"0\" baseline=\"0\" noProof=\"0\" dirty=\"0\"><a:ln><a:noFill/></a:ln><a:solidFill><a:prstClr val=\"black\"/></a:solidFill><a:effectLst/><a:uLnTx/><a:uFillTx/><a:latin typeface=\"等线\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"+mn-cs\"/></a:rPr><a:t/></a:r><a:endParaRPr kumimoji=\"0\" lang=\"en-US\" altLang=\"zh-CN\" sz=\"1600\" b=\"0\" i=\"0\" u=\"none\" strike=\"noStrike\" kern=\"1200\" cap=\"none\" spc=\"0\" normalizeH=\"0\" baseline=\"0\" noProof=\"0\" dirty=\"0\"><a:ln><a:noFill/></a:ln><a:solidFill><a:prstClr val=\"black\"/></a:solidFill><a:effectLst/><a:uLnTx/><a:uFillTx/><a:latin typeface=\"等线\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"+mn-cs\"/></a:endParaRPr></a:p><a:p><a:pPr marL=\"0\" marR=\"0\" lvl=\"1\" indent=\"-285750\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" fontAlgn=\"auto\" latinLnBrk=\"0\" hangingPunct=\"1\"><a:lnSpc><a:spcPct val=\"120000\"/></a:lnSpc><a:spcBef><a:spcPts val=\"0\"/></a:spcBef><a:spcAft><a:spcPts val=\"0\"/></a:spcAft><a:buClrTx/><a:buSzTx/><a:buFont typeface=\"Wingdings\" panose=\"05000000000000000000\" pitchFamily=\"2\" charset=\"2\"/><a:buChar char=\"ü\"/><a:tabLst/><a:defRPr/></a:pPr><a:r><a:rPr kumimoji=\"0\" lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" b=\"1\" i=\"0\" u=\"none\" strike=\"noStrike\" kern=\"1200\" cap=\"none\" spc=\"0\" normalizeH=\"0\" baseline=\"0\" noProof=\"0\" dirty=\"0\"><a:ln><a:noFill/></a:ln><a:solidFill><a:prstClr val=\"black\"/></a:solidFill><a:effectLst/><a:uLnTx/><a:uFillTx/><a:latin typeface=\"等线\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"+mn-cs\"/></a:rPr><a:t/></a:r><a:r><a:rPr kumimoji=\"0\" lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" b=\"0\" i=\"0\" u=\"none\" strike=\"noStrike\" kern=\"1200\" cap=\"none\" spc=\"0\" normalizeH=\"0\" baseline=\"0\" noProof=\"0\" dirty=\"0\"><a:ln><a:noFill/></a:ln><a:solidFill><a:prstClr val=\"black\"/></a:solidFill><a:effectLst/><a:uLnTx/><a:uFillTx/><a:latin typeface=\"等线\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"+mn-cs\"/></a:rPr><a:t/></a:r></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "0cf2d1c08a049a03c4f13c6ce4cbc0bdb12d1f0fec4cf471adfdeba238cb3d30",
+      "sourceBoundsEmu": [
+        1570383,
+        2676937,
+        4256316,
+        1844800
+      ]
+    }
+  ],
+  "typeId": "human-check-notes",
+  "label": "勾选式要点列表",
+  "relation": "unordered",
+  "sourceFile": "by_human/微塑料的生物累积与食物链传递能力研究进展.pptx",
+  "sourceFileSha256": "fc60a7e2b8b597fd12bc4441ec3ccf126870435c25ac1792d6a3edf89668ea27",
+  "sourceSlidePart": "ppt/slides/slide3.xml",
+  "nativeOnly": true,
+  "noGeometryFallback": true,
+  "repeatable": true,
+  "itemCount": 1,
+  "visualTreatment": "open-list",
+  "contentTasks": [
+    "reported-results",
+    "criteria",
+    "confirmed-features"
+  ],
+  "markerRole": "check",
+  "defaultTextOptions": {
+    "body": {
+      "bullet": "source"
+    }
+  },
+  "bulletSource": {
+    "char": "ü",
+    "font": {
+      "typeface": "Wingdings",
+      "panose": "05000000000000000000",
+      "pitchFamily": "2",
+      "charset": "2"
+    },
+    "marL": "0",
+    "indent": "-285750",
+    "xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" marL=\"0\" marR=\"0\" lvl=\"1\" indent=\"-285750\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" fontAlgn=\"auto\" latinLnBrk=\"0\" hangingPunct=\"1\"><a:lnSpc><a:spcPct val=\"120000\"/></a:lnSpc><a:spcBef><a:spcPts val=\"0\"/></a:spcBef><a:spcAft><a:spcPts val=\"0\"/></a:spcAft><a:buClrTx/><a:buSzTx/><a:buFont typeface=\"Wingdings\" panose=\"05000000000000000000\" pitchFamily=\"2\" charset=\"2\"/><a:buChar char=\"&#252;\"/><a:tabLst/><a:defRPr/></a:pPr>"
+  },
+  "coordinateFixture": true,
+  "themeResolution": {
+    "policy": "resolve source scheme colors to source RGB; preserve alpha/luminance/gradient stops",
+    "themePart": "ppt/theme/theme1.xml",
+    "mappings": []
+  },
+  "capacityPolicy": "Keep assigned pt size; validate actual PowerPoint fit. Use content height, reorganize or split; never shrink or truncate.",
+  "semanticConstraints": [
+    "Symbols identify list roles; unordered items must not be represented as temporal or causal arrows.",
+    "Text is supplied by the current task; source scientific text and identities are not runtime defaults."
+  ]
+}

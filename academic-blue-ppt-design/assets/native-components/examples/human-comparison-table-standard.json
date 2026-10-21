@@ -1,0 +1,944 @@
+{
+  "relation": "comparison",
+  "compositionOptions": {
+    "matrixHeaders": [
+      "类别",
+      "主体",
+      "观测值",
+      "时期",
+      "适用条件"
+    ]
+  },
+  "id": "human-comparison-table-standard",
+  "role": "component-test",
+  "chapterId": "neutral",
+  "subsectionId": "matrix-with-evidence",
+  "title": "渠道矩阵与侧图 · 标准内容",
+  "thesis": "条件与对象共同决定解释，关系结构保持一致。",
+  "visibleArgument": "条件与对象共同决定解释，关系结构保持一致。",
+  "sourceIds": [
+    "neutral-0",
+    "neutral-1",
+    "neutral-2",
+    "neutral-3",
+    "neutral-4"
+  ],
+  "modules": [
+    {
+      "id": "unit-0",
+      "heading": "对象甲",
+      "paras": [
+        "主体0",
+        "数值甲",
+        "时期甲",
+        "条件与适用范围"
+      ],
+      "sourceIds": [
+        "neutral-0"
+      ],
+      "visualIntent": "mechanism",
+      "role": "peer"
+    },
+    {
+      "id": "unit-1",
+      "heading": "对象乙",
+      "paras": [
+        "主体1",
+        "数值甲",
+        "时期甲",
+        "条件与适用范围"
+      ],
+      "sourceIds": [
+        "neutral-1"
+      ],
+      "visualIntent": "mechanism",
+      "role": "peer"
+    },
+    {
+      "id": "unit-2",
+      "heading": "对象丙",
+      "paras": [
+        "主体2",
+        "数值甲",
+        "时期甲",
+        "条件与适用范围"
+      ],
+      "sourceIds": [
+        "neutral-2"
+      ],
+      "visualIntent": "mechanism",
+      "role": "peer"
+    },
+    {
+      "id": "unit-3",
+      "heading": "对象丁",
+      "paras": [
+        "主体3",
+        "数值甲",
+        "时期甲",
+        "条件与适用范围"
+      ],
+      "sourceIds": [
+        "neutral-3"
+      ],
+      "visualIntent": "mechanism",
+      "role": "peer"
+    },
+    {
+      "id": "unit-4",
+      "heading": "对象戊",
+      "paras": [
+        "主体4",
+        "数值甲",
+        "时期甲",
+        "条件与适用范围"
+      ],
+      "sourceIds": [
+        "neutral-4"
+      ],
+      "visualIntent": "mechanism",
+      "role": "peer"
+    }
+  ],
+  "supportFigures": [
+    {
+      "id": "neutral-figure",
+      "assetId": "neutral-wide",
+      "dimensions": [
+        1200,
+        650
+      ],
+      "figureType": "mechanism",
+      "figureRole": "supporting-explanation",
+      "claimModuleIds": [
+        "unit-0",
+        "unit-1",
+        "unit-2",
+        "unit-3",
+        "unit-4"
+      ],
+      "readingTargets": [
+        {
+          "name": "中性图像的对象",
+          "task": "recognize",
+          "rect": [
+            0.04,
+            0.04,
+            0.92,
+            0.92
+          ]
+        }
+      ],
+      "captionPolicy": "none",
+      "imageAlign": "center",
+      "operationId": "matrix-with-evidence-standard-f0-image",
+      "imageCrop": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "requestedBounds": [
+        902,
+        177,
+        334,
+        480
+      ],
+      "displayGeometry": {
+        "imageCrop": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "sourceWindow": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "sourcePixelRect": [
+          0,
+          0,
+          1200,
+          650
+        ],
+        "actualBounds": [
+          906,
+          328.7083333333333,
+          326,
+          176.58333333333334
+        ]
+      },
+      "frameOperationId": "matrix-with-evidence-standard-f0-frame",
+      "frameStyle": "dashed",
+      "frameScope": "image",
+      "framePadding": 4
+    }
+  ],
+  "contentGroups": [],
+  "operations": [
+    {
+      "id": "matrix-with-evidence-standard-frame",
+      "typeId": "materials-frame",
+      "bounds": [
+        0,
+        0,
+        1280,
+        77
+      ],
+      "fields": {
+        "title": "渠道矩阵与侧图 · 标准内容",
+        "number": "1.9"
+      },
+      "textOptions": {
+        "title": {
+          "font": 29,
+          "color": "FFFFFF",
+          "bold": true,
+          "box": [
+            124,
+            10,
+            1100,
+            57
+          ]
+        },
+        "number": {
+          "font": 22,
+          "color": "004BAD",
+          "bold": true,
+          "align": "ctr",
+          "vAlign": "ctr",
+          "box": [
+            40,
+            13,
+            80,
+            50
+          ]
+        }
+      }
+    },
+    {
+      "id": "matrix-with-evidence-standard-argument",
+      "typeId": "human-gradient-statement",
+      "bounds": [
+        44,
+        94,
+        1192,
+        64
+      ],
+      "fields": {
+        "body": "条件与对象共同决定解释，关系结构保持一致。"
+      },
+      "textOptions": {
+        "body": {
+          "font": 21,
+          "color": "004BAD",
+          "bold": true,
+          "box": [
+            56,
+            103,
+            1168,
+            48
+          ],
+          "align": "ctr"
+        }
+      }
+    },
+    {
+      "id": "matrix-with-evidence-standard-c0",
+      "typeId": "human-comparison-table",
+      "bounds": [
+        44,
+        177,
+        830,
+        480
+      ],
+      "fields": {
+        "cell0_0": "类别",
+        "cell0_1": "主体",
+        "cell0_2": "观测值",
+        "cell0_3": "时期",
+        "cell0_4": "适用条件",
+        "cell1_0": "对象甲",
+        "cell1_1": "主体0",
+        "cell1_2": "数值甲",
+        "cell1_3": "时期甲",
+        "cell1_4": "条件与适用范围",
+        "cell2_0": "对象乙",
+        "cell2_1": "主体1",
+        "cell2_2": "数值甲",
+        "cell2_3": "时期甲",
+        "cell2_4": "条件与适用范围",
+        "cell3_0": "对象丙",
+        "cell3_1": "主体2",
+        "cell3_2": "数值甲",
+        "cell3_3": "时期甲",
+        "cell3_4": "条件与适用范围",
+        "cell4_0": "对象丁",
+        "cell4_1": "主体3",
+        "cell4_2": "数值甲",
+        "cell4_3": "时期甲",
+        "cell4_4": "条件与适用范围",
+        "cell5_0": "对象戊",
+        "cell5_1": "主体4",
+        "cell5_2": "数值甲",
+        "cell5_3": "时期甲",
+        "cell5_4": "条件与适用范围"
+      },
+      "textOptions": {
+        "cell0_0": {
+          "font": 18,
+          "bold": true,
+          "color": "004BAD",
+          "align": "ctr",
+          "vAlign": "ctr",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell0_1": {
+          "font": 18,
+          "bold": true,
+          "color": "004BAD",
+          "align": "ctr",
+          "vAlign": "ctr",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell0_2": {
+          "font": 18,
+          "bold": true,
+          "color": "004BAD",
+          "align": "ctr",
+          "vAlign": "ctr",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell0_3": {
+          "font": 18,
+          "bold": true,
+          "color": "004BAD",
+          "align": "ctr",
+          "vAlign": "ctr",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell0_4": {
+          "font": 18,
+          "bold": true,
+          "color": "004BAD",
+          "align": "ctr",
+          "vAlign": "ctr",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell1_0": {
+          "font": 17,
+          "bold": false,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell1_1": {
+          "font": 17,
+          "bold": false,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell1_2": {
+          "font": 17,
+          "bold": false,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell1_3": {
+          "font": 17,
+          "bold": false,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell1_4": {
+          "font": 17,
+          "bold": false,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell2_0": {
+          "font": 17,
+          "bold": false,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell2_1": {
+          "font": 17,
+          "bold": false,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell2_2": {
+          "font": 17,
+          "bold": false,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell2_3": {
+          "font": 17,
+          "bold": false,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell2_4": {
+          "font": 17,
+          "bold": false,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell3_0": {
+          "font": 17,
+          "bold": false,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell3_1": {
+          "font": 17,
+          "bold": false,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell3_2": {
+          "font": 17,
+          "bold": false,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell3_3": {
+          "font": 17,
+          "bold": false,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell3_4": {
+          "font": 17,
+          "bold": false,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell4_0": {
+          "font": 17,
+          "bold": false,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell4_1": {
+          "font": 17,
+          "bold": false,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell4_2": {
+          "font": 17,
+          "bold": false,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell4_3": {
+          "font": 17,
+          "bold": false,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell4_4": {
+          "font": 17,
+          "bold": false,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell5_0": {
+          "font": 17,
+          "bold": false,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell5_1": {
+          "font": 17,
+          "bold": false,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell5_2": {
+          "font": 17,
+          "bold": false,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell5_3": {
+          "font": 17,
+          "bold": false,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        },
+        "cell5_4": {
+          "font": 17,
+          "bold": false,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "inset": 7,
+          "leading": 106,
+          "paragraphAfter": 0
+        }
+      },
+      "tableColumnWeights": [
+        1.1,
+        1.1,
+        2.15,
+        1.05,
+        3
+      ],
+      "tableRowWeights": [
+        0.8,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "matrix-with-evidence-standard-f0-frame",
+      "typeId": "materials-figure-frame-dashed",
+      "bounds": [
+        902,
+        324.7083333333333,
+        334,
+        184.58333333333331
+      ],
+      "fields": {},
+      "textOptions": {},
+      "componentTask": "figure-container",
+      "figureFrame": {
+        "style": "dashed",
+        "scope": "image",
+        "padding": 4,
+        "figureIds": [
+          "neutral-figure"
+        ],
+        "reason": "用虚线框定位辅助机理示意，与数据及实物证据区分。"
+      }
+    },
+    {
+      "id": "matrix-with-evidence-standard-f0-image",
+      "typeId": "materials-paper-image",
+      "bounds": [
+        906,
+        328.7083333333333,
+        326,
+        176.58333333333334
+      ],
+      "fields": {},
+      "textOptions": {},
+      "assetId": "neutral-wide",
+      "imageCrop": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "imageAlign": "center"
+    }
+  ],
+  "contentRouting": [
+    {
+      "id": "matrix-with-evidence-standard-thesis",
+      "sourceIds": [
+        "neutral-0"
+      ],
+      "importance": "key",
+      "destination": "body",
+      "target": {
+        "operationId": "matrix-with-evidence-standard-argument",
+        "slot": "body"
+      },
+      "visibleText": "条件与对象共同决定解释，关系结构保持一致。"
+    },
+    {
+      "id": "matrix-with-evidence-standard-c0-0-0",
+      "sourceIds": [
+        "neutral-0"
+      ],
+      "importance": "key",
+      "destination": "body",
+      "target": {
+        "operationId": "matrix-with-evidence-standard-c0",
+        "slot": "cell1_1"
+      },
+      "visibleText": "主体0"
+    },
+    {
+      "id": "matrix-with-evidence-standard-c0-0-1",
+      "sourceIds": [
+        "neutral-0"
+      ],
+      "importance": "key",
+      "destination": "body",
+      "target": {
+        "operationId": "matrix-with-evidence-standard-c0",
+        "slot": "cell1_2"
+      },
+      "visibleText": "数值甲"
+    },
+    {
+      "id": "matrix-with-evidence-standard-c0-0-2",
+      "sourceIds": [
+        "neutral-0"
+      ],
+      "importance": "key",
+      "destination": "body",
+      "target": {
+        "operationId": "matrix-with-evidence-standard-c0",
+        "slot": "cell1_3"
+      },
+      "visibleText": "时期甲"
+    },
+    {
+      "id": "matrix-with-evidence-standard-c0-0-3",
+      "sourceIds": [
+        "neutral-0"
+      ],
+      "importance": "key",
+      "destination": "body",
+      "target": {
+        "operationId": "matrix-with-evidence-standard-c0",
+        "slot": "cell1_4"
+      },
+      "visibleText": "条件与适用范围"
+    },
+    {
+      "id": "matrix-with-evidence-standard-c0-1-0",
+      "sourceIds": [
+        "neutral-1"
+      ],
+      "importance": "key",
+      "destination": "body",
+      "target": {
+        "operationId": "matrix-with-evidence-standard-c0",
+        "slot": "cell2_1"
+      },
+      "visibleText": "主体1"
+    },
+    {
+      "id": "matrix-with-evidence-standard-c0-1-1",
+      "sourceIds": [
+        "neutral-1"
+      ],
+      "importance": "key",
+      "destination": "body",
+      "target": {
+        "operationId": "matrix-with-evidence-standard-c0",
+        "slot": "cell2_2"
+      },
+      "visibleText": "数值甲"
+    },
+    {
+      "id": "matrix-with-evidence-standard-c0-1-2",
+      "sourceIds": [
+        "neutral-1"
+      ],
+      "importance": "key",
+      "destination": "body",
+      "target": {
+        "operationId": "matrix-with-evidence-standard-c0",
+        "slot": "cell2_3"
+      },
+      "visibleText": "时期甲"
+    },
+    {
+      "id": "matrix-with-evidence-standard-c0-1-3",
+      "sourceIds": [
+        "neutral-1"
+      ],
+      "importance": "key",
+      "destination": "body",
+      "target": {
+        "operationId": "matrix-with-evidence-standard-c0",
+        "slot": "cell2_4"
+      },
+      "visibleText": "条件与适用范围"
+    },
+    {
+      "id": "matrix-with-evidence-standard-c0-2-0",
+      "sourceIds": [
+        "neutral-2"
+      ],
+      "importance": "key",
+      "destination": "body",
+      "target": {
+        "operationId": "matrix-with-evidence-standard-c0",
+        "slot": "cell3_1"
+      },
+      "visibleText": "主体2"
+    },
+    {
+      "id": "matrix-with-evidence-standard-c0-2-1",
+      "sourceIds": [
+        "neutral-2"
+      ],
+      "importance": "key",
+      "destination": "body",
+      "target": {
+        "operationId": "matrix-with-evidence-standard-c0",
+        "slot": "cell3_2"
+      },
+      "visibleText": "数值甲"
+    },
+    {
+      "id": "matrix-with-evidence-standard-c0-2-2",
+      "sourceIds": [
+        "neutral-2"
+      ],
+      "importance": "key",
+      "destination": "body",
+      "target": {
+        "operationId": "matrix-with-evidence-standard-c0",
+        "slot": "cell3_3"
+      },
+      "visibleText": "时期甲"
+    },
+    {
+      "id": "matrix-with-evidence-standard-c0-2-3",
+      "sourceIds": [
+        "neutral-2"
+      ],
+      "importance": "key",
+      "destination": "body",
+      "target": {
+        "operationId": "matrix-with-evidence-standard-c0",
+        "slot": "cell3_4"
+      },
+      "visibleText": "条件与适用范围"
+    },
+    {
+      "id": "matrix-with-evidence-standard-c0-3-0",
+      "sourceIds": [
+        "neutral-3"
+      ],
+      "importance": "key",
+      "destination": "body",
+      "target": {
+        "operationId": "matrix-with-evidence-standard-c0",
+        "slot": "cell4_1"
+      },
+      "visibleText": "主体3"
+    },
+    {
+      "id": "matrix-with-evidence-standard-c0-3-1",
+      "sourceIds": [
+        "neutral-3"
+      ],
+      "importance": "key",
+      "destination": "body",
+      "target": {
+        "operationId": "matrix-with-evidence-standard-c0",
+        "slot": "cell4_2"
+      },
+      "visibleText": "数值甲"
+    },
+    {
+      "id": "matrix-with-evidence-standard-c0-3-2",
+      "sourceIds": [
+        "neutral-3"
+      ],
+      "importance": "key",
+      "destination": "body",
+      "target": {
+        "operationId": "matrix-with-evidence-standard-c0",
+        "slot": "cell4_3"
+      },
+      "visibleText": "时期甲"
+    },
+    {
+      "id": "matrix-with-evidence-standard-c0-3-3",
+      "sourceIds": [
+        "neutral-3"
+      ],
+      "importance": "key",
+      "destination": "body",
+      "target": {
+        "operationId": "matrix-with-evidence-standard-c0",
+        "slot": "cell4_4"
+      },
+      "visibleText": "条件与适用范围"
+    },
+    {
+      "id": "matrix-with-evidence-standard-c0-4-0",
+      "sourceIds": [
+        "neutral-4"
+      ],
+      "importance": "key",
+      "destination": "body",
+      "target": {
+        "operationId": "matrix-with-evidence-standard-c0",
+        "slot": "cell5_1"
+      },
+      "visibleText": "主体4"
+    },
+    {
+      "id": "matrix-with-evidence-standard-c0-4-1",
+      "sourceIds": [
+        "neutral-4"
+      ],
+      "importance": "key",
+      "destination": "body",
+      "target": {
+        "operationId": "matrix-with-evidence-standard-c0",
+        "slot": "cell5_2"
+      },
+      "visibleText": "数值甲"
+    },
+    {
+      "id": "matrix-with-evidence-standard-c0-4-2",
+      "sourceIds": [
+        "neutral-4"
+      ],
+      "importance": "key",
+      "destination": "body",
+      "target": {
+        "operationId": "matrix-with-evidence-standard-c0",
+        "slot": "cell5_3"
+      },
+      "visibleText": "时期甲"
+    },
+    {
+      "id": "matrix-with-evidence-standard-c0-4-3",
+      "sourceIds": [
+        "neutral-4"
+      ],
+      "importance": "key",
+      "destination": "body",
+      "target": {
+        "operationId": "matrix-with-evidence-standard-c0",
+        "slot": "cell5_4"
+      },
+      "visibleText": "条件与适用范围"
+    }
+  ],
+  "layoutFamily": "matrix-with-evidence",
+  "compositionSeries": {
+    "id": "matrix-with-evidence",
+    "reason": "同一通用组合的标准、容量与可选内容变化，用于验证结构保持与适配能力。",
+    "pageIds": [
+      "matrix-with-evidence-standard",
+      "matrix-with-evidence-capacity",
+      "matrix-with-evidence-optional"
+    ],
+    "sourceIds": [
+      "neutral-0"
+    ]
+  },
+  "notes": [
+    "中性技术验证素材，不是科研证据。"
+  ],
+  "sectionLabel": "1.9",
+  "chapterNumber": 1,
+  "subsectionNumber": 9
+}

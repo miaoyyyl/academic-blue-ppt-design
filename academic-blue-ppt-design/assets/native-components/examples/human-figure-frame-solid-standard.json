@@ -1,0 +1,19 @@
+{
+  "id": "human-figure-frame-solid-standard",
+  "role": "component-test",
+  "title": "原生图框几何 / standard",
+  "operations": [
+    {
+      "typeId": "human-figure-frame-solid",
+      "bounds": [
+        80,
+        200,
+        600,
+        338
+      ],
+      "fields": {},
+      "textOptions": {}
+    }
+  ],
+  "notes": "中性原生图框几何检查；真实内容图另须有效图框绑定、实际边界和可见描边检查。"
+}

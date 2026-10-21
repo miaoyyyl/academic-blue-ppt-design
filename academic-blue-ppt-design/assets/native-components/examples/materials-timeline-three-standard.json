@@ -1,0 +1,160 @@
+{
+  "id": "materials-timeline-three-standard",
+  "role": "component-test",
+  "title": "三节点细线时间轴 / standard",
+  "operations": [
+    {
+      "typeId": "materials-frame",
+      "bounds": [
+        0,
+        0,
+        1280,
+        77
+      ],
+      "fields": {
+        "title": "三节点细线时间轴 / 标准",
+        "number": "01"
+      },
+      "textOptions": {
+        "title": {
+          "font": 27,
+          "bold": true,
+          "color": "FFFFFF",
+          "box": [
+            124,
+            10,
+            1100,
+            57
+          ]
+        },
+        "number": {
+          "font": 23,
+          "color": "0046A4",
+          "align": "ctr",
+          "vAlign": "ctr",
+          "box": [
+            45,
+            13,
+            73,
+            50
+          ]
+        }
+      }
+    },
+    {
+      "typeId": "materials-timeline-three",
+      "bounds": [
+        70,
+        190,
+        1140,
+        300
+      ],
+      "fields": {
+        "date0": "20XX.01",
+        "body0": "说明对象甲的条件、作用及证据边界，保留与对象乙的区别和适用范。",
+        "date1": "20XX.06",
+        "body1": "说明对象甲的条件、作用及证据边界，保留与对象乙的区别和适用范。",
+        "date2": "20XX.12",
+        "body2": "说明对象甲的条件、作用及证据边界，保留与对象乙的区别和适用范。"
+      },
+      "textOptions": {
+        "date0": {
+          "font": 20,
+          "bold": true,
+          "color": "0046A4",
+          "align": "ctr",
+          "box": [
+            100,
+            220,
+            180,
+            45
+          ]
+        },
+        "body0": {
+          "font": 18,
+          "color": "162B40",
+          "leading": 110,
+          "box": [
+            25,
+            318,
+            330,
+            210
+          ]
+        },
+        "date1": {
+          "font": 20,
+          "bold": true,
+          "color": "0046A4",
+          "align": "ctr",
+          "box": [
+            550,
+            220,
+            180,
+            45
+          ]
+        },
+        "body1": {
+          "font": 18,
+          "color": "162B40",
+          "leading": 110,
+          "box": [
+            475,
+            318,
+            330,
+            210
+          ]
+        },
+        "date2": {
+          "font": 20,
+          "bold": true,
+          "color": "0046A4",
+          "align": "ctr",
+          "box": [
+            1000,
+            220,
+            180,
+            45
+          ]
+        },
+        "body2": {
+          "font": 18,
+          "color": "162B40",
+          "leading": 110,
+          "box": [
+            925,
+            318,
+            330,
+            210
+          ]
+        }
+      },
+      "objectBoxes": {
+        "47": [
+          90,
+          282,
+          1100,
+          0.00010498687664041995
+        ],
+        "48": [
+          183,
+          275,
+          14,
+          14
+        ],
+        "65": [
+          633,
+          275,
+          14,
+          14
+        ],
+        "66": [
+          1083,
+          275,
+          14,
+          14
+        ]
+      }
+    }
+  ],
+  "notes": "中性组件操作示例。没有科学事实、用户身份或原稿图片。容量数值为待 PowerPoint 实渲染核验的候选边界。"
+}

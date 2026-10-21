@@ -1,0 +1,74 @@
+{
+  "sourcePage": 6,
+  "sourceObjectIds": [
+    "80",
+    "81",
+    "91",
+    "106"
+  ],
+  "sourceBoundsEmu": [
+    1170141,
+    4294917,
+    3312806,
+    1308809
+  ],
+  "slots": {
+    "heading": "106",
+    "body": "91"
+  },
+  "objects": [
+    {
+      "sourceId": "80",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"80\" name=\"米菲PPT20\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{B0BF7D8D-D6D1-44AD-BE80-FA50384B46F8}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"1170146\" y=\"4320068\"/><a:ext cx=\"3300107\" cy=\"1283658\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:solidFill><a:schemeClr val=\"bg1\"/></a:solidFill><a:ln w=\"3175\"><a:gradFill flip=\"none\" rotWithShape=\"1\"><a:gsLst><a:gs pos=\"0\"><a:schemeClr val=\"accent1\"><a:alpha val=\"0\"/></a:schemeClr></a:gs><a:gs pos=\"100000\"><a:schemeClr val=\"accent1\"/></a:gs></a:gsLst><a:lin ang=\"16200000\" scaled=\"1\"/><a:tileRect/></a:gradFill></a:ln><a:effectLst><a:outerShdw blurRad=\"419100\" sx=\"101000\" sy=\"101000\" algn=\"ctr\" rotWithShape=\"0\"><a:prstClr val=\"black\"><a:alpha val=\"8000\"/></a:prstClr></a:outerShdw></a:effectLst></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"50000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"zh-CN\" altLang=\"en-US\" dirty=\"0\"/></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "53e8a007589f2a6750925d505165f30cffd09966fbe2d4b3c3f33803d57765c8",
+      "sourceBoundsEmu": [
+        1170146,
+        4320068,
+        3300107,
+        1283658
+      ]
+    },
+    {
+      "sourceId": "81",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"81\" name=\"米菲PPT21\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{4A36165F-162E-476B-B11A-CFBD21A0D5AF}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm flipH=\"1\"><a:off x=\"1170141\" y=\"4294917\"/><a:ext cx=\"3300106\" cy=\"420662\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:gradFill flip=\"none\" rotWithShape=\"1\"><a:gsLst><a:gs pos=\"100000\"><a:schemeClr val=\"accent3\"/></a:gs><a:gs pos=\"1000\"><a:schemeClr val=\"accent3\"><a:lumMod val=\"75000\"/></a:schemeClr></a:gs></a:gsLst><a:lin ang=\"19800000\" scaled=\"0\"/><a:tileRect/></a:gradFill><a:ln w=\"3175\"><a:solidFill><a:schemeClr val=\"accent1\"/></a:solidFill></a:ln><a:effectLst/></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"50000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr wrap=\"square\" lIns=\"98756\" tIns=\"49375\" rIns=\"98756\" bIns=\"49375\" rtlCol=\"0\" anchor=\"ctr\"><a:noAutofit/></a:bodyPr><a:lstStyle/><a:p><a:pPr algn=\"ctr\" defTabSz=\"914400\"/><a:endParaRPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"1200\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FFFFFF\"/></a:solidFill><a:latin typeface=\"MiSans Bold\" panose=\"00000800000000000000\" pitchFamily=\"2\" charset=\"-122\"/><a:ea typeface=\"MiSans Bold\" panose=\"00000800000000000000\" pitchFamily=\"2\" charset=\"-122\"/><a:cs typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/><a:sym typeface=\"MiSans Bold\" panose=\"00000800000000000000\" pitchFamily=\"2\" charset=\"-122\"/></a:endParaRPr></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "17d385ce550c438e0f357effa357e79496118edd87c20aa2ca4c8c3ce964c22b",
+      "sourceBoundsEmu": [
+        1170141,
+        4294917,
+        3300106,
+        420662
+      ]
+    },
+    {
+      "sourceId": "91",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"91\" name=\"米菲PPT31\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{FF74C8BE-0A00-44DE-A3CB-F197889FFAFD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"1357590\" y=\"4777347\"/><a:ext cx=\"3125357\" cy=\"734496\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:pPr><a:lnSpc><a:spcPct val=\"120000\"/></a:lnSpc></a:pPr><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" dirty=\"0\"><a:latin typeface=\"思源黑体 CN Medium\" panose=\"020B0600000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Medium\" panose=\"020B0600000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/><a:sym typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/></a:rPr><a:t></a:t></a:r></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "0cf2d1c08a049a03c4f13c6ce4cbc0bdb12d1f0fec4cf471adfdeba238cb3d30",
+      "sourceBoundsEmu": [
+        1357590,
+        4777347,
+        3125357,
+        734496
+      ]
+    },
+    {
+      "sourceId": "106",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"106\" name=\"米菲PPT38\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{D83FBDCB-E324-4CE5-B352-F98F80FED73E}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"1919947\" y=\"4302171\"/><a:ext cx=\"1800494\" cy=\"401777\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"none\"><a:spAutoFit/></a:bodyPr><a:lstStyle><a:defPPr><a:defRPr lang=\"en-US\"/></a:defPPr><a:lvl1pPr><a:lnSpc><a:spcPct val=\"120000\"/></a:lnSpc><a:defRPr sz=\"1100\"><a:solidFill><a:schemeClr val=\"tx1\"><a:lumMod val=\"65000\"/><a:lumOff val=\"35000\"/></a:schemeClr></a:solidFill><a:latin typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/><a:ea typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/><a:cs typeface=\"MiSans Normal\" panose=\"00000500000000000000\" pitchFamily=\"2\" charset=\"-122\"/></a:defRPr></a:lvl1pPr></a:lstStyle><a:p><a:pPr algn=\"ctr\"/><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"1800\"><a:solidFill><a:schemeClr val=\"bg1\"/></a:solidFill><a:latin typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/></a:rPr><a:t></a:t></a:r><a:endParaRPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"1800\" dirty=\"0\"><a:solidFill><a:schemeClr val=\"bg1\"/></a:solidFill><a:latin typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/></a:endParaRPr></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "0cf2d1c08a049a03c4f13c6ce4cbc0bdb12d1f0fec4cf471adfdeba238cb3d30",
+      "sourceBoundsEmu": [
+        1919947,
+        4302171,
+        1800494,
+        401777
+      ]
+    }
+  ],
+  "typeId": "materials-flow-step",
+  "relation": "flow",
+  "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+  "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+  "nativeOnly": true,
+  "noGeometryFallback": true,
+  "repeatable": true,
+  "itemCount": 1,
+  "capacityPolicy": "Explicit font and slot bounds; actual PowerPoint fit check is mandatory. Never shrink or truncate."
+}

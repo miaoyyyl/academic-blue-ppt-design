@@ -1,0 +1,86 @@
+{
+  "sourcePage": 18,
+  "sourceObjectIds": [
+    "4",
+    "5",
+    "7",
+    "10",
+    "6"
+  ],
+  "sourceBoundsEmu": [
+    0,
+    -3704,
+    12192000,
+    734661
+  ],
+  "slots": {
+    "title": "7",
+    "number": "6"
+  },
+  "objects": [
+    {
+      "sourceId": "4",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"4\" name=\"矩形 3\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{B07EEA5D-9CE5-4578-BDAC-7CE13B2C4742}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"0\" y=\"0\"/><a:ext cx=\"12192000\" cy=\"730957\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:solidFill><a:schemeClr val=\"accent1\"/></a:solidFill><a:ln><a:noFill/></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"50000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"zh-CN\" altLang=\"en-US\"/></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "b4a660dcc05833d5762764cb2ea5d2045c4921df64c258574d3b5b62282f7264",
+      "sourceBoundsEmu": [
+        0,
+        0,
+        12192000,
+        730957
+      ]
+    },
+    {
+      "sourceId": "5",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"5\" name=\"Picture 2\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{9F9E7032-F5E3-4BB8-9DE7-76440C7CB521}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\" noChangeArrowheads=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill rotWithShape=\"1\"><a:blip r:embed=\"BANK_ASSET:30202d710c794c16e8d9bf888844e5bd2d193282b5552cdf89735a1e01f0dbdd.jpeg\"><a:alphaModFix amt=\"10000\"/><a:extLst><a:ext uri=\"{28A0092B-C50C-407E-A947-70E740481C1C}\"><a14:useLocalDpi xmlns:a14=\"http://schemas.microsoft.com/office/drawing/2010/main\" val=\"0\"/></a:ext></a:extLst></a:blip><a:srcRect t=\"40163\" b=\"50699\"/><a:stretch/></p:blipFill><p:spPr bwMode=\"auto\"><a:xfrm><a:off x=\"0\" y=\"-3704\"/><a:ext cx=\"12192000\" cy=\"730956\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/><a:extLst><a:ext uri=\"{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}\"><a14:hiddenFill xmlns:a14=\"http://schemas.microsoft.com/office/drawing/2010/main\"><a:solidFill><a:srgbClr val=\"FFFFFF\"/></a:solidFill></a14:hiddenFill></a:ext></a:extLst></p:spPr></p:pic>",
+      "geometryStyleSha256": "90f5c9720586dea50b2ae31c77b3edf605b98e726f009a11a29e4267dbcb34f6",
+      "sourceBoundsEmu": [
+        0,
+        -3704,
+        12192000,
+        730956
+      ]
+    },
+    {
+      "sourceId": "7",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"7\" name=\"矩形 6\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{71B7E1F8-3E81-4238-9D55-FFADBFE3E980}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"1112103\" y=\"74442\"/><a:ext cx=\"2683812\" cy=\"603242\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:effectLst/></p:spPr><p:txBody><a:bodyPr wrap=\"none\" lIns=\"109728\" tIns=\"54864\" rIns=\"109728\" bIns=\"54864\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL=\"0\" marR=\"0\" lvl=\"0\" indent=\"0\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" fontAlgn=\"auto\" latinLnBrk=\"0\" hangingPunct=\"1\"><a:lnSpc><a:spcPct val=\"100000\"/></a:lnSpc><a:spcBef><a:spcPts val=\"0\"/></a:spcBef><a:buClrTx/><a:buSzTx/><a:buFontTx/><a:buNone/><a:tabLst/><a:defRPr/></a:pPr><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"3200\" b=\"1\" dirty=\"0\"><a:solidFill><a:schemeClr val=\"bg1\"/></a:solidFill><a:latin typeface=\"思源黑体 CN Heavy\" panose=\"020B0A00000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Heavy\" panose=\"020B0A00000000000000\" pitchFamily=\"34\" charset=\"-122\"/></a:rPr><a:t></a:t></a:r><a:endParaRPr kumimoji=\"0\" lang=\"zh-CN\" altLang=\"en-US\" sz=\"3200\" b=\"1\" i=\"0\" u=\"none\" strike=\"noStrike\" kern=\"1200\" cap=\"none\" spc=\"0\" normalizeH=\"0\" baseline=\"0\" noProof=\"0\" dirty=\"0\"><a:ln><a:noFill/></a:ln><a:solidFill><a:schemeClr val=\"bg1\"/></a:solidFill><a:effectLst/><a:uLnTx/><a:uFillTx/><a:latin typeface=\"思源黑体 CN Heavy\" panose=\"020B0A00000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Heavy\" panose=\"020B0A00000000000000\" pitchFamily=\"34\" charset=\"-122\"/></a:endParaRPr></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "10c2d973f224828913a82893638ba02c0c65822790e2679aba64b2f598d62116",
+      "sourceBoundsEmu": [
+        1112103,
+        74442,
+        2683812,
+        603242
+      ]
+    },
+    {
+      "sourceId": "10",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"10\" name=\"椭圆 9\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{199F46A5-32FD-48DB-B4FC-109EB584C9E3}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"503794\" y=\"82374\"/><a:ext cx=\"558800\" cy=\"558800\"/></a:xfrm><a:prstGeom prst=\"ellipse\"><a:avLst/></a:prstGeom><a:solidFill><a:schemeClr val=\"bg1\"/></a:solidFill><a:ln><a:noFill/></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"50000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"zh-CN\" altLang=\"en-US\"/></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "293916a720c87b97e498f60339b605c250a964271fa29f2936d1e644f79812a9",
+      "sourceBoundsEmu": [
+        503794,
+        82374,
+        558800,
+        558800
+      ]
+    },
+    {
+      "sourceId": "6",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"6\" name=\"矩形 5\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{4611B67E-8D1E-4EB4-BD1B-9917CB362D29}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"467210\" y=\"121709\"/><a:ext cx=\"631968\" cy=\"480131\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:effectLst/></p:spPr><p:txBody><a:bodyPr wrap=\"none\" lIns=\"109728\" tIns=\"54864\" rIns=\"109728\" bIns=\"54864\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL=\"0\" marR=\"0\" lvl=\"0\" indent=\"0\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" fontAlgn=\"auto\" latinLnBrk=\"0\" hangingPunct=\"1\"><a:lnSpc><a:spcPct val=\"100000\"/></a:lnSpc><a:spcBef><a:spcPts val=\"0\"/></a:spcBef><a:buClrTx/><a:buSzTx/><a:buFontTx/><a:buNone/><a:tabLst/><a:defRPr/></a:pPr><a:r><a:rPr lang=\"en-US\" altLang=\"zh-CN\" sz=\"2400\" b=\"1\" dirty=\"0\"><a:solidFill><a:schemeClr val=\"accent1\"/></a:solidFill><a:latin typeface=\"Arial Black\" panose=\"020B0A04020102020204\" pitchFamily=\"34\" charset=\"0\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/></a:rPr><a:t></a:t></a:r><a:endParaRPr kumimoji=\"0\" lang=\"zh-CN\" altLang=\"en-US\" sz=\"2400\" b=\"1\" i=\"0\" u=\"none\" strike=\"noStrike\" kern=\"1200\" cap=\"none\" spc=\"0\" normalizeH=\"0\" baseline=\"0\" noProof=\"0\" dirty=\"0\"><a:ln><a:noFill/></a:ln><a:solidFill><a:schemeClr val=\"accent1\"/></a:solidFill><a:effectLst/><a:uLnTx/><a:uFillTx/><a:latin typeface=\"Arial Black\" panose=\"020B0A04020102020204\" pitchFamily=\"34\" charset=\"0\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/></a:endParaRPr></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "10c2d973f224828913a82893638ba02c0c65822790e2679aba64b2f598d62116",
+      "sourceBoundsEmu": [
+        467210,
+        121709,
+        631968,
+        480131
+      ]
+    }
+  ],
+  "typeId": "materials-frame",
+  "relation": "frame",
+  "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+  "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+  "nativeOnly": true,
+  "noGeometryFallback": true,
+  "repeatable": false,
+  "itemCount": 1,
+  "capacityPolicy": "Explicit font and slot bounds; actual PowerPoint fit check is mandatory. Never shrink or truncate."
+}

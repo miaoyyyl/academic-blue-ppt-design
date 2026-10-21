@@ -1,0 +1,26 @@
+{
+  "id": "materials-side-label-optional",
+  "role": "component-test",
+  "title": "materials-side-label / optional",
+  "operations": [
+    {
+      "typeId": "materials-side-label",
+      "bounds": [
+        80,
+        180,
+        60,
+        350
+      ],
+      "fields": {
+        "body": ""
+      },
+      "textOptions": {
+        "body": {
+          "font": 20,
+          "color": "FFFFFF"
+        }
+      }
+    }
+  ],
+  "notes": "中性组件检验；没有科学事实与用户身份。"
+}

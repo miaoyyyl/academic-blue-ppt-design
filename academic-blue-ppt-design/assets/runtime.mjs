@@ -1,0 +1,12 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import { pathToFileURL } from 'node:url';
+import { createRequire } from 'node:module';
+const base=process.env.PPT_ARTIFACT_MODULE_DIR || path.join(process.env.LOCALAPPDATA || path.join(process.env.USERPROFILE,'AppData/Local'),'../../.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/@oai/artifact-tool');
+const candidates=[base,path.join(base,'@oai/artifact-tool'),path.join(process.env.USERPROFILE,'.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/@oai/artifact-tool')];
+const found=candidates.find(p=>fs.existsSync(path.join(p,'dist/artifact_tool.mjs')));
+if(!found)throw new Error('设置 PPT_ARTIFACT_MODULE_DIR 指向本机 @oai/artifact-tool 包目录。');
+const runtime=await import(pathToFileURL(path.join(found,'dist/artifact_tool.mjs')).href);
+export const { Presentation,PresentationFile,FileBlob }=runtime;
+export const ARTIFACT_VERSION=JSON.parse(fs.readFileSync(path.join(found,'package.json'),'utf8')).version;
+export const runtimeDependency=createRequire(path.join(found,'package.json'));

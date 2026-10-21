@@ -1,0 +1,37 @@
+{
+  "sourcePage": 6,
+  "sourceObjectIds": [
+    "103"
+  ],
+  "sourceBoundsEmu": [
+    499701,
+    1863260,
+    486885,
+    2238979
+  ],
+  "slots": {
+    "body": "103"
+  },
+  "objects": [
+    {
+      "sourceId": "103",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"103\" name=\"米菲PPT59\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BBC075A-9C0B-44C6-B21D-CC3552C32A2D}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"499701\" y=\"1863260\"/><a:ext cx=\"486885\" cy=\"2238979\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:solidFill><a:schemeClr val=\"accent1\"/></a:solidFill><a:ln w=\"38100\"><a:noFill/></a:ln><a:effectLst/></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"50000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr wrap=\"square\" lIns=\"98756\" tIns=\"49375\" rIns=\"98756\" bIns=\"49375\" rtlCol=\"0\" anchor=\"ctr\"><a:noAutofit/></a:bodyPr><a:lstStyle/><a:p><a:pPr algn=\"ctr\" defTabSz=\"914400\"/><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"2000\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FFFFFF\"/></a:solidFill><a:latin typeface=\"MiSans Bold\" panose=\"00000800000000000000\" pitchFamily=\"2\" charset=\"-122\"/><a:ea typeface=\"MiSans Bold\" panose=\"00000800000000000000\" pitchFamily=\"2\" charset=\"-122\"/><a:cs typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/></a:rPr><a:t></a:t></a:r></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "67026e2df6fd0b02074630a8c77531cd286ebd080d0fff3ddb2abdac9074d703",
+      "sourceBoundsEmu": [
+        499701,
+        1863260,
+        486885,
+        2238979
+      ]
+    }
+  ],
+  "typeId": "materials-side-label",
+  "relation": "hierarchy",
+  "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+  "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+  "nativeOnly": true,
+  "noGeometryFallback": true,
+  "repeatable": false,
+  "itemCount": 1,
+  "capacityPolicy": "Explicit font and slot bounds; actual PowerPoint fit check is mandatory. Never shrink or truncate."
+}

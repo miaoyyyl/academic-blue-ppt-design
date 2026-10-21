@@ -1,0 +1,127 @@
+{
+  "sourcePage": 6,
+  "sourceObjectIds": [
+    "2"
+  ],
+  "sourceBoundsEmu": [
+    1828800,
+    3271063,
+    3475038,
+    223543
+  ],
+  "slots": {},
+  "objects": [
+    {
+      "sourceId": "2",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:grpSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvGrpSpPr><p:cNvPr id=\"2\" name=\"组合 1\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{8819386F-650C-4560-9097-3390DDC715B1}\"/></a:ext></a:extLst></p:cNvPr><p:cNvGrpSpPr/><p:nvPr/></p:nvGrpSpPr><p:grpSpPr><a:xfrm><a:off x=\"1828800\" y=\"3271063\"/><a:ext cx=\"3475038\" cy=\"223543\"/><a:chOff x=\"2352969\" y=\"3194863\"/><a:chExt cx=\"2021173\" cy=\"223543\"/></a:xfrm></p:grpSpPr><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"95\" name=\"米菲PPT35\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{4F1224BD-3BFF-418D-B51C-59D43B56EEB4}\"/></a:ext></a:extLst></p:cNvPr><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm flipH=\"1\"><a:off x=\"2360613\" y=\"3194863\"/><a:ext cx=\"1\" cy=\"215437\"/></a:xfrm><a:prstGeom prst=\"line\"><a:avLst/></a:prstGeom><a:ln w=\"12700\"><a:solidFill><a:srgbClr val=\"C00000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"1\"><a:srgbClr val=\"0046A4\"/></a:lnRef><a:fillRef idx=\"0\"><a:srgbClr val=\"0046A4\"/></a:fillRef><a:effectRef idx=\"0\"><a:srgbClr val=\"0046A4\"/></a:effectRef><a:fontRef idx=\"minor\"><a:srgbClr val=\"000000\"/></a:fontRef></p:style></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"96\" name=\"米菲PPT36\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{4989F02B-2EA5-400C-A829-415FD4F1673A}\"/></a:ext></a:extLst></p:cNvPr><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm flipH=\"1\"><a:off x=\"2352969\" y=\"3410299\"/><a:ext cx=\"2018735\" cy=\"1\"/></a:xfrm><a:prstGeom prst=\"line\"><a:avLst/></a:prstGeom><a:ln w=\"12700\"><a:solidFill><a:srgbClr val=\"C00000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"1\"><a:srgbClr val=\"0046A4\"/></a:lnRef><a:fillRef idx=\"0\"><a:srgbClr val=\"0046A4\"/></a:fillRef><a:effectRef idx=\"0\"><a:srgbClr val=\"0046A4\"/></a:effectRef><a:fontRef idx=\"minor\"><a:srgbClr val=\"000000\"/></a:fontRef></p:style></p:cxnSp><p:cxnSp><p:nvCxnSpPr><p:cNvPr id=\"97\" name=\"米菲PPT37\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{C249F844-57F7-47F8-AEBA-1AB15D6A8889}\"/></a:ext></a:extLst></p:cNvPr><p:cNvCxnSpPr/><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm flipH=\"1\"><a:off x=\"4374141\" y=\"3202969\"/><a:ext cx=\"1\" cy=\"215437\"/></a:xfrm><a:prstGeom prst=\"line\"><a:avLst/></a:prstGeom><a:ln w=\"12700\"><a:solidFill><a:srgbClr val=\"C00000\"/></a:solidFill><a:headEnd type=\"triangle\"/></a:ln></p:spPr><p:style><a:lnRef idx=\"1\"><a:srgbClr val=\"0046A4\"/></a:lnRef><a:fillRef idx=\"0\"><a:srgbClr val=\"0046A4\"/></a:fillRef><a:effectRef idx=\"0\"><a:srgbClr val=\"0046A4\"/></a:effectRef><a:fontRef idx=\"minor\"><a:srgbClr val=\"000000\"/></a:fontRef></p:style></p:cxnSp></p:grpSp>",
+      "geometryStyleSha256": "815dcd685d8863d8c3a946e9cf6afba2492b1e15846b8784756ceb9ffc5f6d6c",
+      "sourceBoundsEmu": [
+        1828800,
+        3271063,
+        3475038,
+        223543
+      ],
+      "sourceGeometryStyleSha256": "a20a7454731e7d72a40dd520e20f5f1ec624c6ee590afae9223d3ac5de8e1872"
+    }
+  ],
+  "typeId": "materials-feedback-return",
+  "label": "反馈返回连接线",
+  "relation": "feedback",
+  "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+  "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+  "sourceSlidePart": "ppt/slides/slide6.xml",
+  "nativeOnly": true,
+  "noGeometryFallback": true,
+  "repeatable": true,
+  "itemCount": 1,
+  "contentTasks": [
+    "feedback-return"
+  ],
+  "contentStructures": [
+    "connection"
+  ],
+  "visualTreatment": "feedback-path",
+  "coordinateFixture": true,
+  "themeResolution": {
+    "themePart": "ppt/theme/theme1.xml",
+    "mapping": {
+      "bg1": "lt1",
+      "tx1": "dk1",
+      "bg2": "lt2",
+      "tx2": "dk2",
+      "accent1": "accent1",
+      "accent2": "accent2",
+      "accent3": "accent3",
+      "accent4": "accent4",
+      "accent5": "accent5",
+      "accent6": "accent6",
+      "hlink": "hlink",
+      "folHlink": "folHlink"
+    },
+    "colors": [
+      {
+        "source": "accent1",
+        "resolved": "0046A4"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0046A4"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0046A4"
+      },
+      {
+        "source": "tx1",
+        "resolved": "000000"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0046A4"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0046A4"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0046A4"
+      },
+      {
+        "source": "tx1",
+        "resolved": "000000"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0046A4"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0046A4"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0046A4"
+      },
+      {
+        "source": "tx1",
+        "resolved": "000000"
+      }
+    ],
+    "policy": "Resolve source theme colors only; preserve geometry, alpha, lines and effects."
+  },
+  "capacityPolicy": "Use natural text height at assigned font; preserve picture aspect and reading targets. Actual PowerPoint rendering is required.",
+  "semanticConstraints": [
+    "Use a named region with explicit member ids. A region frame cannot substitute for missing evidence or fill a sparse page.",
+    "All runtime text is supplied by the current task; reference scientific content is cleared."
+  ],
+  "edgeContract": {
+    "direction": "feedback",
+    "requires": [
+      "fromId",
+      "toId",
+      "relationEvidence"
+    ],
+    "mustNotInventCausality": true
+  }
+}

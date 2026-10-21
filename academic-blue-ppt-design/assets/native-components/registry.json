@@ -1,0 +1,3820 @@
+[
+  {
+    "sourcePage": 18,
+    "sourceObjectIds": [
+      "4",
+      "5",
+      "7",
+      "10",
+      "6"
+    ],
+    "sourceBoundsEmu": [
+      0,
+      -3704,
+      12192000,
+      734661
+    ],
+    "slots": {
+      "title": "7",
+      "number": "6"
+    },
+    "typeId": "materials-frame",
+    "relation": "frame",
+    "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": false,
+    "itemCount": 1,
+    "capacityPolicy": "Explicit font and slot bounds; actual PowerPoint fit check is mandatory. Never shrink or truncate."
+  },
+  {
+    "sourcePage": 1,
+    "sourceObjectIds": [
+      "8",
+      "60",
+      "31",
+      "37",
+      "32",
+      "5",
+      "1026",
+      "13"
+    ],
+    "sourceBoundsEmu": [
+      0,
+      0,
+      12192000,
+      6858000
+    ],
+    "slots": {
+      "title": "37",
+      "subtitle": "27",
+      "meta": "20"
+    },
+    "typeId": "materials-cover",
+    "relation": "cover",
+    "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": false,
+    "itemCount": 1,
+    "capacityPolicy": "Explicit font and slot bounds; actual PowerPoint fit check is mandatory. Never shrink or truncate."
+  },
+  {
+    "sourcePage": 2,
+    "sourceObjectIds": [
+      "61",
+      "2058",
+      "35",
+      "37",
+      "166",
+      "168",
+      "169",
+      "170",
+      "172",
+      "173",
+      "174",
+      "176",
+      "177",
+      "178",
+      "180",
+      "181",
+      "182",
+      "184",
+      "185",
+      "167",
+      "171",
+      "175",
+      "179",
+      "183"
+    ],
+    "sourceBoundsEmu": [
+      0,
+      0,
+      12192000,
+      6858000
+    ],
+    "slots": {
+      "item0": "168",
+      "item1": "172",
+      "item2": "176",
+      "item3": "180",
+      "item4": "184",
+      "num0": "169",
+      "num1": "173",
+      "num2": "177",
+      "num3": "181",
+      "num4": "185"
+    },
+    "typeId": "materials-navigation",
+    "relation": "section",
+    "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": false,
+    "itemCount": 1,
+    "capacityPolicy": "Explicit font and slot bounds; actual PowerPoint fit check is mandatory. Never shrink or truncate.",
+    "coordinateFixture": true,
+    "omittedSourceObjectIds": [
+      "192",
+      "194"
+    ],
+    "navigationPolicy": {
+      "content": "chapter-titles-only",
+      "alignment": "center",
+      "equalGapPx": 32,
+      "rowHeightPx": 72,
+      "centerY": 360
+    }
+  },
+  {
+    "sourcePage": 18,
+    "sourceObjectIds": [
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "sourceBoundsEmu": [
+      482600,
+      2309273,
+      5491172,
+      1948403
+    ],
+    "slots": {
+      "heading": "15",
+      "body": "16"
+    },
+    "typeId": "materials-badge-panel",
+    "relation": "parallel",
+    "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "capacityPolicy": "Explicit font and slot bounds; actual PowerPoint fit check is mandatory. Never shrink or truncate.",
+    "contentTasks": [
+      "parallel-explanations",
+      "condition-groups",
+      "classification",
+      "conditions",
+      "method-groups",
+      "evidence-groups",
+      "figure-explanation",
+      "quantitative-evidence",
+      "peer-evidence",
+      "text-with-evidence",
+      "background",
+      "definition"
+    ],
+    "contentStructures": [
+      "groups"
+    ]
+  },
+  {
+    "sourcePage": 9,
+    "sourceObjectIds": [
+      "14",
+      "15",
+      "16",
+      "48"
+    ],
+    "sourceBoundsEmu": [
+      489436,
+      1836565,
+      3595859,
+      2221993
+    ],
+    "slots": {
+      "heading": "16",
+      "body": "48"
+    },
+    "typeId": "materials-filled-column",
+    "relation": "parallel",
+    "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "capacityPolicy": "Explicit font and slot bounds; actual PowerPoint fit check is mandatory. Never shrink or truncate.",
+    "contentTasks": [
+      "parallel-explanations",
+      "condition-groups",
+      "classification",
+      "conditions",
+      "method-groups",
+      "evidence-groups",
+      "figure-explanation",
+      "quantitative-evidence",
+      "peer-evidence",
+      "text-with-evidence"
+    ],
+    "contentStructures": [
+      "groups"
+    ]
+  },
+  {
+    "sourcePage": 18,
+    "sourceObjectIds": [
+      "11",
+      "12"
+    ],
+    "sourceBoundsEmu": [
+      479426,
+      959184,
+      11217274,
+      1132717
+    ],
+    "slots": {
+      "body": "12"
+    },
+    "typeId": "materials-statement-band",
+    "relation": "statement",
+    "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": false,
+    "itemCount": 1,
+    "capacityPolicy": "Explicit font and slot bounds; actual PowerPoint fit check is mandatory. Never shrink or truncate."
+  },
+  {
+    "sourcePage": 14,
+    "sourceObjectIds": [
+      "13"
+    ],
+    "sourceBoundsEmu": [
+      643586,
+      3706358,
+      11167414,
+      782971
+    ],
+    "slots": {
+      "body": "13"
+    },
+    "typeId": "materials-text",
+    "relation": "text",
+    "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "capacityPolicy": "Explicit font and slot bounds; actual PowerPoint fit check is mandatory. Never shrink or truncate."
+  },
+  {
+    "sourcePage": 9,
+    "sourceObjectIds": [
+      "45"
+    ],
+    "sourceBoundsEmu": [
+      2464236,
+      5886424,
+      7263528,
+      461665
+    ],
+    "slots": {
+      "body": "45"
+    },
+    "typeId": "materials-caption",
+    "relation": "caption",
+    "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "capacityPolicy": "Explicit font and slot bounds; actual PowerPoint fit check is mandatory. Never shrink or truncate."
+  },
+  {
+    "sourcePage": 6,
+    "sourceObjectIds": [
+      "80",
+      "81",
+      "91",
+      "106"
+    ],
+    "sourceBoundsEmu": [
+      1170141,
+      4294917,
+      3312806,
+      1308809
+    ],
+    "slots": {
+      "heading": "106",
+      "body": "91"
+    },
+    "typeId": "materials-flow-step",
+    "relation": "flow",
+    "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "capacityPolicy": "Explicit font and slot bounds; actual PowerPoint fit check is mandatory. Never shrink or truncate."
+  },
+  {
+    "sourcePage": 6,
+    "sourceObjectIds": [
+      "89"
+    ],
+    "sourceBoundsEmu": [
+      7765134,
+      2501626,
+      316539,
+      353860
+    ],
+    "slots": {},
+    "typeId": "materials-flow-arrow",
+    "relation": "flow",
+    "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "capacityPolicy": "Explicit font and slot bounds; actual PowerPoint fit check is mandatory. Never shrink or truncate."
+  },
+  {
+    "sourcePage": 6,
+    "sourceObjectIds": [
+      "103"
+    ],
+    "sourceBoundsEmu": [
+      499701,
+      1863260,
+      486885,
+      2238979
+    ],
+    "slots": {
+      "body": "103"
+    },
+    "typeId": "materials-side-label",
+    "relation": "hierarchy",
+    "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": false,
+    "itemCount": 1,
+    "capacityPolicy": "Explicit font and slot bounds; actual PowerPoint fit check is mandatory. Never shrink or truncate."
+  },
+  {
+    "sourcePage": 12,
+    "sourceObjectIds": [
+      "4104"
+    ],
+    "sourceBoundsEmu": [
+      6258601,
+      2495337,
+      5318359,
+      3761215
+    ],
+    "slots": {
+      "image": "4104"
+    },
+    "typeId": "materials-paper-image",
+    "relation": "figure",
+    "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "capacityPolicy": "Explicit font and slot bounds; actual PowerPoint fit check is mandatory. Never shrink or truncate."
+  },
+  {
+    "sourcePage": 8,
+    "sourceObjectIds": [
+      "47",
+      "48",
+      "65",
+      "66",
+      "93",
+      "94",
+      "95",
+      "96",
+      "97",
+      "98"
+    ],
+    "sourceBoundsEmu": [
+      479426,
+      3696047,
+      11217274,
+      765573
+    ],
+    "slots": {
+      "date0": "93",
+      "body0": "94",
+      "date1": "95",
+      "body1": "96",
+      "date2": "97",
+      "body2": "98"
+    },
+    "typeId": "materials-timeline-three",
+    "relation": "timeline",
+    "repeatable": false,
+    "itemCount": 3,
+    "sourceFile": "materials/4白蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "11ea0401903ddfb9df94e5e2f9955a7f554c81d96a41d280914ac60bfb14fa5e",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "capacityPolicy": "Explicit font and slot bounds; actual PowerPoint fit check is mandatory. Never shrink or truncate.",
+    "label": "三节点细线时间轴",
+    "semanticRole": "三个按时间排序的事件。每节点为日期、圆点、解释，没有整块底色。",
+    "forbiddenUses": [
+      "并列类别的相互转化",
+      "用位置间距表达未给出的定量时间比例"
+    ],
+    "sourceSlidePart": "ppt/slides/slide8.xml",
+    "sourceSlideSha256": "2d0ea284b07e7ecebccf864c025bae855f48f5f4252842654246f09254596099",
+    "capacity": {
+      "dateChars": 9,
+      "bodyCharsStandard": 40,
+      "bodyCharsCapacity": 70,
+      "bodyFontPt": 18,
+      "perNodeBodyBoxPx": [
+        310,
+        170
+      ]
+    },
+    "candidateDeckPages": [
+      3
+    ],
+    "immutableFields": [
+      "objects[*].xml drawing geometry and style",
+      "group hierarchy and child order",
+      "fill/line/effect/style/adjustment/flip/rotation",
+      "sourceFileSha256",
+      "sourcePage",
+      "sourceObjectIds",
+      "slots values and ancestor IDs",
+      "nativeOnly=true",
+      "noGeometryFallback=true"
+    ],
+    "allowedMutations": [
+      "slot text",
+      "explicit font options",
+      "position and size",
+      "repeat whole component if repeatable=true"
+    ],
+    "assetDependencies": [],
+    "slotProvenance": {
+      "date0": {
+        "sourceObjectId": "93",
+        "ancestorGroupIds": [],
+        "sourceBoundsEmu": [
+          1352168,
+          3696047,
+          937757,
+          326949
+        ],
+        "sourceSlideBoundsEmu": [
+          1352168,
+          3696047,
+          937757,
+          326949
+        ],
+        "coordinateSpace": "slide",
+        "sourceShapeTag": "sp"
+      },
+      "body0": {
+        "sourceObjectId": "94",
+        "ancestorGroupIds": [],
+        "sourceBoundsEmu": [
+          1385029,
+          4135249,
+          872034,
+          326371
+        ],
+        "sourceSlideBoundsEmu": [
+          1385029,
+          4135249,
+          872034,
+          326371
+        ],
+        "coordinateSpace": "slide",
+        "sourceShapeTag": "sp"
+      },
+      "date1": {
+        "sourceObjectId": "95",
+        "ancestorGroupIds": [],
+        "sourceBoundsEmu": [
+          4194851,
+          3696047,
+          937757,
+          326949
+        ],
+        "sourceSlideBoundsEmu": [
+          4194851,
+          3696047,
+          937757,
+          326949
+        ],
+        "coordinateSpace": "slide",
+        "sourceShapeTag": "sp"
+      },
+      "body1": {
+        "sourceObjectId": "96",
+        "ancestorGroupIds": [],
+        "sourceBoundsEmu": [
+          4227713,
+          4135249,
+          872034,
+          326371
+        ],
+        "sourceSlideBoundsEmu": [
+          4227713,
+          4135249,
+          872034,
+          326371
+        ],
+        "coordinateSpace": "slide",
+        "sourceShapeTag": "sp"
+      },
+      "date2": {
+        "sourceObjectId": "97",
+        "ancestorGroupIds": [],
+        "sourceBoundsEmu": [
+          7037534,
+          3696047,
+          937757,
+          326949
+        ],
+        "sourceSlideBoundsEmu": [
+          7037534,
+          3696047,
+          937757,
+          326949
+        ],
+        "coordinateSpace": "slide",
+        "sourceShapeTag": "sp"
+      },
+      "body2": {
+        "sourceObjectId": "98",
+        "ancestorGroupIds": [],
+        "sourceBoundsEmu": [
+          7070395,
+          4135249,
+          872034,
+          326371
+        ],
+        "sourceSlideBoundsEmu": [
+          7070395,
+          4135249,
+          872034,
+          326371
+        ],
+        "coordinateSpace": "slide",
+        "sourceShapeTag": "sp"
+      }
+    },
+    "themeDependencies": [
+      {
+        "sourceObjectId": "47",
+        "scheme": "accent1",
+        "location": "drawing-style",
+        "propertyContext": "style-reference",
+        "directColorShiftUnderCurrentRoot": false,
+        "sourceRgb": "0C56AE",
+        "rootRgb": "0046A4",
+        "sameResolvedColor": false
+      },
+      {
+        "sourceObjectId": "47",
+        "scheme": "tx1",
+        "location": "drawing-style",
+        "propertyContext": "style-reference",
+        "directColorShiftUnderCurrentRoot": false,
+        "sourceRgb": "000000",
+        "rootRgb": "000000",
+        "sameResolvedColor": true
+      },
+      {
+        "sourceObjectId": "48",
+        "scheme": "accent1",
+        "location": "drawing-style",
+        "propertyContext": "style-reference",
+        "directColorShiftUnderCurrentRoot": false,
+        "sourceRgb": "0C56AE",
+        "rootRgb": "0046A4",
+        "sameResolvedColor": false
+      },
+      {
+        "sourceObjectId": "48",
+        "scheme": "lt1",
+        "location": "drawing-style",
+        "propertyContext": "style-reference",
+        "directColorShiftUnderCurrentRoot": false,
+        "sourceRgb": "FFFFFF",
+        "rootRgb": "FFFFFF",
+        "sameResolvedColor": true
+      },
+      {
+        "sourceObjectId": "65",
+        "scheme": "accent1",
+        "location": "drawing-style",
+        "propertyContext": "style-reference",
+        "directColorShiftUnderCurrentRoot": false,
+        "sourceRgb": "0C56AE",
+        "rootRgb": "0046A4",
+        "sameResolvedColor": false
+      },
+      {
+        "sourceObjectId": "65",
+        "scheme": "lt1",
+        "location": "drawing-style",
+        "propertyContext": "style-reference",
+        "directColorShiftUnderCurrentRoot": false,
+        "sourceRgb": "FFFFFF",
+        "rootRgb": "FFFFFF",
+        "sameResolvedColor": true
+      },
+      {
+        "sourceObjectId": "66",
+        "scheme": "accent1",
+        "location": "drawing-style",
+        "propertyContext": "style-reference",
+        "directColorShiftUnderCurrentRoot": false,
+        "sourceRgb": "0C56AE",
+        "rootRgb": "0046A4",
+        "sameResolvedColor": false
+      },
+      {
+        "sourceObjectId": "66",
+        "scheme": "lt1",
+        "location": "drawing-style",
+        "propertyContext": "style-reference",
+        "directColorShiftUnderCurrentRoot": false,
+        "sourceRgb": "FFFFFF",
+        "rootRgb": "FFFFFF",
+        "sameResolvedColor": true
+      }
+    ],
+    "groupTransforms": [],
+    "sourceThemeSha256": "e29761128b2beb58871a4681479fda02b27ce3e9d29bd8eedbff56f741989146",
+    "targetRootThemeSha256": "b3c4d5af972226d58ab89269501ab351840cdab07887b29d02439efc2b632c08",
+    "visibleThemeShiftUnderCurrentRoot": false,
+    "bridgeCompatibility": {
+      "usesExistingPrototypeAndRender": true,
+      "requiresBackendChanges": false,
+      "nestedSlotBoxes": "Use group-local coordinates if overriding; avoid absolute slide coordinates.",
+      "zeroHeightChildrenPreserved": "Timeline line remains zero-height in asset XML; current remap rounds to at least 1 EMU when rendered."
+    }
+  },
+  {
+    "sourcePage": 9,
+    "sourceObjectIds": [
+      "77",
+      "76",
+      "89"
+    ],
+    "sourceBoundsEmu": [
+      4825306,
+      2473444,
+      6820595,
+      1924366
+    ],
+    "slots": {
+      "number": "79",
+      "heading": "76",
+      "body": "89"
+    },
+    "typeId": "materials-circle-numbered-row",
+    "relation": "enumeration",
+    "repeatable": true,
+    "itemCount": 1,
+    "sourceFile": "materials/1深蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "83cdad74701b75d8f4d2527ce1b0138c3ce54574ddc4a4dd47c7c7a04db9afcb",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "capacityPolicy": "Explicit font and slot bounds; actual PowerPoint fit check is mandatory. Never shrink or truncate.",
+    "label": "无底色圆形编号条目",
+    "semanticRole": "同层枚举或共用比较维度的一行。圆形编号只表序号，正文可以写活性及条件。",
+    "forbiddenUses": [
+      "序号代表相互转化关系",
+      "无文稿依据的数值活性排序"
+    ],
+    "sourceSlidePart": "ppt/slides/slide9.xml",
+    "sourceSlideSha256": "7226b065f21fce813431d4c2279421afdd85850200098bcd01c9ccb0e049b561",
+    "capacity": {
+      "numberChars": 2,
+      "headingChars": 10,
+      "bodyCharsStandard": 42,
+      "bodyCharsCapacity": 72,
+      "bodyFontPt": 18,
+      "bodyBoxPx": [
+        830,
+        94
+      ]
+    },
+    "candidateDeckPages": [
+      5,
+      6
+    ],
+    "immutableFields": [
+      "objects[*].xml drawing geometry and style",
+      "group hierarchy and child order",
+      "fill/line/effect/style/adjustment/flip/rotation",
+      "sourceFileSha256",
+      "sourcePage",
+      "sourceObjectIds",
+      "slots values and ancestor IDs",
+      "nativeOnly=true",
+      "noGeometryFallback=true"
+    ],
+    "allowedMutations": [
+      "slot text",
+      "explicit font options",
+      "position and size",
+      "repeat whole component if repeatable=true"
+    ],
+    "assetDependencies": [],
+    "slotProvenance": {
+      "heading": {
+        "sourceObjectId": "76",
+        "ancestorGroupIds": [],
+        "sourceBoundsEmu": [
+          5198529,
+          2473444,
+          6447372,
+          1032462
+        ],
+        "sourceSlideBoundsEmu": [
+          5198529,
+          2473444,
+          6447372,
+          1032462
+        ],
+        "coordinateSpace": "slide",
+        "sourceShapeTag": "sp"
+      },
+      "number": {
+        "sourceObjectId": "79",
+        "ancestorGroupIds": [
+          "77"
+        ],
+        "sourceBoundsEmu": [
+          2465477,
+          1946075,
+          335585,
+          505550
+        ],
+        "sourceSlideBoundsEmu": [
+          4879120,
+          2492615,
+          265594,
+          400110
+        ],
+        "coordinateSpace": "group-local",
+        "sourceShapeTag": "sp"
+      },
+      "body": {
+        "sourceObjectId": "89",
+        "ancestorGroupIds": [],
+        "sourceBoundsEmu": [
+          5198528,
+          3660813,
+          6447371,
+          736997
+        ],
+        "sourceSlideBoundsEmu": [
+          5198528,
+          3660813,
+          6447371,
+          736997
+        ],
+        "coordinateSpace": "slide",
+        "sourceShapeTag": "sp"
+      }
+    },
+    "themeDependencies": [
+      {
+        "sourceObjectId": "76",
+        "scheme": "tx1",
+        "location": "text-style",
+        "propertyContext": "text-style",
+        "directColorShiftUnderCurrentRoot": false,
+        "sourceRgb": "000000",
+        "rootRgb": "000000",
+        "sameResolvedColor": true
+      },
+      {
+        "sourceObjectId": "76",
+        "scheme": "accent6",
+        "location": "text-style",
+        "propertyContext": "text-style",
+        "directColorShiftUnderCurrentRoot": false,
+        "sourceRgb": "0B4FA1",
+        "rootRgb": "0046A4",
+        "sameResolvedColor": false
+      },
+      {
+        "sourceObjectId": "77",
+        "scheme": "accent6",
+        "location": "drawing-style",
+        "propertyContext": "direct-drawing-property",
+        "directColorShiftUnderCurrentRoot": true,
+        "sourceRgb": "0B4FA1",
+        "rootRgb": "0046A4",
+        "sameResolvedColor": false
+      },
+      {
+        "sourceObjectId": "77",
+        "scheme": "bg1",
+        "location": "drawing-style",
+        "propertyContext": "direct-drawing-property",
+        "directColorShiftUnderCurrentRoot": false,
+        "sourceRgb": "FFFFFF",
+        "rootRgb": "FFFFFF",
+        "sameResolvedColor": true
+      },
+      {
+        "sourceObjectId": "77",
+        "scheme": "accent1",
+        "location": "drawing-style",
+        "propertyContext": "style-reference",
+        "directColorShiftUnderCurrentRoot": false,
+        "sourceRgb": "549E39",
+        "rootRgb": "0046A4",
+        "sameResolvedColor": false
+      },
+      {
+        "sourceObjectId": "77",
+        "scheme": "lt1",
+        "location": "drawing-style",
+        "propertyContext": "style-reference",
+        "directColorShiftUnderCurrentRoot": false,
+        "sourceRgb": "FFFFFF",
+        "rootRgb": "FFFFFF",
+        "sameResolvedColor": true
+      },
+      {
+        "sourceObjectId": "77",
+        "scheme": "bg1",
+        "location": "text-style",
+        "propertyContext": "text-style",
+        "directColorShiftUnderCurrentRoot": false,
+        "sourceRgb": "FFFFFF",
+        "rootRgb": "FFFFFF",
+        "sameResolvedColor": true
+      },
+      {
+        "sourceObjectId": "89",
+        "scheme": "tx1",
+        "location": "text-style",
+        "propertyContext": "text-style",
+        "directColorShiftUnderCurrentRoot": false,
+        "sourceRgb": "000000",
+        "rootRgb": "000000",
+        "sameResolvedColor": true
+      },
+      {
+        "sourceObjectId": "89",
+        "scheme": "accent6",
+        "location": "text-style",
+        "propertyContext": "text-style",
+        "directColorShiftUnderCurrentRoot": false,
+        "sourceRgb": "0B4FA1",
+        "rootRgb": "0046A4",
+        "sameResolvedColor": false
+      }
+    ],
+    "groupTransforms": [
+      {
+        "sourceGroupId": "77",
+        "transformAttributes": {},
+        "off": {
+          "x": 4825306,
+          "y": 2492615
+        },
+        "ext": {
+          "cx": 343561,
+          "cy": 400110
+        },
+        "chOff": {
+          "x": 2397481,
+          "y": 1946075
+        },
+        "chExt": {
+          "cx": 434099,
+          "cy": 505550
+        },
+        "sourceScaleX": 0.7914346727359427,
+        "sourceScaleY": 0.7914350707150628
+      }
+    ],
+    "sourceThemeSha256": "5d300941e1b11d352667542549243b99e6c3240ceebacc24462a98b71f75f4ce",
+    "targetRootThemeSha256": "b3c4d5af972226d58ab89269501ab351840cdab07887b29d02439efc2b632c08",
+    "visibleThemeShiftUnderCurrentRoot": true,
+    "bridgeCompatibility": {
+      "usesExistingPrototypeAndRender": true,
+      "requiresBackendChanges": false,
+      "nestedSlotBoxes": "Use group-local coordinates if overriding; avoid absolute slide coordinates.",
+      "zeroHeightChildrenPreserved": "Timeline line remains zero-height in asset XML; current remap rounds to at least 1 EMU when rendered."
+    }
+  },
+  {
+    "sourcePage": 4,
+    "sourceObjectIds": [
+      "90",
+      "91"
+    ],
+    "sourceBoundsEmu": [
+      634808,
+      2893547,
+      1665594,
+      457088
+    ],
+    "slots": {
+      "body": "91"
+    },
+    "typeId": "materials-outline-condition",
+    "relation": "condition",
+    "repeatable": true,
+    "itemCount": 1,
+    "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "capacityPolicy": "Explicit font and slot bounds; actual PowerPoint fit check is mandatory. Never shrink or truncate.",
+    "label": "紧凑白底细蓝框条件节点",
+    "semanticRole": "机制条件、入口或共同维度的短节点，无蓝色标题带。",
+    "forbiddenUses": [
+      "超过两行仍靠缩字容纳",
+      "节点本身暗示未经证实的流程"
+    ],
+    "sourceSlidePart": "ppt/slides/slide4.xml",
+    "sourceSlideSha256": "bd9d5752eaaf3557c665a878a37fa4e0e3161f37308bba2c0c95dcf1aed61029",
+    "capacity": {
+      "bodyCharsStandard": 8,
+      "bodyCharsCapacity": 20,
+      "bodyFontPt": 18,
+      "standardBoxPx": [
+        260,
+        64
+      ]
+    },
+    "candidateDeckPages": [
+      6,
+      13,
+      15
+    ],
+    "immutableFields": [
+      "objects[*].xml drawing geometry and style",
+      "group hierarchy and child order",
+      "fill/line/effect/style/adjustment/flip/rotation",
+      "sourceFileSha256",
+      "sourcePage",
+      "sourceObjectIds",
+      "slots values and ancestor IDs",
+      "nativeOnly=true",
+      "noGeometryFallback=true"
+    ],
+    "allowedMutations": [
+      "slot text",
+      "explicit font options",
+      "position and size",
+      "repeat whole component if repeatable=true"
+    ],
+    "assetDependencies": [],
+    "slotProvenance": {
+      "body": {
+        "sourceObjectId": "91",
+        "ancestorGroupIds": [],
+        "sourceBoundsEmu": [
+          695475,
+          2921203,
+          1569660,
+          401777
+        ],
+        "sourceSlideBoundsEmu": [
+          695475,
+          2921203,
+          1569660,
+          401777
+        ],
+        "coordinateSpace": "slide",
+        "sourceShapeTag": "sp"
+      }
+    },
+    "themeDependencies": [
+      {
+        "sourceObjectId": "90",
+        "scheme": "accent6",
+        "location": "drawing-style",
+        "propertyContext": "direct-drawing-property",
+        "directColorShiftUnderCurrentRoot": false,
+        "sourceRgb": "0046A4",
+        "rootRgb": "0046A4",
+        "sameResolvedColor": true
+      }
+    ],
+    "groupTransforms": [],
+    "sourceThemeSha256": "988ba204d5ae1d7b1b6f78a660b8d53331686cdc600a75367c065a9cf0c5bd31",
+    "targetRootThemeSha256": "b3c4d5af972226d58ab89269501ab351840cdab07887b29d02439efc2b632c08",
+    "visibleThemeShiftUnderCurrentRoot": false,
+    "bridgeCompatibility": {
+      "usesExistingPrototypeAndRender": true,
+      "requiresBackendChanges": false,
+      "nestedSlotBoxes": "Use group-local coordinates if overriding; avoid absolute slide coordinates.",
+      "zeroHeightChildrenPreserved": "Timeline line remains zero-height in asset XML; current remap rounds to at least 1 EMU when rendered."
+    }
+  },
+  {
+    "sourcePage": 6,
+    "sourceObjectIds": [
+      "77"
+    ],
+    "sourceBoundsEmu": [
+      2915698,
+      2085922,
+      4747578,
+      1185268
+    ],
+    "slots": {
+      "input0": "108",
+      "input1": "110",
+      "result": "112"
+    },
+    "typeId": "materials-two-input-merge",
+    "relation": "merge",
+    "repeatable": false,
+    "itemCount": 3,
+    "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "capacityPolicy": "Explicit font and slot bounds; actual PowerPoint fit check is mandatory. Never shrink or truncate.",
+    "label": "两条件汇入同一结果的原生组合",
+    "semanticRole": "两个同层条件各有向下三角，汇入共同结果。保留整组八个原生子对象。",
+    "forbiddenUses": [
+      "把五类同层赋存形态排成链",
+      "把共同结果改成依次发生的第三步骤"
+    ],
+    "sourceSlidePart": "ppt/slides/slide6.xml",
+    "sourceSlideSha256": "98ef72e27e5713b649fb5b57a4f0d392e27bf8eb19a6320777be810516cd530a",
+    "capacity": {
+      "inputCharsStandard": 10,
+      "inputCharsCapacity": 20,
+      "resultCharsStandard": 18,
+      "resultCharsCapacity": 38,
+      "fontPt": 18,
+      "standardBoxPx": [
+        880,
+        220
+      ]
+    },
+    "candidateDeckPages": [
+      6,
+      13,
+      15
+    ],
+    "immutableFields": [
+      "objects[*].xml drawing geometry and style",
+      "group hierarchy and child order",
+      "fill/line/effect/style/adjustment/flip/rotation",
+      "sourceFileSha256",
+      "sourcePage",
+      "sourceObjectIds",
+      "slots values and ancestor IDs",
+      "nativeOnly=true",
+      "noGeometryFallback=true"
+    ],
+    "allowedMutations": [
+      "slot text",
+      "explicit font options",
+      "position and size",
+      "repeat whole component if repeatable=true"
+    ],
+    "assetDependencies": [],
+    "slotProvenance": {
+      "input0": {
+        "sourceObjectId": "108",
+        "ancestorGroupIds": [
+          "77"
+        ],
+        "sourceBoundsEmu": [
+          2990808,
+          2141768,
+          2262158,
+          369332
+        ],
+        "sourceSlideBoundsEmu": [
+          2940008,
+          2141768,
+          2262158,
+          369332
+        ],
+        "coordinateSpace": "group-local",
+        "sourceShapeTag": "sp"
+      },
+      "input1": {
+        "sourceObjectId": "110",
+        "ancestorGroupIds": [
+          "77"
+        ],
+        "sourceBoundsEmu": [
+          5440309,
+          2141768,
+          2262158,
+          369332
+        ],
+        "sourceSlideBoundsEmu": [
+          5389509,
+          2141768,
+          2262158,
+          369332
+        ],
+        "coordinateSpace": "group-local",
+        "sourceShapeTag": "sp"
+      },
+      "result": {
+        "sourceObjectId": "112",
+        "ancestorGroupIds": [
+          "77"
+        ],
+        "sourceBoundsEmu": [
+          3055046,
+          2846012,
+          4570482,
+          369332
+        ],
+        "sourceSlideBoundsEmu": [
+          3004246,
+          2846012,
+          4570482,
+          369332
+        ],
+        "coordinateSpace": "group-local",
+        "sourceShapeTag": "sp"
+      }
+    },
+    "themeDependencies": [
+      {
+        "sourceObjectId": "77",
+        "scheme": "accent1",
+        "location": "drawing-style",
+        "propertyContext": "style-reference",
+        "directColorShiftUnderCurrentRoot": false,
+        "sourceRgb": "0046A4",
+        "rootRgb": "0046A4",
+        "sameResolvedColor": true
+      },
+      {
+        "sourceObjectId": "77",
+        "scheme": "lt1",
+        "location": "drawing-style",
+        "propertyContext": "style-reference",
+        "directColorShiftUnderCurrentRoot": false,
+        "sourceRgb": "FFFFFF",
+        "rootRgb": "FFFFFF",
+        "sameResolvedColor": true
+      },
+      {
+        "sourceObjectId": "77",
+        "scheme": "accent6",
+        "location": "drawing-style",
+        "propertyContext": "direct-drawing-property",
+        "directColorShiftUnderCurrentRoot": false,
+        "sourceRgb": "0046A4",
+        "rootRgb": "0046A4",
+        "sameResolvedColor": true
+      }
+    ],
+    "groupTransforms": [
+      {
+        "sourceGroupId": "77",
+        "transformAttributes": {},
+        "off": {
+          "x": 2915698,
+          "y": 2085922
+        },
+        "ext": {
+          "cx": 4747578,
+          "cy": 1185268
+        },
+        "chOff": {
+          "x": 2966498,
+          "y": 2085922
+        },
+        "chExt": {
+          "cx": 4747578,
+          "cy": 1185268
+        },
+        "sourceScaleX": 1,
+        "sourceScaleY": 1
+      }
+    ],
+    "sourceThemeSha256": "988ba204d5ae1d7b1b6f78a660b8d53331686cdc600a75367c065a9cf0c5bd31",
+    "targetRootThemeSha256": "b3c4d5af972226d58ab89269501ab351840cdab07887b29d02439efc2b632c08",
+    "visibleThemeShiftUnderCurrentRoot": false,
+    "bridgeCompatibility": {
+      "usesExistingPrototypeAndRender": true,
+      "requiresBackendChanges": false,
+      "nestedSlotBoxes": "Use group-local coordinates if overriding; avoid absolute slide coordinates.",
+      "zeroHeightChildrenPreserved": "Timeline line remains zero-height in asset XML; current remap rounds to at least 1 EMU when rendered."
+    }
+  },
+  {
+    "sourcePage": 6,
+    "sourceObjectIds": [
+      "19"
+    ],
+    "sourceBoundsEmu": [
+      3803415,
+      4944498,
+      4585169,
+      34798
+    ],
+    "slots": {},
+    "typeId": "materials-gradient-connector",
+    "relation": "flow",
+    "repeatable": true,
+    "itemCount": 1,
+    "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "capacityPolicy": "Explicit font and slot bounds; actual PowerPoint fit check is mandatory. Never shrink or truncate.",
+    "label": "原生渐显单向连接线",
+    "semanticRole": "有文稿支持的单向步骤或作用。保留渐变线、原生三角箭头和微小斜率。",
+    "forbiddenUses": [
+      "同层类别间没有机制依据的箭头",
+      "仅用颜色变化表示实测数值"
+    ],
+    "sourceSlidePart": "ppt/slides/slide6.xml",
+    "sourceSlideSha256": "98ef72e27e5713b649fb5b57a4f0d392e27bf8eb19a6320777be810516cd530a",
+    "capacity": {
+      "textSlots": 0,
+      "standardBoxPx": [
+        240,
+        1.82
+      ],
+      "minRecommendedWidthPx": 65
+    },
+    "candidateDeckPages": [
+      6,
+      13,
+      15
+    ],
+    "immutableFields": [
+      "objects[*].xml drawing geometry and style",
+      "group hierarchy and child order",
+      "fill/line/effect/style/adjustment/flip/rotation",
+      "sourceFileSha256",
+      "sourcePage",
+      "sourceObjectIds",
+      "slots values and ancestor IDs",
+      "nativeOnly=true",
+      "noGeometryFallback=true"
+    ],
+    "allowedMutations": [
+      "slot text",
+      "explicit font options",
+      "position and size",
+      "repeat whole component if repeatable=true"
+    ],
+    "assetDependencies": [],
+    "slotProvenance": {},
+    "themeDependencies": [
+      {
+        "sourceObjectId": "19",
+        "scheme": "accent1",
+        "location": "drawing-style",
+        "propertyContext": "direct-drawing-property",
+        "directColorShiftUnderCurrentRoot": false,
+        "sourceRgb": "0046A4",
+        "rootRgb": "0046A4",
+        "sameResolvedColor": true
+      },
+      {
+        "sourceObjectId": "19",
+        "scheme": "accent1",
+        "location": "drawing-style",
+        "propertyContext": "style-reference",
+        "directColorShiftUnderCurrentRoot": false,
+        "sourceRgb": "0046A4",
+        "rootRgb": "0046A4",
+        "sameResolvedColor": true
+      },
+      {
+        "sourceObjectId": "19",
+        "scheme": "lt1",
+        "location": "drawing-style",
+        "propertyContext": "style-reference",
+        "directColorShiftUnderCurrentRoot": false,
+        "sourceRgb": "FFFFFF",
+        "rootRgb": "FFFFFF",
+        "sameResolvedColor": true
+      }
+    ],
+    "groupTransforms": [],
+    "sourceThemeSha256": "988ba204d5ae1d7b1b6f78a660b8d53331686cdc600a75367c065a9cf0c5bd31",
+    "targetRootThemeSha256": "b3c4d5af972226d58ab89269501ab351840cdab07887b29d02439efc2b632c08",
+    "visibleThemeShiftUnderCurrentRoot": false,
+    "bridgeCompatibility": {
+      "usesExistingPrototypeAndRender": true,
+      "requiresBackendChanges": false,
+      "nestedSlotBoxes": "Use group-local coordinates if overriding; avoid absolute slide coordinates.",
+      "zeroHeightChildrenPreserved": "Timeline line remains zero-height in asset XML; current remap rounds to at least 1 EMU when rendered."
+    }
+  },
+  {
+    "sourcePage": 3,
+    "sourceObjectIds": [
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "sourceBoundsEmu": [
+      442913,
+      981075,
+      8097838,
+      899142
+    ],
+    "slots": {
+      "label": "5",
+      "body": "10"
+    },
+    "typeId": "human-left-label-band",
+    "label": "左侧蓝标签与解释带",
+    "relation": "context",
+    "sourceFile": "by_human/环境修复Cd污染修复.pptx",
+    "sourceFileSha256": "6622622d5d38b85b5e11c68cb21ac8bd259e42477bc66a4d914865834879fd42",
+    "sourceSlidePart": "ppt/slides/slide3.xml",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "visualTreatment": "side-label",
+    "contentTasks": [
+      "background",
+      "definition",
+      "shared-risk",
+      "context"
+    ],
+    "markerRole": null,
+    "defaultTextOptions": {},
+    "bulletSource": null,
+    "coordinateFixture": true,
+    "themeResolution": {
+      "policy": "resolve source scheme colors to source RGB; preserve alpha/luminance/gradient stops",
+      "themePart": "ppt/theme/theme2.xml",
+      "mappings": [
+        {
+          "scheme": "accent6",
+          "mapped": "accent6",
+          "rgb": "0B4FA1"
+        },
+        {
+          "scheme": "accent6",
+          "mapped": "accent6",
+          "rgb": "0B4FA1"
+        },
+        {
+          "scheme": "accent1",
+          "mapped": "accent1",
+          "rgb": "0B4FA1"
+        },
+        {
+          "scheme": "accent1",
+          "mapped": "accent1",
+          "rgb": "0B4FA1"
+        },
+        {
+          "scheme": "accent1",
+          "mapped": "accent1",
+          "rgb": "0B4FA1"
+        },
+        {
+          "scheme": "lt1",
+          "mapped": "lt1",
+          "rgb": "FFFFFF"
+        },
+        {
+          "scheme": "accent6",
+          "mapped": "accent6",
+          "rgb": "0B4FA1"
+        },
+        {
+          "scheme": "accent6",
+          "mapped": "accent6",
+          "rgb": "0B4FA1"
+        },
+        {
+          "scheme": "accent1",
+          "mapped": "accent1",
+          "rgb": "0B4FA1"
+        },
+        {
+          "scheme": "accent1",
+          "mapped": "accent1",
+          "rgb": "0B4FA1"
+        },
+        {
+          "scheme": "accent1",
+          "mapped": "accent1",
+          "rgb": "0B4FA1"
+        },
+        {
+          "scheme": "lt1",
+          "mapped": "lt1",
+          "rgb": "FFFFFF"
+        }
+      ]
+    },
+    "capacityPolicy": "Keep assigned pt size; validate actual PowerPoint fit. Use content height, reorganize or split; never shrink or truncate.",
+    "semanticConstraints": [
+      "Symbols identify list roles; unordered items must not be represented as temporal or causal arrows.",
+      "Text is supplied by the current task; source scientific text and identities are not runtime defaults."
+    ]
+  },
+  {
+    "sourcePage": 3,
+    "sourceObjectIds": [
+      "29",
+      "22"
+    ],
+    "sourceBoundsEmu": [
+      460262,
+      4698819,
+      5396441,
+      2093778
+    ],
+    "slots": {
+      "body": "22"
+    },
+    "typeId": "human-arrow-outline-list",
+    "label": "细框箭头无序说明",
+    "relation": "unordered",
+    "sourceFile": "by_human/环境修复Cd污染修复.pptx",
+    "sourceFileSha256": "6622622d5d38b85b5e11c68cb21ac8bd259e42477bc66a4d914865834879fd42",
+    "sourceSlidePart": "ppt/slides/slide3.xml",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "visualTreatment": "outlined-list",
+    "contentTasks": [
+      "supporting-points",
+      "conditions",
+      "policy-notes"
+    ],
+    "markerRole": "arrow",
+    "defaultTextOptions": {
+      "body": {
+        "bullet": "source"
+      }
+    },
+    "bulletSource": {
+      "char": "Ø",
+      "font": {
+        "typeface": "Wingdings",
+        "panose": "05000000000000000000",
+        "pitchFamily": "2",
+        "charset": "2"
+      },
+      "marL": "285750",
+      "indent": "-285750",
+      "xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" marL=\"285750\" marR=\"0\" indent=\"-285750\" algn=\"just\"><a:lnSpc><a:spcPct val=\"150000\"/></a:lnSpc><a:spcBef><a:spcPts val=\"0\"/></a:spcBef><a:spcAft><a:spcPts val=\"0\"/></a:spcAft><a:buFont typeface=\"Wingdings\" panose=\"05000000000000000000\" pitchFamily=\"2\" charset=\"2\"/><a:buChar char=\"&#216;\"/></a:pPr>"
+    },
+    "coordinateFixture": true,
+    "themeResolution": {
+      "policy": "resolve source scheme colors to source RGB; preserve alpha/luminance/gradient stops",
+      "themePart": "ppt/theme/theme2.xml",
+      "mappings": [
+        {
+          "scheme": "accent6",
+          "mapped": "accent6",
+          "rgb": "0B4FA1"
+        },
+        {
+          "scheme": "accent6",
+          "mapped": "accent6",
+          "rgb": "0B4FA1"
+        }
+      ]
+    },
+    "capacityPolicy": "Keep assigned pt size; validate actual PowerPoint fit. Use content height, reorganize or split; never shrink or truncate.",
+    "semanticConstraints": [
+      "Symbols identify list roles; unordered items must not be represented as temporal or causal arrows.",
+      "Text is supplied by the current task; source scientific text and identities are not runtime defaults."
+    ]
+  },
+  {
+    "sourcePage": 14,
+    "sourceObjectIds": [
+      "26"
+    ],
+    "sourceBoundsEmu": [
+      643586,
+      1481939,
+      11167414,
+      422873
+    ],
+    "slots": {
+      "body": "26"
+    },
+    "typeId": "materials-arrow-notes",
+    "label": "开放箭头解释列表",
+    "relation": "unordered",
+    "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+    "sourceSlidePart": "ppt/slides/slide14.xml",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "visualTreatment": "open-list",
+    "contentTasks": [
+      "supporting-points",
+      "mechanism-notes",
+      "comparison-notes"
+    ],
+    "markerRole": "arrow",
+    "defaultTextOptions": {
+      "body": {
+        "bullet": "source"
+      }
+    },
+    "bulletSource": {
+      "char": "Ø",
+      "font": {
+        "typeface": "Wingdings",
+        "panose": "05000000000000000000",
+        "pitchFamily": "2",
+        "charset": "2"
+      },
+      "marL": "285750",
+      "indent": "-285750",
+      "xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" marL=\"285750\" indent=\"-285750\"><a:lnSpc><a:spcPct val=\"130000\"/></a:lnSpc><a:buClr><a:schemeClr val=\"tx1\"/></a:buClr><a:buFont typeface=\"Wingdings\" panose=\"05000000000000000000\" pitchFamily=\"2\" charset=\"2\"/><a:buChar char=\"&#216;\"/></a:pPr>"
+    },
+    "coordinateFixture": true,
+    "themeResolution": {
+      "policy": "resolve source scheme colors to source RGB; preserve alpha/luminance/gradient stops",
+      "themePart": "ppt/theme/theme1.xml",
+      "mappings": [
+        {
+          "scheme": "tx1",
+          "mapped": "dk1",
+          "rgb": "000000"
+        },
+        {
+          "scheme": "accent2",
+          "mapped": "accent2",
+          "rgb": "0046A4"
+        }
+      ]
+    },
+    "capacityPolicy": "Keep assigned pt size; validate actual PowerPoint fit. Use content height, reorganize or split; never shrink or truncate.",
+    "semanticConstraints": [
+      "Symbols identify list roles; unordered items must not be represented as temporal or causal arrows.",
+      "Text is supplied by the current task; source scientific text and identities are not runtime defaults."
+    ]
+  },
+  {
+    "sourcePage": 3,
+    "sourceObjectIds": [
+      "56"
+    ],
+    "sourceBoundsEmu": [
+      1570383,
+      2676937,
+      4256316,
+      1844800
+    ],
+    "slots": {
+      "body": "56"
+    },
+    "typeId": "human-check-notes",
+    "label": "勾选式要点列表",
+    "relation": "unordered",
+    "sourceFile": "by_human/微塑料的生物累积与食物链传递能力研究进展.pptx",
+    "sourceFileSha256": "fc60a7e2b8b597fd12bc4441ec3ccf126870435c25ac1792d6a3edf89668ea27",
+    "sourceSlidePart": "ppt/slides/slide3.xml",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "visualTreatment": "open-list",
+    "contentTasks": [
+      "reported-results",
+      "criteria",
+      "confirmed-features"
+    ],
+    "markerRole": "check",
+    "defaultTextOptions": {
+      "body": {
+        "bullet": "source"
+      }
+    },
+    "bulletSource": {
+      "char": "ü",
+      "font": {
+        "typeface": "Wingdings",
+        "panose": "05000000000000000000",
+        "pitchFamily": "2",
+        "charset": "2"
+      },
+      "marL": "0",
+      "indent": "-285750",
+      "xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" marL=\"0\" marR=\"0\" lvl=\"1\" indent=\"-285750\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" fontAlgn=\"auto\" latinLnBrk=\"0\" hangingPunct=\"1\"><a:lnSpc><a:spcPct val=\"120000\"/></a:lnSpc><a:spcBef><a:spcPts val=\"0\"/></a:spcBef><a:spcAft><a:spcPts val=\"0\"/></a:spcAft><a:buClrTx/><a:buSzTx/><a:buFont typeface=\"Wingdings\" panose=\"05000000000000000000\" pitchFamily=\"2\" charset=\"2\"/><a:buChar char=\"&#252;\"/><a:tabLst/><a:defRPr/></a:pPr>"
+    },
+    "coordinateFixture": true,
+    "themeResolution": {
+      "policy": "resolve source scheme colors to source RGB; preserve alpha/luminance/gradient stops",
+      "themePart": "ppt/theme/theme1.xml",
+      "mappings": []
+    },
+    "capacityPolicy": "Keep assigned pt size; validate actual PowerPoint fit. Use content height, reorganize or split; never shrink or truncate.",
+    "semanticConstraints": [
+      "Symbols identify list roles; unordered items must not be represented as temporal or causal arrows.",
+      "Text is supplied by the current task; source scientific text and identities are not runtime defaults."
+    ]
+  },
+  {
+    "sourcePage": 4,
+    "sourceObjectIds": [
+      "80"
+    ],
+    "sourceBoundsEmu": [
+      171979,
+      1863155,
+      2816325,
+      2445670
+    ],
+    "slots": {
+      "body": "80"
+    },
+    "typeId": "human-square-notes",
+    "label": "空心方框同层说明",
+    "relation": "unordered",
+    "sourceFile": "by_human/微塑料的生物累积与食物链传递能力研究进展.pptx",
+    "sourceFileSha256": "fc60a7e2b8b597fd12bc4441ec3ccf126870435c25ac1792d6a3edf89668ea27",
+    "sourceSlidePart": "ppt/slides/slide4.xml",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "visualTreatment": "open-list",
+    "contentTasks": [
+      "classification",
+      "conditions",
+      "research-directions"
+    ],
+    "markerRole": "square",
+    "defaultTextOptions": {
+      "body": {
+        "bullet": "source"
+      }
+    },
+    "bulletSource": {
+      "char": "p",
+      "font": {
+        "typeface": "Wingdings",
+        "panose": "05000000000000000000",
+        "pitchFamily": "2",
+        "charset": "2"
+      },
+      "marL": "285750",
+      "indent": "-285750",
+      "xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" marL=\"285750\" indent=\"-285750\" defTabSz=\"457200\"><a:lnSpc><a:spcPct val=\"110000\"/></a:lnSpc><a:buFont typeface=\"Wingdings\" panose=\"05000000000000000000\" pitchFamily=\"2\" charset=\"2\"/><a:buChar char=\"p\"/></a:pPr>"
+    },
+    "coordinateFixture": true,
+    "themeResolution": {
+      "policy": "resolve source scheme colors to source RGB; preserve alpha/luminance/gradient stops",
+      "themePart": "ppt/theme/theme1.xml",
+      "mappings": []
+    },
+    "capacityPolicy": "Keep assigned pt size; validate actual PowerPoint fit. Use content height, reorganize or split; never shrink or truncate.",
+    "semanticConstraints": [
+      "Symbols identify list roles; unordered items must not be represented as temporal or causal arrows.",
+      "Text is supplied by the current task; source scientific text and identities are not runtime defaults."
+    ]
+  },
+  {
+    "sourcePage": 7,
+    "sourceObjectIds": [
+      "31"
+    ],
+    "sourceBoundsEmu": [
+      715922,
+      3250376,
+      2340349,
+      1129665
+    ],
+    "slots": {
+      "body": "31"
+    },
+    "typeId": "materials-diamond-notes",
+    "label": "菱形分组要点",
+    "relation": "hierarchy",
+    "sourceFile": "materials/【深蓝白色系】青年申请长江ppt模板.pptx",
+    "sourceFileSha256": "fc8740293f95d2b9a60164fff2040c2bfcf19eb13975d4565f37060c1377d6c9",
+    "sourceSlidePart": "ppt/slides/slide7.xml",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "visualTreatment": "open-list",
+    "contentTasks": [
+      "group-heading",
+      "category-heading"
+    ],
+    "markerRole": "diamond",
+    "defaultTextOptions": {
+      "body": {
+        "bullet": "source"
+      }
+    },
+    "bulletSource": {
+      "char": "u",
+      "font": {
+        "typeface": "Wingdings",
+        "panose": "05000000000000000000",
+        "charset": "0"
+      },
+      "marL": "285750",
+      "indent": "-285750",
+      "xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" marL=\"285750\" indent=\"-285750\"><a:lnSpc><a:spcPct val=\"125000\"/></a:lnSpc><a:spcBef><a:spcPts val=\"300\"/></a:spcBef><a:buFont typeface=\"Wingdings\" panose=\"05000000000000000000\" charset=\"0\"/><a:buChar char=\"u\"/></a:pPr>"
+    },
+    "coordinateFixture": true,
+    "themeResolution": {
+      "policy": "resolve source scheme colors to source RGB; preserve alpha/luminance/gradient stops",
+      "themePart": "ppt/theme/theme2.xml",
+      "mappings": []
+    },
+    "capacityPolicy": "Keep assigned pt size; validate actual PowerPoint fit. Use content height, reorganize or split; never shrink or truncate.",
+    "semanticConstraints": [
+      "Symbols identify list roles; unordered items must not be represented as temporal or causal arrows.",
+      "Text is supplied by the current task; source scientific text and identities are not runtime defaults."
+    ]
+  },
+  {
+    "sourcePage": 7,
+    "sourceObjectIds": [
+      "1029"
+    ],
+    "sourceBoundsEmu": [
+      375112,
+      1185377,
+      5572760,
+      2982362
+    ],
+    "slots": {
+      "body": "1029"
+    },
+    "typeId": "human-dot-notes",
+    "label": "圆点简洁条目",
+    "relation": "unordered",
+    "sourceFile": "by_human/环境修复Cd污染修复.pptx",
+    "sourceFileSha256": "6622622d5d38b85b5e11c68cb21ac8bd259e42477bc66a4d914865834879fd42",
+    "sourceSlidePart": "ppt/slides/slide7.xml",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "visualTreatment": "open-list",
+    "contentTasks": [
+      "limitations",
+      "supporting-points",
+      "comparison-notes"
+    ],
+    "markerRole": "dot",
+    "defaultTextOptions": {
+      "body": {
+        "bullet": "source"
+      }
+    },
+    "bulletSource": {
+      "char": "•",
+      "font": {
+        "typeface": "Arial",
+        "panose": "020B0604020202020204",
+        "pitchFamily": "34",
+        "charset": "0"
+      },
+      "marL": "342900",
+      "indent": "-342900",
+      "xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" marL=\"342900\" marR=\"0\" lvl=\"0\" indent=\"-342900\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" fontAlgn=\"auto\" latinLnBrk=\"0\" hangingPunct=\"1\"><a:lnSpc><a:spcPct val=\"150000\"/></a:lnSpc><a:spcBef><a:spcPts val=\"0\"/></a:spcBef><a:spcAft><a:spcPts val=\"0\"/></a:spcAft><a:buClrTx/><a:buSzTx/><a:buFont typeface=\"Arial\" panose=\"020B0604020202020204\" pitchFamily=\"34\" charset=\"0\"/><a:buChar char=\"&#8226;\"/><a:tabLst/><a:defRPr/></a:pPr>"
+    },
+    "coordinateFixture": true,
+    "themeResolution": {
+      "policy": "resolve source scheme colors to source RGB; preserve alpha/luminance/gradient stops",
+      "themePart": "ppt/theme/theme2.xml",
+      "mappings": []
+    },
+    "capacityPolicy": "Keep assigned pt size; validate actual PowerPoint fit. Use content height, reorganize or split; never shrink or truncate.",
+    "semanticConstraints": [
+      "Symbols identify list roles; unordered items must not be represented as temporal or causal arrows.",
+      "Text is supplied by the current task; source scientific text and identities are not runtime defaults."
+    ]
+  },
+  {
+    "sourcePage": 15,
+    "sourceObjectIds": [
+      "49",
+      "50"
+    ],
+    "sourceBoundsEmu": [
+      538214,
+      2053613,
+      11115570,
+      456478
+    ],
+    "slots": {
+      "body": "50"
+    },
+    "typeId": "human-gradient-statement",
+    "label": "浅色渐隐总点带",
+    "relation": "statement",
+    "sourceFile": "by_human/环境修复Cd污染修复.pptx",
+    "sourceFileSha256": "6622622d5d38b85b5e11c68cb21ac8bd259e42477bc66a4d914865834879fd42",
+    "sourceSlidePart": "ppt/slides/slide15.xml",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "visualTreatment": "gradient-band",
+    "contentTasks": [
+      "key-claim",
+      "integrated-route",
+      "chapter-thesis"
+    ],
+    "markerRole": null,
+    "defaultTextOptions": {},
+    "bulletSource": null,
+    "coordinateFixture": true,
+    "themeResolution": {
+      "policy": "resolve source scheme colors to source RGB; preserve alpha/luminance/gradient stops",
+      "themePart": "ppt/theme/theme1.xml",
+      "mappings": [
+        {
+          "scheme": "accent6",
+          "mapped": "accent6",
+          "rgb": "0B4FA1"
+        },
+        {
+          "scheme": "accent6",
+          "mapped": "accent6",
+          "rgb": "0B4FA1"
+        },
+        {
+          "scheme": "bg1",
+          "mapped": "lt1",
+          "rgb": "FFFFFF"
+        }
+      ]
+    },
+    "capacityPolicy": "Keep assigned pt size; validate actual PowerPoint fit. Use content height, reorganize or split; never shrink or truncate.",
+    "semanticConstraints": [
+      "Symbols identify list roles; unordered items must not be represented as temporal or causal arrows.",
+      "Text is supplied by the current task; source scientific text and identities are not runtime defaults."
+    ]
+  },
+  {
+    "sourcePage": 6,
+    "sourceObjectIds": [
+      "100",
+      "105"
+    ],
+    "sourceBoundsEmu": [
+      492840,
+      5791724,
+      11191160,
+      647174
+    ],
+    "slots": {
+      "body": "105"
+    },
+    "typeId": "materials-gradient-conclusion",
+    "label": "渐变收束判断带",
+    "relation": "statement",
+    "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+    "sourceSlidePart": "ppt/slides/slide6.xml",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "visualTreatment": "gradient-band",
+    "contentTasks": [
+      "conclusion",
+      "shared-result",
+      "integration"
+    ],
+    "markerRole": null,
+    "defaultTextOptions": {},
+    "bulletSource": null,
+    "coordinateFixture": true,
+    "themeResolution": {
+      "policy": "resolve source scheme colors to source RGB; preserve alpha/luminance/gradient stops",
+      "themePart": "ppt/theme/theme1.xml",
+      "mappings": [
+        {
+          "scheme": "accent1",
+          "mapped": "accent1",
+          "rgb": "0046A4"
+        },
+        {
+          "scheme": "accent1",
+          "mapped": "accent1",
+          "rgb": "0046A4"
+        },
+        {
+          "scheme": "accent1",
+          "mapped": "accent1",
+          "rgb": "0046A4"
+        },
+        {
+          "scheme": "accent1",
+          "mapped": "accent1",
+          "rgb": "0046A4"
+        },
+        {
+          "scheme": "accent1",
+          "mapped": "accent1",
+          "rgb": "0046A4"
+        },
+        {
+          "scheme": "accent1",
+          "mapped": "accent1",
+          "rgb": "0046A4"
+        },
+        {
+          "scheme": "lt1",
+          "mapped": "lt1",
+          "rgb": "FFFFFF"
+        },
+        {
+          "scheme": "bg1",
+          "mapped": "lt1",
+          "rgb": "FFFFFF"
+        }
+      ]
+    },
+    "capacityPolicy": "Keep assigned pt size; validate actual PowerPoint fit. Use content height, reorganize or split; never shrink or truncate.",
+    "semanticConstraints": [
+      "Symbols identify list roles; unordered items must not be represented as temporal or causal arrows.",
+      "Text is supplied by the current task; source scientific text and identities are not runtime defaults."
+    ]
+  },
+  {
+    "sourcePage": 7,
+    "sourceObjectIds": [
+      "33",
+      "34"
+    ],
+    "sourceBoundsEmu": [
+      759859,
+      2340327,
+      2859090,
+      411010
+    ],
+    "slots": {
+      "heading": "34"
+    },
+    "typeId": "materials-gradient-tab",
+    "label": "渐变专题标签",
+    "relation": "heading",
+    "sourceFile": "materials/1深蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "83cdad74701b75d8f4d2527ce1b0138c3ce54574ddc4a4dd47c7c7a04db9afcb",
+    "sourceSlidePart": "ppt/slides/slide7.xml",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "visualTreatment": "gradient-label",
+    "contentTasks": [
+      "module-heading",
+      "group-heading",
+      "evidence-heading"
+    ],
+    "markerRole": null,
+    "defaultTextOptions": {},
+    "bulletSource": null,
+    "coordinateFixture": true,
+    "themeResolution": {
+      "policy": "resolve source scheme colors to source RGB; preserve alpha/luminance/gradient stops",
+      "themePart": "ppt/theme/theme1.xml",
+      "mappings": [
+        {
+          "scheme": "accent6",
+          "mapped": "accent6",
+          "rgb": "0B4FA1"
+        },
+        {
+          "scheme": "accent6",
+          "mapped": "accent6",
+          "rgb": "0B4FA1"
+        },
+        {
+          "scheme": "accent1",
+          "mapped": "accent1",
+          "rgb": "549E39"
+        },
+        {
+          "scheme": "accent1",
+          "mapped": "accent1",
+          "rgb": "549E39"
+        },
+        {
+          "scheme": "accent1",
+          "mapped": "accent1",
+          "rgb": "549E39"
+        },
+        {
+          "scheme": "lt1",
+          "mapped": "lt1",
+          "rgb": "FFFFFF"
+        },
+        {
+          "scheme": "bg1",
+          "mapped": "lt1",
+          "rgb": "FFFFFF"
+        },
+        {
+          "scheme": "accent6",
+          "mapped": "accent6",
+          "rgb": "0B4FA1"
+        }
+      ]
+    },
+    "capacityPolicy": "Keep assigned pt size; validate actual PowerPoint fit. Use content height, reorganize or split; never shrink or truncate.",
+    "semanticConstraints": [
+      "Symbols identify list roles; unordered items must not be represented as temporal or causal arrows.",
+      "Text is supplied by the current task; source scientific text and identities are not runtime defaults."
+    ],
+    "contentStructures": [
+      "heading"
+    ]
+  },
+  {
+    "sourcePage": 35,
+    "sourceObjectIds": [
+      "49",
+      "52"
+    ],
+    "sourceBoundsEmu": [
+      457835,
+      1846580,
+      4650740,
+      1229995
+    ],
+    "slots": {
+      "label": "51",
+      "body": "52"
+    },
+    "typeId": "materials-hexagon-explanation",
+    "label": "六边形类别与解释",
+    "relation": "classification",
+    "sourceFile": "materials/【蓝色系】青年申请长江ppt模板.pptx",
+    "sourceFileSha256": "9d5edd1d24b67290fc7b791591ef9ee5621f803ee36ad5b7c72f9a96218b4ee6",
+    "sourceSlidePart": "ppt/slides/slide35.xml",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "visualTreatment": "shape-label",
+    "contentTasks": [
+      "short-category",
+      "condition-explanation"
+    ],
+    "markerRole": null,
+    "defaultTextOptions": {},
+    "bulletSource": null,
+    "coordinateFixture": true,
+    "themeResolution": {
+      "policy": "resolve source scheme colors to source RGB; preserve alpha/luminance/gradient stops",
+      "themePart": "ppt/theme/theme2.xml",
+      "mappings": [
+        {
+          "scheme": "accent1",
+          "mapped": "accent1",
+          "rgb": "026CD4"
+        },
+        {
+          "scheme": "bg1",
+          "mapped": "lt1",
+          "rgb": "FFFFFF"
+        },
+        {
+          "scheme": "bg1",
+          "mapped": "lt1",
+          "rgb": "FFFFFF"
+        },
+        {
+          "scheme": "accent1",
+          "mapped": "accent1",
+          "rgb": "026CD4"
+        },
+        {
+          "scheme": "accent1",
+          "mapped": "accent1",
+          "rgb": "026CD4"
+        },
+        {
+          "scheme": "accent1",
+          "mapped": "accent1",
+          "rgb": "026CD4"
+        },
+        {
+          "scheme": "lt1",
+          "mapped": "lt1",
+          "rgb": "FFFFFF"
+        },
+        {
+          "scheme": "bg1",
+          "mapped": "lt1",
+          "rgb": "FFFFFF"
+        },
+        {
+          "scheme": "tx1",
+          "mapped": "dk1",
+          "rgb": "000000"
+        },
+        {
+          "scheme": "tx1",
+          "mapped": "dk1",
+          "rgb": "000000"
+        }
+      ]
+    },
+    "capacityPolicy": "Keep assigned pt size; validate actual PowerPoint fit. Use content height, reorganize or split; never shrink or truncate.",
+    "semanticConstraints": [
+      "Symbols identify list roles; unordered items must not be represented as temporal or causal arrows.",
+      "Text is supplied by the current task; source scientific text and identities are not runtime defaults."
+    ]
+  },
+  {
+    "sourcePage": 37,
+    "sourceObjectIds": [
+      "91"
+    ],
+    "sourceBoundsEmu": [
+      8498205,
+      1550670,
+      349885,
+      5084445
+    ],
+    "slots": {},
+    "typeId": "materials-brace-group",
+    "label": "大括号汇总分组",
+    "relation": "hierarchy",
+    "sourceFile": "materials/【蓝色系】青年申请长江ppt模板.pptx",
+    "sourceFileSha256": "9d5edd1d24b67290fc7b791591ef9ee5621f803ee36ad5b7c72f9a96218b4ee6",
+    "sourceSlidePart": "ppt/slides/slide37.xml",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "visualTreatment": "group-brace",
+    "contentTasks": [
+      "group-summary",
+      "classification-summary"
+    ],
+    "markerRole": null,
+    "defaultTextOptions": {},
+    "bulletSource": null,
+    "coordinateFixture": true,
+    "themeResolution": {
+      "policy": "resolve source scheme colors to source RGB; preserve alpha/luminance/gradient stops",
+      "themePart": "ppt/theme/theme2.xml",
+      "mappings": [
+        {
+          "scheme": "accent1",
+          "mapped": "accent1",
+          "rgb": "026CD4"
+        },
+        {
+          "scheme": "accent1",
+          "mapped": "accent1",
+          "rgb": "026CD4"
+        },
+        {
+          "scheme": "accent1",
+          "mapped": "accent1",
+          "rgb": "026CD4"
+        },
+        {
+          "scheme": "accent1",
+          "mapped": "accent1",
+          "rgb": "026CD4"
+        },
+        {
+          "scheme": "tx1",
+          "mapped": "dk1",
+          "rgb": "000000"
+        }
+      ]
+    },
+    "capacityPolicy": "Keep assigned pt size; validate actual PowerPoint fit. Use content height, reorganize or split; never shrink or truncate.",
+    "semanticConstraints": [
+      "Symbols identify list roles; unordered items must not be represented as temporal or causal arrows.",
+      "Text is supplied by the current task; source scientific text and identities are not runtime defaults."
+    ]
+  },
+  {
+    "sourcePage": 20,
+    "sourceObjectIds": [
+      "22"
+    ],
+    "sourceBoundsEmu": [
+      452929,
+      1674911,
+      5479201,
+      4374450
+    ],
+    "slots": {},
+    "typeId": "human-figure-frame-solid",
+    "label": "实线图像容器",
+    "relation": "figure-frame",
+    "sourceFile": "by_human/微塑料的生物累积与食物链传递能力研究进展.pptx",
+    "sourceFileSha256": "fc60a7e2b8b597fd12bc4441ec3ccf126870435c25ac1792d6a3edf89668ea27",
+    "sourceSlidePart": "ppt/slides/slide20.xml",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "contentTasks": [
+      "figure-container"
+    ],
+    "contentStructures": [
+      "figure",
+      "figure-group"
+    ],
+    "visualTreatment": "figure-frame-solid",
+    "frameStyle": "solid",
+    "lineContract": {
+      "dash": "solid",
+      "widthPt": 1.0,
+      "color": "003F88"
+    },
+    "themeResolution": {
+      "themePart": "ppt/theme/theme1.xml",
+      "mapping": {
+        "bg1": "lt1",
+        "tx1": "dk1",
+        "bg2": "lt2",
+        "tx2": "dk2",
+        "accent1": "accent1",
+        "accent2": "accent2",
+        "accent3": "accent3",
+        "accent4": "accent4",
+        "accent5": "accent5",
+        "accent6": "accent6",
+        "hlink": "hlink",
+        "folHlink": "folHlink"
+      },
+      "colors": [
+        {
+          "source": "accent1",
+          "resolved": "003F88"
+        }
+      ],
+      "reason": "Bake the actual source theme colors so copied objects retain appearance under the target master. Geometry, line width, dash, fill and effects are copied."
+    },
+    "capacityPolicy": "Frame actual image union plus 2-12 px padding; no empty-space quota. Keep all picture pixels and editable native line.",
+    "coordinateFixture": true
+  },
+  {
+    "sourcePage": 3,
+    "sourceObjectIds": [
+      "52"
+    ],
+    "sourceBoundsEmu": [
+      5927323,
+      1253693,
+      5329337,
+      1974478
+    ],
+    "slots": {},
+    "typeId": "materials-figure-frame-dashed",
+    "label": "虚线图组容器",
+    "relation": "figure-frame",
+    "sourceFile": "materials/4白蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "11ea0401903ddfb9df94e5e2f9955a7f554c81d96a41d280914ac60bfb14fa5e",
+    "sourceSlidePart": "ppt/slides/slide3.xml",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "contentTasks": [
+      "figure-container"
+    ],
+    "contentStructures": [
+      "figure",
+      "figure-group"
+    ],
+    "visualTreatment": "figure-frame-dashed",
+    "frameStyle": "dashed",
+    "lineContract": {
+      "dash": "lgDash",
+      "widthPt": 0.75,
+      "color": "0C56AE"
+    },
+    "themeResolution": {
+      "themePart": "ppt/theme/theme1.xml",
+      "mapping": {
+        "bg1": "lt1",
+        "tx1": "dk1",
+        "bg2": "lt2",
+        "tx2": "dk2",
+        "accent1": "accent1",
+        "accent2": "accent2",
+        "accent3": "accent3",
+        "accent4": "accent4",
+        "accent5": "accent5",
+        "accent6": "accent6",
+        "hlink": "hlink",
+        "folHlink": "folHlink"
+      },
+      "colors": [
+        {
+          "source": "accent6",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent6",
+          "resolved": "0C56AE"
+        }
+      ],
+      "reason": "Bake the actual source theme colors so copied objects retain appearance under the target master. Geometry, line width, dash, fill and effects are copied."
+    },
+    "capacityPolicy": "Frame actual image union plus 2-12 px padding; no empty-space quota. Keep all picture pixels and editable native line.",
+    "coordinateFixture": true
+  },
+  {
+    "sourcePage": 18,
+    "sourceObjectIds": [
+      "3",
+      "12",
+      "91"
+    ],
+    "sourceBoundsEmu": [
+      4258864,
+      1459654,
+      3788967,
+      3815870
+    ],
+    "slots": {
+      "center": "91"
+    },
+    "typeId": "materials-cycle-three",
+    "relation": "cycle",
+    "itemCount": 3,
+    "visualTreatment": "cycle",
+    "contentTasks": [
+      "closed-loop",
+      "resource-return"
+    ],
+    "contentStructures": [
+      "relations"
+    ],
+    "sourceFile": "materials/【蓝色系】青年申请长江ppt模板.pptx",
+    "sourceFileSha256": "9d5edd1d24b67290fc7b791591ef9ee5621f803ee36ad5b7c72f9a96218b4ee6",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": false,
+    "capacityPolicy": "Retain assigned pt sizes. Validate actual PowerPoint fit; no shrink or truncation.",
+    "certification": {
+      "sourceObjectIds": [
+        "3",
+        "12",
+        "91"
+      ],
+      "operation": "Hoist existing nested native objects using composed group transforms; retain local child geometry, native arc shapes and colors. Remove unrelated text, icons and photos.",
+      "sourceSlideSha256": "afee64ad565b9f3e731229f8cc95d1c789d7dbb9810d4266a237d6cc5e8523bb"
+    },
+    "coordinateFixture": true
+  },
+  {
+    "sourcePage": 8,
+    "sourceObjectIds": [
+      "3"
+    ],
+    "sourceBoundsEmu": [
+      3952568,
+      948746,
+      8044370,
+      5100000
+    ],
+    "slots": {
+      "cell0_0": "3.cell.0.0",
+      "cell0_1": "3.cell.0.1",
+      "cell0_2": "3.cell.0.2",
+      "cell0_3": "3.cell.0.3",
+      "cell0_4": "3.cell.0.4",
+      "cell1_0": "3.cell.1.0",
+      "cell1_1": "3.cell.1.1",
+      "cell1_2": "3.cell.1.2",
+      "cell1_3": "3.cell.1.3",
+      "cell1_4": "3.cell.1.4",
+      "cell2_0": "3.cell.2.0",
+      "cell2_1": "3.cell.2.1",
+      "cell2_2": "3.cell.2.2",
+      "cell2_3": "3.cell.2.3",
+      "cell2_4": "3.cell.2.4",
+      "cell3_0": "3.cell.3.0",
+      "cell3_1": "3.cell.3.1",
+      "cell3_2": "3.cell.3.2",
+      "cell3_3": "3.cell.3.3",
+      "cell3_4": "3.cell.3.4",
+      "cell4_0": "3.cell.4.0",
+      "cell4_1": "3.cell.4.1",
+      "cell4_2": "3.cell.4.2",
+      "cell4_3": "3.cell.4.3",
+      "cell4_4": "3.cell.4.4",
+      "cell5_0": "3.cell.5.0",
+      "cell5_1": "3.cell.5.1",
+      "cell5_2": "3.cell.5.2",
+      "cell5_3": "3.cell.5.3",
+      "cell5_4": "3.cell.5.4"
+    },
+    "typeId": "human-comparison-table",
+    "relation": "comparison",
+    "itemCount": 5,
+    "family": "table",
+    "visualTreatment": "evidence-matrix",
+    "tableShape": {
+      "rows": 6,
+      "columns": 5
+    },
+    "contentTasks": [
+      "comparison"
+    ],
+    "contentStructures": [
+      "matrix"
+    ],
+    "sourceFile": "by_human/微塑料的生物累积与食物链传递能力研究进展.pptx",
+    "sourceFileSha256": "fc60a7e2b8b597fd12bc4441ec3ccf126870435c25ac1792d6a3edf89668ea27",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": false,
+    "capacityPolicy": "Retain assigned pt sizes. Validate actual PowerPoint fit; no shrink or truncation.",
+    "certification": {
+      "sourceObjectIds": [
+        "3"
+      ],
+      "operation": "Clone original header and data row cells to certify a 6 by 5 native table. Row/column sizes may vary; all cell styles remain from the source.",
+      "sourceSlideSha256": "8ead9d363c3edbe7e60e31c4c92b1eaf328ec746d78f209f0c3ec640afa5f692"
+    },
+    "coordinateFixture": true
+  },
+  {
+    "sourcePage": 8,
+    "sourceObjectIds": [
+      "3"
+    ],
+    "sourceBoundsEmu": [
+      3952568,
+      948746,
+      4757008,
+      2400000
+    ],
+    "slots": {
+      "cell0_0": "3.cell.0.0",
+      "cell0_1": "3.cell.0.1",
+      "cell0_2": "3.cell.0.2",
+      "cell1_0": "3.cell.1.0",
+      "cell1_1": "3.cell.1.1",
+      "cell1_2": "3.cell.1.2",
+      "cell2_0": "3.cell.2.0",
+      "cell2_1": "3.cell.2.1",
+      "cell2_2": "3.cell.2.2"
+    },
+    "typeId": "human-response-table",
+    "relation": "problem-response",
+    "itemCount": 2,
+    "family": "table",
+    "visualTreatment": "problem-response",
+    "tableShape": {
+      "rows": 3,
+      "columns": 3
+    },
+    "contentTasks": [
+      "problem-response"
+    ],
+    "contentStructures": [
+      "matrix"
+    ],
+    "sourceFile": "by_human/微塑料的生物累积与食物链传递能力研究进展.pptx",
+    "sourceFileSha256": "fc60a7e2b8b597fd12bc4441ec3ccf126870435c25ac1792d6a3edf89668ea27",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": false,
+    "capacityPolicy": "Retain assigned pt sizes. Validate actual PowerPoint fit; no shrink or truncation.",
+    "certification": {
+      "sourceObjectIds": [
+        "3"
+      ],
+      "operation": "Clone original header and data row cells to certify a 3 by 3 native table. Row/column sizes may vary; all cell styles remain from the source.",
+      "sourceSlideSha256": "8ead9d363c3edbe7e60e31c4c92b1eaf328ec746d78f209f0c3ec640afa5f692"
+    },
+    "coordinateFixture": true
+  },
+  {
+    "sourcePage": 7,
+    "sourceObjectIds": [
+      "29"
+    ],
+    "sourceBoundsEmu": [
+      442913,
+      2531715,
+      3492982,
+      3957985
+    ],
+    "slots": {},
+    "typeId": "materials-mixed-region-frame",
+    "label": "图文混合区域外框",
+    "relation": "region-container",
+    "sourceFile": "materials/1深蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "83cdad74701b75d8f4d2527ce1b0138c3ce54574ddc4a4dd47c7c7a04db9afcb",
+    "sourceSlidePart": "ppt/slides/slide7.xml",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "contentTasks": [
+      "mixed-region-container"
+    ],
+    "contentStructures": [
+      "region"
+    ],
+    "visualTreatment": "mixed-region",
+    "coordinateFixture": true,
+    "themeResolution": {
+      "themePart": "ppt/theme/theme1.xml",
+      "mapping": {
+        "bg1": "lt1",
+        "tx1": "dk1",
+        "bg2": "lt2",
+        "tx2": "dk2",
+        "accent1": "accent1",
+        "accent2": "accent2",
+        "accent3": "accent3",
+        "accent4": "accent4",
+        "accent5": "accent5",
+        "accent6": "accent6",
+        "hlink": "hlink",
+        "folHlink": "folHlink"
+      },
+      "colors": [
+        {
+          "source": "accent6",
+          "resolved": "0B4FA1"
+        },
+        {
+          "source": "accent6",
+          "resolved": "0B4FA1"
+        }
+      ],
+      "policy": "Resolve source theme colors only; preserve geometry, alpha, lines and effects."
+    },
+    "capacityPolicy": "Use natural text height at assigned font; preserve picture aspect and reading targets. Actual PowerPoint rendering is required.",
+    "semanticConstraints": [
+      "Use a named region with explicit member ids. A region frame cannot substitute for missing evidence or fill a sparse page.",
+      "All runtime text is supplied by the current task; reference scientific content is cleared."
+    ],
+    "containerContract": {
+      "allows": [
+        "text",
+        "figure",
+        "heading",
+        "annotation",
+        "relation"
+      ],
+      "nesting": "one outer semantic region and at most one local annotation layer",
+      "figureFrameEquivalent": false,
+      "emptyAllowed": false
+    }
+  },
+  {
+    "sourcePage": 7,
+    "sourceObjectIds": [
+      "125",
+      "118"
+    ],
+    "sourceBoundsEmu": [
+      9511566,
+      5153372,
+      2143017,
+      1092467
+    ],
+    "slots": {
+      "body": "118"
+    },
+    "typeId": "materials-inset-note",
+    "label": "局部浅底圆角说明",
+    "relation": "annotation",
+    "sourceFile": "materials/1深蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "83cdad74701b75d8f4d2527ce1b0138c3ce54574ddc4a4dd47c7c7a04db9afcb",
+    "sourceSlidePart": "ppt/slides/slide7.xml",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "contentTasks": [
+      "local-annotation"
+    ],
+    "contentStructures": [
+      "annotation"
+    ],
+    "visualTreatment": "inset-note",
+    "coordinateFixture": true,
+    "themeResolution": {
+      "themePart": "ppt/theme/theme1.xml",
+      "mapping": {
+        "bg1": "lt1",
+        "tx1": "dk1",
+        "bg2": "lt2",
+        "tx2": "dk2",
+        "accent1": "accent1",
+        "accent2": "accent2",
+        "accent3": "accent3",
+        "accent4": "accent4",
+        "accent5": "accent5",
+        "accent6": "accent6",
+        "hlink": "hlink",
+        "folHlink": "folHlink"
+      },
+      "colors": [
+        {
+          "source": "accent6",
+          "resolved": "0B4FA1"
+        },
+        {
+          "source": "bg1",
+          "resolved": "FFFFFF"
+        },
+        {
+          "source": "accent1",
+          "resolved": "549E39"
+        },
+        {
+          "source": "accent1",
+          "resolved": "549E39"
+        },
+        {
+          "source": "accent1",
+          "resolved": "549E39"
+        },
+        {
+          "source": "lt1",
+          "resolved": "FFFFFF"
+        }
+      ],
+      "policy": "Resolve source theme colors only; preserve geometry, alpha, lines and effects."
+    },
+    "capacityPolicy": "Use natural text height at assigned font; preserve picture aspect and reading targets. Actual PowerPoint rendering is required.",
+    "semanticConstraints": [
+      "Use a named region with explicit member ids. A region frame cannot substitute for missing evidence or fill a sparse page.",
+      "All runtime text is supplied by the current task; reference scientific content is cleared."
+    ]
+  },
+  {
+    "sourcePage": 8,
+    "sourceObjectIds": [
+      "22",
+      "23",
+      "24"
+    ],
+    "sourceBoundsEmu": [
+      430097,
+      2442753,
+      1901624,
+      515541
+    ],
+    "slots": {
+      "heading": "24"
+    },
+    "typeId": "materials-folded-tab",
+    "label": "折角专题标题",
+    "relation": "heading",
+    "sourceFile": "materials/1深蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "83cdad74701b75d8f4d2527ce1b0138c3ce54574ddc4a4dd47c7c7a04db9afcb",
+    "sourceSlidePart": "ppt/slides/slide8.xml",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "contentTasks": [
+      "module-heading",
+      "group-heading"
+    ],
+    "contentStructures": [
+      "heading"
+    ],
+    "visualTreatment": "folded-label",
+    "coordinateFixture": true,
+    "themeResolution": {
+      "themePart": "ppt/theme/theme1.xml",
+      "mapping": {
+        "bg1": "lt1",
+        "tx1": "dk1",
+        "bg2": "lt2",
+        "tx2": "dk2",
+        "accent1": "accent1",
+        "accent2": "accent2",
+        "accent3": "accent3",
+        "accent4": "accent4",
+        "accent5": "accent5",
+        "accent6": "accent6",
+        "hlink": "hlink",
+        "folHlink": "folHlink"
+      },
+      "colors": [
+        {
+          "source": "accent6",
+          "resolved": "0B4FA1"
+        },
+        {
+          "source": "accent1",
+          "resolved": "549E39"
+        },
+        {
+          "source": "accent1",
+          "resolved": "549E39"
+        },
+        {
+          "source": "accent1",
+          "resolved": "549E39"
+        },
+        {
+          "source": "lt1",
+          "resolved": "FFFFFF"
+        },
+        {
+          "source": "accent6",
+          "resolved": "0B4FA1"
+        },
+        {
+          "source": "accent1",
+          "resolved": "549E39"
+        },
+        {
+          "source": "accent1",
+          "resolved": "549E39"
+        },
+        {
+          "source": "accent1",
+          "resolved": "549E39"
+        },
+        {
+          "source": "lt1",
+          "resolved": "FFFFFF"
+        },
+        {
+          "source": "bg1",
+          "resolved": "FFFFFF"
+        },
+        {
+          "source": "accent6",
+          "resolved": "0B4FA1"
+        }
+      ],
+      "policy": "Resolve source theme colors only; preserve geometry, alpha, lines and effects."
+    },
+    "capacityPolicy": "Use natural text height at assigned font; preserve picture aspect and reading targets. Actual PowerPoint rendering is required.",
+    "semanticConstraints": [
+      "Use a named region with explicit member ids. A region frame cannot substitute for missing evidence or fill a sparse page.",
+      "All runtime text is supplied by the current task; reference scientific content is cleared."
+    ]
+  },
+  {
+    "sourcePage": 11,
+    "sourceObjectIds": [
+      "55",
+      "70"
+    ],
+    "sourceBoundsEmu": [
+      442912,
+      6078149,
+      11306175,
+      451796
+    ],
+    "slots": {
+      "body": "70"
+    },
+    "typeId": "materials-conclusion-strip",
+    "label": "区域底部蓝色结论带",
+    "relation": "statement",
+    "sourceFile": "materials/1深蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "83cdad74701b75d8f4d2527ce1b0138c3ce54574ddc4a4dd47c7c7a04db9afcb",
+    "sourceSlidePart": "ppt/slides/slide11.xml",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "contentTasks": [
+      "region-conclusion"
+    ],
+    "contentStructures": [
+      "statement"
+    ],
+    "visualTreatment": "conclusion-strip",
+    "coordinateFixture": true,
+    "themeResolution": {
+      "themePart": "ppt/theme/theme1.xml",
+      "mapping": {
+        "bg1": "lt1",
+        "tx1": "dk1",
+        "bg2": "lt2",
+        "tx2": "dk2",
+        "accent1": "accent1",
+        "accent2": "accent2",
+        "accent3": "accent3",
+        "accent4": "accent4",
+        "accent5": "accent5",
+        "accent6": "accent6",
+        "hlink": "hlink",
+        "folHlink": "folHlink"
+      },
+      "colors": [
+        {
+          "source": "accent6",
+          "resolved": "0B4FA1"
+        },
+        {
+          "source": "accent6",
+          "resolved": "0B4FA1"
+        },
+        {
+          "source": "accent1",
+          "resolved": "549E39"
+        },
+        {
+          "source": "accent1",
+          "resolved": "549E39"
+        },
+        {
+          "source": "accent1",
+          "resolved": "549E39"
+        },
+        {
+          "source": "lt1",
+          "resolved": "FFFFFF"
+        },
+        {
+          "source": "bg1",
+          "resolved": "FFFFFF"
+        },
+        {
+          "source": "accent6",
+          "resolved": "0B4FA1"
+        }
+      ],
+      "policy": "Resolve source theme colors only; preserve geometry, alpha, lines and effects."
+    },
+    "capacityPolicy": "Use natural text height at assigned font; preserve picture aspect and reading targets. Actual PowerPoint rendering is required.",
+    "semanticConstraints": [
+      "Use a named region with explicit member ids. A region frame cannot substitute for missing evidence or fill a sparse page.",
+      "All runtime text is supplied by the current task; reference scientific content is cleared."
+    ]
+  },
+  {
+    "sourcePage": 6,
+    "sourceObjectIds": [
+      "2"
+    ],
+    "sourceBoundsEmu": [
+      1828800,
+      3271063,
+      3475038,
+      223543
+    ],
+    "slots": {},
+    "typeId": "materials-feedback-return",
+    "label": "反馈返回连接线",
+    "relation": "feedback",
+    "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+    "sourceSlidePart": "ppt/slides/slide6.xml",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "contentTasks": [
+      "feedback-return"
+    ],
+    "contentStructures": [
+      "connection"
+    ],
+    "visualTreatment": "feedback-path",
+    "coordinateFixture": true,
+    "themeResolution": {
+      "themePart": "ppt/theme/theme1.xml",
+      "mapping": {
+        "bg1": "lt1",
+        "tx1": "dk1",
+        "bg2": "lt2",
+        "tx2": "dk2",
+        "accent1": "accent1",
+        "accent2": "accent2",
+        "accent3": "accent3",
+        "accent4": "accent4",
+        "accent5": "accent5",
+        "accent6": "accent6",
+        "hlink": "hlink",
+        "folHlink": "folHlink"
+      },
+      "colors": [
+        {
+          "source": "accent1",
+          "resolved": "0046A4"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0046A4"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0046A4"
+        },
+        {
+          "source": "tx1",
+          "resolved": "000000"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0046A4"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0046A4"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0046A4"
+        },
+        {
+          "source": "tx1",
+          "resolved": "000000"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0046A4"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0046A4"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0046A4"
+        },
+        {
+          "source": "tx1",
+          "resolved": "000000"
+        }
+      ],
+      "policy": "Resolve source theme colors only; preserve geometry, alpha, lines and effects."
+    },
+    "capacityPolicy": "Use natural text height at assigned font; preserve picture aspect and reading targets. Actual PowerPoint rendering is required.",
+    "semanticConstraints": [
+      "Use a named region with explicit member ids. A region frame cannot substitute for missing evidence or fill a sparse page.",
+      "All runtime text is supplied by the current task; reference scientific content is cleared."
+    ],
+    "edgeContract": {
+      "direction": "feedback",
+      "requires": [
+        "fromId",
+        "toId",
+        "relationEvidence"
+      ],
+      "mustNotInventCausality": true
+    }
+  },
+  {
+    "sourcePage": 8,
+    "sourceObjectIds": [
+      "47",
+      "48",
+      "65",
+      "66",
+      "67",
+      "93",
+      "94",
+      "95",
+      "96",
+      "97",
+      "98",
+      "99",
+      "100"
+    ],
+    "sourceBoundsEmu": [
+      479426,
+      3696047,
+      11217274,
+      765573
+    ],
+    "slots": {
+      "date0": "93",
+      "date1": "95",
+      "date2": "97",
+      "date3": "99",
+      "body0": "94",
+      "body1": "96",
+      "body2": "98",
+      "body3": "100"
+    },
+    "typeId": "materials-timeline-four",
+    "label": "四节点细线时间轴",
+    "relation": "timeline",
+    "sourceFile": "materials/4白蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "11ea0401903ddfb9df94e5e2f9955a7f554c81d96a41d280914ac60bfb14fa5e",
+    "sourceSlidePart": "ppt/slides/slide8.xml",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": false,
+    "itemCount": 4,
+    "contentTasks": [
+      "four-milestones"
+    ],
+    "visualTreatment": "timeline",
+    "coordinateFixture": true,
+    "themeResolution": {
+      "themePart": "ppt/theme/theme1.xml",
+      "mapping": {
+        "bg1": "lt1",
+        "tx1": "dk1",
+        "bg2": "lt2",
+        "tx2": "dk2",
+        "accent1": "accent1",
+        "accent2": "accent2",
+        "accent3": "accent3",
+        "accent4": "accent4",
+        "accent5": "accent5",
+        "accent6": "accent6",
+        "hlink": "hlink",
+        "folHlink": "folHlink"
+      },
+      "colors": [
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "tx1",
+          "resolved": "000000"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "lt1",
+          "resolved": "FFFFFF"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "lt1",
+          "resolved": "FFFFFF"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "lt1",
+          "resolved": "FFFFFF"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "lt1",
+          "resolved": "FFFFFF"
+        }
+      ],
+      "policy": "Resolve source theme RGB only; retain source geometry, line, gradient and group hierarchy."
+    },
+    "capacityPolicy": "Assigned font, explicit slot boxes and real PowerPoint text checks; reject overflow instead of shrinking.",
+    "semanticConstraints": [
+      "Current task supplies all text. Reference scientific content and figures are never defaults.",
+      "Direction expresses a sourced relationship, not an invented process."
+    ],
+    "defaultTextOptions": {
+      "date0": {
+        "font": 18,
+        "bold": true,
+        "align": "ctr",
+        "vAlign": "ctr"
+      },
+      "date1": {
+        "font": 18,
+        "bold": true,
+        "align": "ctr",
+        "vAlign": "ctr"
+      },
+      "date2": {
+        "font": 18,
+        "bold": true,
+        "align": "ctr",
+        "vAlign": "ctr"
+      },
+      "date3": {
+        "font": 18,
+        "bold": true,
+        "align": "ctr",
+        "vAlign": "ctr"
+      },
+      "body0": {
+        "font": 17,
+        "align": "l",
+        "vAlign": "t"
+      },
+      "body1": {
+        "font": 17,
+        "align": "l",
+        "vAlign": "t"
+      },
+      "body2": {
+        "font": 17,
+        "align": "l",
+        "vAlign": "t"
+      },
+      "body3": {
+        "font": 17,
+        "align": "l",
+        "vAlign": "t"
+      }
+    },
+    "nodeIds": [
+      "48",
+      "65",
+      "66",
+      "67"
+    ]
+  },
+  {
+    "sourcePage": 9,
+    "sourceObjectIds": [
+      "65",
+      "87"
+    ],
+    "sourceBoundsEmu": [
+      628853,
+      3007264,
+      2409366,
+      489375
+    ],
+    "slots": {
+      "label": "87"
+    },
+    "typeId": "materials-dashed-keyword",
+    "label": "白底虚线短标签",
+    "relation": "classification",
+    "sourceFile": "materials/4白蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "11ea0401903ddfb9df94e5e2f9955a7f554c81d96a41d280914ac60bfb14fa5e",
+    "sourceSlidePart": "ppt/slides/slide9.xml",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "contentTasks": [
+      "compact-keyword"
+    ],
+    "visualTreatment": "outline-keyword",
+    "coordinateFixture": true,
+    "themeResolution": {
+      "themePart": "ppt/theme/theme1.xml",
+      "mapping": {
+        "bg1": "lt1",
+        "tx1": "dk1",
+        "bg2": "lt2",
+        "tx2": "dk2",
+        "accent1": "accent1",
+        "accent2": "accent2",
+        "accent3": "accent3",
+        "accent4": "accent4",
+        "accent5": "accent5",
+        "accent6": "accent6",
+        "hlink": "hlink",
+        "folHlink": "folHlink"
+      },
+      "colors": [
+        {
+          "source": "accent6",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent6",
+          "resolved": "0C56AE"
+        }
+      ],
+      "policy": "Resolve source theme RGB only; retain source geometry, line, gradient and group hierarchy."
+    },
+    "capacityPolicy": "Assigned font, explicit slot boxes and real PowerPoint text checks; reject overflow instead of shrinking.",
+    "semanticConstraints": [
+      "Current task supplies all text. Reference scientific content and figures are never defaults.",
+      "Direction expresses a sourced relationship, not an invented process."
+    ],
+    "defaultTextOptions": {
+      "label": {
+        "font": 18,
+        "bold": true,
+        "align": "ctr",
+        "vAlign": "ctr",
+        "color": "004BAD"
+      }
+    }
+  },
+  {
+    "sourcePage": 9,
+    "sourceObjectIds": [
+      "123",
+      "127"
+    ],
+    "sourceBoundsEmu": [
+      3435938,
+      5213981,
+      3429319,
+      520069
+    ],
+    "slots": {
+      "label": "127"
+    },
+    "typeId": "materials-compact-label",
+    "label": "白底实线短标签",
+    "relation": "condition",
+    "sourceFile": "materials/4白蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "11ea0401903ddfb9df94e5e2f9955a7f554c81d96a41d280914ac60bfb14fa5e",
+    "sourceSlidePart": "ppt/slides/slide9.xml",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "contentTasks": [
+      "material-label"
+    ],
+    "visualTreatment": "outline-keyword",
+    "coordinateFixture": true,
+    "themeResolution": {
+      "themePart": "ppt/theme/theme1.xml",
+      "mapping": {
+        "bg1": "lt1",
+        "tx1": "dk1",
+        "bg2": "lt2",
+        "tx2": "dk2",
+        "accent1": "accent1",
+        "accent2": "accent2",
+        "accent3": "accent3",
+        "accent4": "accent4",
+        "accent5": "accent5",
+        "accent6": "accent6",
+        "hlink": "hlink",
+        "folHlink": "folHlink"
+      },
+      "colors": [
+        {
+          "source": "bg1",
+          "resolved": "FFFFFF"
+        },
+        {
+          "source": "accent6",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "lt1",
+          "resolved": "FFFFFF"
+        }
+      ],
+      "policy": "Resolve source theme RGB only; retain source geometry, line, gradient and group hierarchy."
+    },
+    "capacityPolicy": "Assigned font, explicit slot boxes and real PowerPoint text checks; reject overflow instead of shrinking.",
+    "semanticConstraints": [
+      "Current task supplies all text. Reference scientific content and figures are never defaults.",
+      "Direction expresses a sourced relationship, not an invented process."
+    ],
+    "defaultTextOptions": {
+      "label": {
+        "font": 18,
+        "bold": true,
+        "align": "ctr",
+        "vAlign": "ctr",
+        "color": "004BAD"
+      }
+    }
+  },
+  {
+    "sourcePage": 9,
+    "sourceObjectIds": [
+      "63"
+    ],
+    "sourceBoundsEmu": [
+      492125,
+      2386512,
+      2669808,
+      453490
+    ],
+    "slots": {
+      "heading": "63"
+    },
+    "typeId": "materials-panel-heading",
+    "label": "通栏蓝色面板标题",
+    "relation": "heading",
+    "sourceFile": "materials/4白蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "11ea0401903ddfb9df94e5e2f9955a7f554c81d96a41d280914ac60bfb14fa5e",
+    "sourceSlidePart": "ppt/slides/slide9.xml",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "contentTasks": [
+      "panel-heading"
+    ],
+    "visualTreatment": "panel-heading",
+    "coordinateFixture": true,
+    "themeResolution": {
+      "themePart": "ppt/theme/theme1.xml",
+      "mapping": {
+        "bg1": "lt1",
+        "tx1": "dk1",
+        "bg2": "lt2",
+        "tx2": "dk2",
+        "accent1": "accent1",
+        "accent2": "accent2",
+        "accent3": "accent3",
+        "accent4": "accent4",
+        "accent5": "accent5",
+        "accent6": "accent6",
+        "hlink": "hlink",
+        "folHlink": "folHlink"
+      },
+      "colors": [
+        {
+          "source": "accent3",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent6",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "bg1",
+          "resolved": "FFFFFF"
+        },
+        {
+          "source": "bg1",
+          "resolved": "FFFFFF"
+        }
+      ],
+      "policy": "Resolve source theme RGB only; retain source geometry, line, gradient and group hierarchy."
+    },
+    "capacityPolicy": "Assigned font, explicit slot boxes and real PowerPoint text checks; reject overflow instead of shrinking.",
+    "semanticConstraints": [
+      "Current task supplies all text. Reference scientific content and figures are never defaults.",
+      "Direction expresses a sourced relationship, not an invented process."
+    ],
+    "defaultTextOptions": {
+      "heading": {
+        "font": 20,
+        "bold": true,
+        "align": "ctr",
+        "vAlign": "ctr",
+        "color": "FFFFFF"
+      }
+    }
+  },
+  {
+    "sourcePage": 10,
+    "sourceObjectIds": [
+      "235"
+    ],
+    "sourceBoundsEmu": [
+      2563074,
+      2563729,
+      461330,
+      218246
+    ],
+    "slots": {},
+    "typeId": "materials-chevron-link",
+    "label": "三段渐深说明连接件",
+    "relation": "explanation",
+    "sourceFile": "materials/4白蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "11ea0401903ddfb9df94e5e2f9955a7f554c81d96a41d280914ac60bfb14fa5e",
+    "sourceSlidePart": "ppt/slides/slide10.xml",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "contentTasks": [
+      "evidence-to-explanation"
+    ],
+    "visualTreatment": "directional-link",
+    "coordinateFixture": true,
+    "themeResolution": {
+      "themePart": "ppt/theme/theme1.xml",
+      "mapping": {
+        "bg1": "lt1",
+        "tx1": "dk1",
+        "bg2": "lt2",
+        "tx2": "dk2",
+        "accent1": "accent1",
+        "accent2": "accent2",
+        "accent3": "accent3",
+        "accent4": "accent4",
+        "accent5": "accent5",
+        "accent6": "accent6",
+        "hlink": "hlink",
+        "folHlink": "folHlink"
+      },
+      "colors": [
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        }
+      ],
+      "policy": "Resolve source theme RGB only; retain source geometry, line, gradient and group hierarchy."
+    },
+    "capacityPolicy": "Assigned font, explicit slot boxes and real PowerPoint text checks; reject overflow instead of shrinking.",
+    "semanticConstraints": [
+      "Current task supplies all text. Reference scientific content and figures are never defaults.",
+      "Direction expresses a sourced relationship, not an invented process."
+    ],
+    "defaultTextOptions": {}
+  },
+  {
+    "sourcePage": 9,
+    "sourceObjectIds": [
+      "12"
+    ],
+    "sourceBoundsEmu": [
+      4764417,
+      4687901,
+      674925,
+      377235
+    ],
+    "slots": {},
+    "typeId": "materials-upward-link",
+    "label": "由下向上机理连接件",
+    "relation": "support",
+    "sourceFile": "materials/4白蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "11ea0401903ddfb9df94e5e2f9955a7f554c81d96a41d280914ac60bfb14fa5e",
+    "sourceSlidePart": "ppt/slides/slide9.xml",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "contentTasks": [
+      "inputs-to-mechanism"
+    ],
+    "visualTreatment": "directional-link",
+    "coordinateFixture": true,
+    "themeResolution": {
+      "themePart": "ppt/theme/theme1.xml",
+      "mapping": {
+        "bg1": "lt1",
+        "tx1": "dk1",
+        "bg2": "lt2",
+        "tx2": "dk2",
+        "accent1": "accent1",
+        "accent2": "accent2",
+        "accent3": "accent3",
+        "accent4": "accent4",
+        "accent5": "accent5",
+        "accent6": "accent6",
+        "hlink": "hlink",
+        "folHlink": "folHlink"
+      },
+      "colors": [
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "lt1",
+          "resolved": "FFFFFF"
+        }
+      ],
+      "policy": "Resolve source theme RGB only; retain source geometry, line, gradient and group hierarchy."
+    },
+    "capacityPolicy": "Assigned font, explicit slot boxes and real PowerPoint text checks; reject overflow instead of shrinking.",
+    "semanticConstraints": [
+      "Current task supplies all text. Reference scientific content and figures are never defaults.",
+      "Direction expresses a sourced relationship, not an invented process."
+    ],
+    "defaultTextOptions": {}
+  },
+  {
+    "sourcePage": 14,
+    "sourceObjectIds": [
+      "124"
+    ],
+    "sourceBoundsEmu": [
+      3209171,
+      3220346,
+      674925,
+      377235
+    ],
+    "slots": {},
+    "typeId": "materials-inward-right",
+    "label": "向右汇入柔和箭头",
+    "relation": "convergence",
+    "sourceFile": "materials/4白蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "11ea0401903ddfb9df94e5e2f9955a7f554c81d96a41d280914ac60bfb14fa5e",
+    "sourceSlidePart": "ppt/slides/slide14.xml",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "contentTasks": [
+      "left-to-focus"
+    ],
+    "visualTreatment": "directional-link",
+    "coordinateFixture": true,
+    "themeResolution": {
+      "themePart": "ppt/theme/theme1.xml",
+      "mapping": {
+        "bg1": "lt1",
+        "tx1": "dk1",
+        "bg2": "lt2",
+        "tx2": "dk2",
+        "accent1": "accent1",
+        "accent2": "accent2",
+        "accent3": "accent3",
+        "accent4": "accent4",
+        "accent5": "accent5",
+        "accent6": "accent6",
+        "hlink": "hlink",
+        "folHlink": "folHlink"
+      },
+      "colors": [
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "lt1",
+          "resolved": "FFFFFF"
+        }
+      ],
+      "policy": "Resolve source theme RGB only; retain source geometry, line, gradient and group hierarchy."
+    },
+    "capacityPolicy": "Assigned font, explicit slot boxes and real PowerPoint text checks; reject overflow instead of shrinking.",
+    "semanticConstraints": [
+      "Current task supplies all text. Reference scientific content and figures are never defaults.",
+      "Direction expresses a sourced relationship, not an invented process."
+    ],
+    "defaultTextOptions": {}
+  },
+  {
+    "sourcePage": 14,
+    "sourceObjectIds": [
+      "126"
+    ],
+    "sourceBoundsEmu": [
+      8324182,
+      3220346,
+      674925,
+      377235
+    ],
+    "slots": {},
+    "typeId": "materials-inward-left",
+    "label": "向左汇入柔和箭头",
+    "relation": "convergence",
+    "sourceFile": "materials/4白蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "11ea0401903ddfb9df94e5e2f9955a7f554c81d96a41d280914ac60bfb14fa5e",
+    "sourceSlidePart": "ppt/slides/slide14.xml",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "contentTasks": [
+      "right-to-focus"
+    ],
+    "visualTreatment": "directional-link",
+    "coordinateFixture": true,
+    "themeResolution": {
+      "themePart": "ppt/theme/theme1.xml",
+      "mapping": {
+        "bg1": "lt1",
+        "tx1": "dk1",
+        "bg2": "lt2",
+        "tx2": "dk2",
+        "accent1": "accent1",
+        "accent2": "accent2",
+        "accent3": "accent3",
+        "accent4": "accent4",
+        "accent5": "accent5",
+        "accent6": "accent6",
+        "hlink": "hlink",
+        "folHlink": "folHlink"
+      },
+      "colors": [
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "lt1",
+          "resolved": "FFFFFF"
+        }
+      ],
+      "policy": "Resolve source theme RGB only; retain source geometry, line, gradient and group hierarchy."
+    },
+    "capacityPolicy": "Assigned font, explicit slot boxes and real PowerPoint text checks; reject overflow instead of shrinking.",
+    "semanticConstraints": [
+      "Current task supplies all text. Reference scientific content and figures are never defaults.",
+      "Direction expresses a sourced relationship, not an invented process."
+    ],
+    "defaultTextOptions": {}
+  },
+  {
+    "sourcePage": 14,
+    "sourceObjectIds": [
+      "12",
+      "13"
+    ],
+    "sourceBoundsEmu": [
+      479426,
+      985846,
+      11217274,
+      714367
+    ],
+    "slots": {
+      "body": "13"
+    },
+    "typeId": "materials-outline-lead",
+    "label": "白底细框引领句",
+    "relation": "statement",
+    "sourceFile": "materials/4白蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+    "sourceFileSha256": "11ea0401903ddfb9df94e5e2f9955a7f554c81d96a41d280914ac60bfb14fa5e",
+    "sourceSlidePart": "ppt/slides/slide14.xml",
+    "nativeOnly": true,
+    "noGeometryFallback": true,
+    "repeatable": true,
+    "itemCount": 1,
+    "contentTasks": [
+      "shared-overview"
+    ],
+    "visualTreatment": "outlined-statement",
+    "coordinateFixture": true,
+    "themeResolution": {
+      "themePart": "ppt/theme/theme1.xml",
+      "mapping": {
+        "bg1": "lt1",
+        "tx1": "dk1",
+        "bg2": "lt2",
+        "tx2": "dk2",
+        "accent1": "accent1",
+        "accent2": "accent2",
+        "accent3": "accent3",
+        "accent4": "accent4",
+        "accent5": "accent5",
+        "accent6": "accent6",
+        "hlink": "hlink",
+        "folHlink": "folHlink"
+      },
+      "colors": [
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "accent1",
+          "resolved": "0C56AE"
+        },
+        {
+          "source": "lt1",
+          "resolved": "FFFFFF"
+        }
+      ],
+      "policy": "Resolve source theme RGB only; retain source geometry, line, gradient and group hierarchy."
+    },
+    "capacityPolicy": "Assigned font, explicit slot boxes and real PowerPoint text checks; reject overflow instead of shrinking.",
+    "semanticConstraints": [
+      "Current task supplies all text. Reference scientific content and figures are never defaults.",
+      "Direction expresses a sourced relationship, not an invented process."
+    ],
+    "defaultTextOptions": {}
+  }
+]

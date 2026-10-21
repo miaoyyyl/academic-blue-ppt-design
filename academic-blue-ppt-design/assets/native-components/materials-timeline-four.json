@@ -1,0 +1,364 @@
+{
+  "sourcePage": 8,
+  "sourceObjectIds": [
+    "47",
+    "48",
+    "65",
+    "66",
+    "67",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98",
+    "99",
+    "100"
+  ],
+  "sourceBoundsEmu": [
+    479426,
+    3696047,
+    11217274,
+    765573
+  ],
+  "slots": {
+    "date0": "93",
+    "date1": "95",
+    "date2": "97",
+    "date3": "99",
+    "body0": "94",
+    "body1": "96",
+    "body2": "98",
+    "body3": "100"
+  },
+  "objects": [
+    {
+      "sourceId": "47",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvCxnSpPr><p:cNvPr id=\"47\" name=\"幻云PPT-演示军团1\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{D02D4E99-905E-47B1-A91C-F2FE8ABF91AC}\"/></a:ext></a:extLst></p:cNvPr><p:cNvCxnSpPr><a:cxnSpLocks/></p:cNvCxnSpPr><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm flipH=\"1\"><a:off x=\"479426\" y=\"4077710\"/><a:ext cx=\"11217274\" cy=\"0\"/></a:xfrm><a:prstGeom prst=\"line\"><a:avLst/></a:prstGeom><a:ln w=\"3175\" cmpd=\"sng\"><a:solidFill><a:srgbClr val=\"0C56AE\"/></a:solidFill><a:prstDash val=\"solid\"/><a:headEnd type=\"none\"/></a:ln></p:spPr><p:style><a:lnRef idx=\"1\"><a:srgbClr val=\"0C56AE\"/></a:lnRef><a:fillRef idx=\"0\"><a:srgbClr val=\"0C56AE\"/></a:fillRef><a:effectRef idx=\"0\"><a:srgbClr val=\"0C56AE\"/></a:effectRef><a:fontRef idx=\"minor\"><a:srgbClr val=\"000000\"/></a:fontRef></p:style></p:cxnSp>",
+      "geometryStyleSha256": "d43ec44e27ee4f602cc93b26885dcf9ba4d4d7ab87e87a04d0a1f41a6ddaf90c",
+      "sourceBoundsEmu": [
+        479426,
+        4077710,
+        11217274,
+        0
+      ],
+      "sourceGeometryStyleSha256": "f133723f14f9533a3624acca5aae33b2095563c125f280877547b1c1ecd992f4"
+    },
+    {
+      "sourceId": "48",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"48\" name=\"幻云PPT-演示军团2\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{67A5FA9D-AAC5-4038-8B8F-3339C5878274}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"1766671\" y=\"4023335\"/><a:ext cx=\"108751\" cy=\"108751\"/></a:xfrm><a:prstGeom prst=\"ellipse\"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val=\"0C56AE\"/></a:solidFill><a:ln><a:noFill/></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:srgbClr val=\"0C56AE\"><a:shade val=\"50000\"/></a:srgbClr></a:lnRef><a:fillRef idx=\"1\"><a:srgbClr val=\"0C56AE\"/></a:fillRef><a:effectRef idx=\"0\"><a:srgbClr val=\"0C56AE\"/></a:effectRef><a:fontRef idx=\"minor\"><a:srgbClr val=\"FFFFFF\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr kumimoji=\"1\" lang=\"zh-CN\" altLang=\"en-US\"/></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "a13fb2db1dfa1681881605d001b261ba7c8fa5eae9d9b6032ceb8eb3e240b8e1",
+      "sourceBoundsEmu": [
+        1766671,
+        4023335,
+        108751,
+        108751
+      ],
+      "sourceGeometryStyleSha256": "ab6c77db9b810a862b5357c6f240e2312253ca832e2620f3dfc06fd3ef746348"
+    },
+    {
+      "sourceId": "65",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"65\" name=\"幻云PPT-演示军团25\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{DC6CF33F-B78B-4B59-A1C3-22D30F8B923D}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"4609354\" y=\"4023335\"/><a:ext cx=\"108751\" cy=\"108751\"/></a:xfrm><a:prstGeom prst=\"ellipse\"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val=\"0C56AE\"/></a:solidFill><a:ln><a:noFill/></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:srgbClr val=\"0C56AE\"><a:shade val=\"50000\"/></a:srgbClr></a:lnRef><a:fillRef idx=\"1\"><a:srgbClr val=\"0C56AE\"/></a:fillRef><a:effectRef idx=\"0\"><a:srgbClr val=\"0C56AE\"/></a:effectRef><a:fontRef idx=\"minor\"><a:srgbClr val=\"FFFFFF\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr kumimoji=\"1\" lang=\"zh-CN\" altLang=\"en-US\"/></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "a13fb2db1dfa1681881605d001b261ba7c8fa5eae9d9b6032ceb8eb3e240b8e1",
+      "sourceBoundsEmu": [
+        4609354,
+        4023335,
+        108751,
+        108751
+      ],
+      "sourceGeometryStyleSha256": "c99808eaf982f7f17f381628dbfcb04213f7dc92866665583af290a9328cadc5"
+    },
+    {
+      "sourceId": "66",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"66\" name=\"幻云PPT-演示军团26\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{4F12EE98-AA8F-4ECA-867C-97AA5A1711DE}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"7452037\" y=\"4023335\"/><a:ext cx=\"108751\" cy=\"108751\"/></a:xfrm><a:prstGeom prst=\"ellipse\"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val=\"0C56AE\"/></a:solidFill><a:ln><a:noFill/></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:srgbClr val=\"0C56AE\"><a:shade val=\"50000\"/></a:srgbClr></a:lnRef><a:fillRef idx=\"1\"><a:srgbClr val=\"0C56AE\"/></a:fillRef><a:effectRef idx=\"0\"><a:srgbClr val=\"0C56AE\"/></a:effectRef><a:fontRef idx=\"minor\"><a:srgbClr val=\"FFFFFF\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr kumimoji=\"1\" lang=\"zh-CN\" altLang=\"en-US\"/></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "a13fb2db1dfa1681881605d001b261ba7c8fa5eae9d9b6032ceb8eb3e240b8e1",
+      "sourceBoundsEmu": [
+        7452037,
+        4023335,
+        108751,
+        108751
+      ],
+      "sourceGeometryStyleSha256": "4f812304ceaec12cb7a0cffd9a390cbf440bab16f64c999662e87c8ae0701df5"
+    },
+    {
+      "sourceId": "67",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"67\" name=\"幻云PPT-演示军团27\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{E2033873-09EE-4467-917F-A5DE998A80AB}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"10294721\" y=\"4023335\"/><a:ext cx=\"108751\" cy=\"108751\"/></a:xfrm><a:prstGeom prst=\"ellipse\"><a:avLst/></a:prstGeom><a:solidFill><a:srgbClr val=\"0C56AE\"/></a:solidFill><a:ln><a:noFill/></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:srgbClr val=\"0C56AE\"><a:shade val=\"50000\"/></a:srgbClr></a:lnRef><a:fillRef idx=\"1\"><a:srgbClr val=\"0C56AE\"/></a:fillRef><a:effectRef idx=\"0\"><a:srgbClr val=\"0C56AE\"/></a:effectRef><a:fontRef idx=\"minor\"><a:srgbClr val=\"FFFFFF\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr kumimoji=\"1\" lang=\"zh-CN\" altLang=\"en-US\"/></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "a13fb2db1dfa1681881605d001b261ba7c8fa5eae9d9b6032ceb8eb3e240b8e1",
+      "sourceBoundsEmu": [
+        10294721,
+        4023335,
+        108751,
+        108751
+      ],
+      "sourceGeometryStyleSha256": "d7c513116f117c156dbbf5dcc0cd331d94e5ebe883c0790ad8094483aef4639d"
+    },
+    {
+      "sourceId": "93",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"93\" name=\"幻云PPT-演示军团53\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{A1966B2F-F769-4745-8654-01042CAB5C86}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm flipH=\"1\"><a:off x=\"1352168\" y=\"3696047\"/><a:ext cx=\"937757\" cy=\"326949\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:ln w=\"12700\"><a:miter lim=\"400000\"/></a:ln></p:spPr><p:txBody><a:bodyPr wrap=\"none\" lIns=\"25400\" tIns=\"25400\" rIns=\"25400\" bIns=\"25400\" anchor=\"ctr\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:pPr algn=\"ctr\" defTabSz=\"1219169\" hangingPunct=\"0\"><a:lnSpc><a:spcPct val=\"120000\"/></a:lnSpc></a:pPr><a:r><a:rPr lang=\"en-US\" altLang=\"zh-CN\" sz=\"1600\" kern=\"0\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"000000\"/></a:solidFill><a:latin typeface=\"Arial Black\" panose=\"020B0A04020102020204\" pitchFamily=\"34\" charset=\"0\"/><a:ea typeface=\"OPPOSans M\" pitchFamily=\"18\" charset=\"-122\"/><a:cs typeface=\"OPPOSans M\" pitchFamily=\"18\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:endParaRPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" kern=\"0\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"000000\"/></a:solidFill><a:latin typeface=\"Arial Black\" panose=\"020B0A04020102020204\" pitchFamily=\"34\" charset=\"0\"/><a:ea typeface=\"OPPOSans M\" pitchFamily=\"18\" charset=\"-122\"/><a:cs typeface=\"OPPOSans M\" pitchFamily=\"18\" charset=\"-122\"/></a:endParaRPr></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "1d4e38c982d0f33488ac2a9d474012c487b8cb52280863bc36626bb3c3dabe67",
+      "sourceBoundsEmu": [
+        1352168,
+        3696047,
+        937757,
+        326949
+      ],
+      "sourceGeometryStyleSha256": "4d64b8dff5a00a5a7bf4a4a21d859bd69b0deab0949b7e319f95d564d9db45cf"
+    },
+    {
+      "sourceId": "94",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"94\" name=\"幻云PPT-演示军团54\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{A16FA8ED-093B-4439-80A1-A926CD1FEF56}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm flipH=\"1\"><a:off x=\"1385029\" y=\"4135249\"/><a:ext cx=\"872034\" cy=\"326371\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:ln w=\"12700\"><a:miter lim=\"400000\"/></a:ln></p:spPr><p:txBody><a:bodyPr wrap=\"none\" lIns=\"25400\" tIns=\"25400\" rIns=\"25400\" bIns=\"25400\" anchor=\"ctr\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:pPr algn=\"ctr\" defTabSz=\"1219169\" hangingPunct=\"0\"><a:lnSpc><a:spcPct val=\"120000\"/></a:lnSpc></a:pPr><a:r><a:rPr kumimoji=\"0\" lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" b=\"0\" i=\"0\" u=\"none\" strike=\"noStrike\" kern=\"0\" cap=\"none\" spc=\"0\" normalizeH=\"0\" baseline=\"0\" noProof=\"0\" dirty=\"0\"><a:ln><a:noFill/></a:ln><a:solidFill><a:srgbClr val=\"000000\"/></a:solidFill><a:effectLst/><a:uLnTx/><a:uFillTx/><a:latin typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"OPPOSans M\" pitchFamily=\"18\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:endParaRPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" kern=\"0\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"000000\"/></a:solidFill><a:latin typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"OPPOSans M\" pitchFamily=\"18\" charset=\"-122\"/></a:endParaRPr></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "1d4e38c982d0f33488ac2a9d474012c487b8cb52280863bc36626bb3c3dabe67",
+      "sourceBoundsEmu": [
+        1385029,
+        4135249,
+        872034,
+        326371
+      ],
+      "sourceGeometryStyleSha256": "12efaa74d47359eec65a8bf9224a0688a29401cdd57d20e28f24603f66325a66"
+    },
+    {
+      "sourceId": "95",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"95\" name=\"幻云PPT-演示军团55\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{24590781-0E8F-4D4C-865B-DB07524CB392}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm flipH=\"1\"><a:off x=\"4194851\" y=\"3696047\"/><a:ext cx=\"937757\" cy=\"326949\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:ln w=\"12700\"><a:miter lim=\"400000\"/></a:ln></p:spPr><p:txBody><a:bodyPr wrap=\"none\" lIns=\"25400\" tIns=\"25400\" rIns=\"25400\" bIns=\"25400\" anchor=\"ctr\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:pPr algn=\"ctr\" defTabSz=\"1219169\" hangingPunct=\"0\"><a:lnSpc><a:spcPct val=\"120000\"/></a:lnSpc></a:pPr><a:r><a:rPr lang=\"en-US\" altLang=\"zh-CN\" sz=\"1600\" kern=\"0\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"000000\"/></a:solidFill><a:latin typeface=\"Arial Black\" panose=\"020B0A04020102020204\" pitchFamily=\"34\" charset=\"0\"/><a:ea typeface=\"OPPOSans M\" pitchFamily=\"18\" charset=\"-122\"/><a:cs typeface=\"OPPOSans M\" pitchFamily=\"18\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:endParaRPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" kern=\"0\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"000000\"/></a:solidFill><a:latin typeface=\"Arial Black\" panose=\"020B0A04020102020204\" pitchFamily=\"34\" charset=\"0\"/><a:ea typeface=\"OPPOSans M\" pitchFamily=\"18\" charset=\"-122\"/><a:cs typeface=\"OPPOSans M\" pitchFamily=\"18\" charset=\"-122\"/></a:endParaRPr></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "1d4e38c982d0f33488ac2a9d474012c487b8cb52280863bc36626bb3c3dabe67",
+      "sourceBoundsEmu": [
+        4194851,
+        3696047,
+        937757,
+        326949
+      ],
+      "sourceGeometryStyleSha256": "deecb3feb335594e3e3d5aaee272b7b291dc53c012a43ea82a9cd87a5d247a3d"
+    },
+    {
+      "sourceId": "96",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"96\" name=\"幻云PPT-演示军团56\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{D07AC01A-0819-462D-B488-82862F902561}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm flipH=\"1\"><a:off x=\"4227713\" y=\"4135249\"/><a:ext cx=\"872034\" cy=\"326371\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:ln w=\"12700\"><a:miter lim=\"400000\"/></a:ln></p:spPr><p:txBody><a:bodyPr wrap=\"none\" lIns=\"25400\" tIns=\"25400\" rIns=\"25400\" bIns=\"25400\" anchor=\"ctr\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:pPr algn=\"ctr\" defTabSz=\"1219169\" hangingPunct=\"0\"><a:lnSpc><a:spcPct val=\"120000\"/></a:lnSpc></a:pPr><a:r><a:rPr kumimoji=\"0\" lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" b=\"0\" i=\"0\" u=\"none\" strike=\"noStrike\" kern=\"0\" cap=\"none\" spc=\"0\" normalizeH=\"0\" baseline=\"0\" noProof=\"0\" dirty=\"0\"><a:ln><a:noFill/></a:ln><a:solidFill><a:srgbClr val=\"000000\"/></a:solidFill><a:effectLst/><a:uLnTx/><a:uFillTx/><a:latin typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"OPPOSans M\" pitchFamily=\"18\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:endParaRPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" kern=\"0\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"000000\"/></a:solidFill><a:latin typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"OPPOSans M\" pitchFamily=\"18\" charset=\"-122\"/></a:endParaRPr></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "1d4e38c982d0f33488ac2a9d474012c487b8cb52280863bc36626bb3c3dabe67",
+      "sourceBoundsEmu": [
+        4227713,
+        4135249,
+        872034,
+        326371
+      ],
+      "sourceGeometryStyleSha256": "b89f8ab148620e2847fb6def51e7c9bfaab49ce6a0b6bc2b60e34b4a3688312a"
+    },
+    {
+      "sourceId": "97",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"97\" name=\"幻云PPT-演示军团57\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{401DE9C0-950B-4518-9D65-EF5F07F5F1B3}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm flipH=\"1\"><a:off x=\"7037534\" y=\"3696047\"/><a:ext cx=\"937757\" cy=\"326949\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:ln w=\"12700\"><a:miter lim=\"400000\"/></a:ln></p:spPr><p:txBody><a:bodyPr wrap=\"none\" lIns=\"25400\" tIns=\"25400\" rIns=\"25400\" bIns=\"25400\" anchor=\"ctr\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:pPr algn=\"ctr\" defTabSz=\"1219169\" hangingPunct=\"0\"><a:lnSpc><a:spcPct val=\"120000\"/></a:lnSpc></a:pPr><a:r><a:rPr lang=\"en-US\" altLang=\"zh-CN\" sz=\"1600\" kern=\"0\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"000000\"/></a:solidFill><a:latin typeface=\"Arial Black\" panose=\"020B0A04020102020204\" pitchFamily=\"34\" charset=\"0\"/><a:ea typeface=\"OPPOSans M\" pitchFamily=\"18\" charset=\"-122\"/><a:cs typeface=\"OPPOSans M\" pitchFamily=\"18\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:endParaRPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" kern=\"0\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"000000\"/></a:solidFill><a:latin typeface=\"Arial Black\" panose=\"020B0A04020102020204\" pitchFamily=\"34\" charset=\"0\"/><a:ea typeface=\"OPPOSans M\" pitchFamily=\"18\" charset=\"-122\"/><a:cs typeface=\"OPPOSans M\" pitchFamily=\"18\" charset=\"-122\"/></a:endParaRPr></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "1d4e38c982d0f33488ac2a9d474012c487b8cb52280863bc36626bb3c3dabe67",
+      "sourceBoundsEmu": [
+        7037534,
+        3696047,
+        937757,
+        326949
+      ],
+      "sourceGeometryStyleSha256": "dc49ee229f8a027d5151864efa469eea43c121a2b34a97a22e0f8146e188289d"
+    },
+    {
+      "sourceId": "98",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"98\" name=\"幻云PPT-演示军团58\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{6F46E235-7288-4605-B406-FC870A6586B3}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm flipH=\"1\"><a:off x=\"7070395\" y=\"4135249\"/><a:ext cx=\"872034\" cy=\"326371\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:ln w=\"12700\"><a:miter lim=\"400000\"/></a:ln></p:spPr><p:txBody><a:bodyPr wrap=\"none\" lIns=\"25400\" tIns=\"25400\" rIns=\"25400\" bIns=\"25400\" anchor=\"ctr\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:pPr algn=\"ctr\" defTabSz=\"1219169\" hangingPunct=\"0\"><a:lnSpc><a:spcPct val=\"120000\"/></a:lnSpc></a:pPr><a:r><a:rPr kumimoji=\"0\" lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" b=\"0\" i=\"0\" u=\"none\" strike=\"noStrike\" kern=\"0\" cap=\"none\" spc=\"0\" normalizeH=\"0\" baseline=\"0\" noProof=\"0\"><a:ln><a:noFill/></a:ln><a:solidFill><a:srgbClr val=\"000000\"/></a:solidFill><a:effectLst/><a:uLnTx/><a:uFillTx/><a:latin typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"OPPOSans M\" pitchFamily=\"18\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:endParaRPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" kern=\"0\"><a:solidFill><a:srgbClr val=\"000000\"/></a:solidFill><a:latin typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"OPPOSans M\" pitchFamily=\"18\" charset=\"-122\"/></a:endParaRPr></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "1d4e38c982d0f33488ac2a9d474012c487b8cb52280863bc36626bb3c3dabe67",
+      "sourceBoundsEmu": [
+        7070395,
+        4135249,
+        872034,
+        326371
+      ],
+      "sourceGeometryStyleSha256": "33cddf4324905b3429101b4e626a69f16fe69d25722174eedf45a9c7beae2cfe"
+    },
+    {
+      "sourceId": "99",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"99\" name=\"幻云PPT-演示军团59\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{174E2789-84B0-4C0A-B5B7-2A41E7B5D1E0}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm flipH=\"1\"><a:off x=\"9880218\" y=\"3696047\"/><a:ext cx=\"937757\" cy=\"326949\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:ln w=\"12700\"><a:miter lim=\"400000\"/></a:ln></p:spPr><p:txBody><a:bodyPr wrap=\"none\" lIns=\"25400\" tIns=\"25400\" rIns=\"25400\" bIns=\"25400\" anchor=\"ctr\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:pPr algn=\"ctr\" defTabSz=\"1219169\" hangingPunct=\"0\"><a:lnSpc><a:spcPct val=\"120000\"/></a:lnSpc></a:pPr><a:r><a:rPr lang=\"en-US\" altLang=\"zh-CN\" sz=\"1600\" kern=\"0\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"000000\"/></a:solidFill><a:latin typeface=\"Arial Black\" panose=\"020B0A04020102020204\" pitchFamily=\"34\" charset=\"0\"/><a:ea typeface=\"OPPOSans M\" pitchFamily=\"18\" charset=\"-122\"/><a:cs typeface=\"OPPOSans M\" pitchFamily=\"18\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:endParaRPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" kern=\"0\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"000000\"/></a:solidFill><a:latin typeface=\"Arial Black\" panose=\"020B0A04020102020204\" pitchFamily=\"34\" charset=\"0\"/><a:ea typeface=\"OPPOSans M\" pitchFamily=\"18\" charset=\"-122\"/><a:cs typeface=\"OPPOSans M\" pitchFamily=\"18\" charset=\"-122\"/></a:endParaRPr></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "1d4e38c982d0f33488ac2a9d474012c487b8cb52280863bc36626bb3c3dabe67",
+      "sourceBoundsEmu": [
+        9880218,
+        3696047,
+        937757,
+        326949
+      ],
+      "sourceGeometryStyleSha256": "f25998a27ee5098e6898de411d053a6e9ba8dc38a81e6d2e329d3afe1db900f0"
+    },
+    {
+      "sourceId": "100",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"100\" name=\"幻云PPT-演示军团60\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{46980C4E-A091-4DE0-9500-13AD683D0B17}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm flipH=\"1\"><a:off x=\"9913079\" y=\"4135249\"/><a:ext cx=\"872034\" cy=\"326371\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:ln w=\"12700\"><a:miter lim=\"400000\"/></a:ln></p:spPr><p:txBody><a:bodyPr wrap=\"none\" lIns=\"25400\" tIns=\"25400\" rIns=\"25400\" bIns=\"25400\" anchor=\"ctr\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:pPr algn=\"ctr\" defTabSz=\"1219169\" hangingPunct=\"0\"><a:lnSpc><a:spcPct val=\"120000\"/></a:lnSpc></a:pPr><a:r><a:rPr kumimoji=\"0\" lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" b=\"0\" i=\"0\" u=\"none\" strike=\"noStrike\" kern=\"0\" cap=\"none\" spc=\"0\" normalizeH=\"0\" baseline=\"0\" noProof=\"0\"><a:ln><a:noFill/></a:ln><a:solidFill><a:srgbClr val=\"000000\"/></a:solidFill><a:effectLst/><a:uLnTx/><a:uFillTx/><a:latin typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"OPPOSans M\" pitchFamily=\"18\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:endParaRPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" kern=\"0\"><a:solidFill><a:srgbClr val=\"000000\"/></a:solidFill><a:latin typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"OPPOSans M\" pitchFamily=\"18\" charset=\"-122\"/></a:endParaRPr></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "1d4e38c982d0f33488ac2a9d474012c487b8cb52280863bc36626bb3c3dabe67",
+      "sourceBoundsEmu": [
+        9913079,
+        4135249,
+        872034,
+        326371
+      ],
+      "sourceGeometryStyleSha256": "33673b8b0fc98f851c8608aaec396b32889b1945b6f084e41913267c427944c3"
+    }
+  ],
+  "typeId": "materials-timeline-four",
+  "label": "四节点细线时间轴",
+  "relation": "timeline",
+  "sourceFile": "materials/4白蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+  "sourceFileSha256": "11ea0401903ddfb9df94e5e2f9955a7f554c81d96a41d280914ac60bfb14fa5e",
+  "sourceSlidePart": "ppt/slides/slide8.xml",
+  "nativeOnly": true,
+  "noGeometryFallback": true,
+  "repeatable": false,
+  "itemCount": 4,
+  "contentTasks": [
+    "four-milestones"
+  ],
+  "visualTreatment": "timeline",
+  "coordinateFixture": true,
+  "themeResolution": {
+    "themePart": "ppt/theme/theme1.xml",
+    "mapping": {
+      "bg1": "lt1",
+      "tx1": "dk1",
+      "bg2": "lt2",
+      "tx2": "dk2",
+      "accent1": "accent1",
+      "accent2": "accent2",
+      "accent3": "accent3",
+      "accent4": "accent4",
+      "accent5": "accent5",
+      "accent6": "accent6",
+      "hlink": "hlink",
+      "folHlink": "folHlink"
+    },
+    "colors": [
+      {
+        "source": "accent1",
+        "resolved": "0C56AE"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0C56AE"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0C56AE"
+      },
+      {
+        "source": "tx1",
+        "resolved": "000000"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0C56AE"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0C56AE"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0C56AE"
+      },
+      {
+        "source": "lt1",
+        "resolved": "FFFFFF"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0C56AE"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0C56AE"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0C56AE"
+      },
+      {
+        "source": "lt1",
+        "resolved": "FFFFFF"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0C56AE"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0C56AE"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0C56AE"
+      },
+      {
+        "source": "lt1",
+        "resolved": "FFFFFF"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0C56AE"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0C56AE"
+      },
+      {
+        "source": "accent1",
+        "resolved": "0C56AE"
+      },
+      {
+        "source": "lt1",
+        "resolved": "FFFFFF"
+      }
+    ],
+    "policy": "Resolve source theme RGB only; retain source geometry, line, gradient and group hierarchy."
+  },
+  "capacityPolicy": "Assigned font, explicit slot boxes and real PowerPoint text checks; reject overflow instead of shrinking.",
+  "semanticConstraints": [
+    "Current task supplies all text. Reference scientific content and figures are never defaults.",
+    "Direction expresses a sourced relationship, not an invented process."
+  ],
+  "defaultTextOptions": {
+    "date0": {
+      "font": 18,
+      "bold": true,
+      "align": "ctr",
+      "vAlign": "ctr"
+    },
+    "date1": {
+      "font": 18,
+      "bold": true,
+      "align": "ctr",
+      "vAlign": "ctr"
+    },
+    "date2": {
+      "font": 18,
+      "bold": true,
+      "align": "ctr",
+      "vAlign": "ctr"
+    },
+    "date3": {
+      "font": 18,
+      "bold": true,
+      "align": "ctr",
+      "vAlign": "ctr"
+    },
+    "body0": {
+      "font": 17,
+      "align": "l",
+      "vAlign": "t"
+    },
+    "body1": {
+      "font": 17,
+      "align": "l",
+      "vAlign": "t"
+    },
+    "body2": {
+      "font": 17,
+      "align": "l",
+      "vAlign": "t"
+    },
+    "body3": {
+      "font": 17,
+      "align": "l",
+      "vAlign": "t"
+    }
+  },
+  "nodeIds": [
+    "48",
+    "65",
+    "66",
+    "67"
+  ]
+}

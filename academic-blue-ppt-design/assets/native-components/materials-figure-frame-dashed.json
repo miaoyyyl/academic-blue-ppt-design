@@ -1,0 +1,81 @@
+{
+  "sourcePage": 3,
+  "sourceObjectIds": [
+    "52"
+  ],
+  "sourceBoundsEmu": [
+    5927323,
+    1253693,
+    5329337,
+    1974478
+  ],
+  "slots": {},
+  "objects": [
+    {
+      "sourceId": "52",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"52\" name=\"幻云PPT-演示军团14\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{8B6497E6-02C2-4676-BFEA-335DC644A147}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"5927323\" y=\"1253693\"/><a:ext cx=\"5329337\" cy=\"1974478\"/></a:xfrm><a:prstGeom prst=\"roundRect\"><a:avLst><a:gd name=\"adj\" fmla=\"val 3651\"/></a:avLst></a:prstGeom><a:solidFill><a:srgbClr val=\"0C56AE\"><a:alpha val=\"3000\"/></a:srgbClr></a:solidFill><a:ln w=\"9525\" cap=\"flat\" cmpd=\"sng\" algn=\"ctr\"><a:solidFill><a:srgbClr val=\"0C56AE\"/></a:solidFill><a:prstDash val=\"lgDash\"/><a:miter lim=\"800000\"/></a:ln><a:effectLst/></p:spPr><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"just\" defTabSz=\"457200\"/><a:endParaRPr lang=\"en-US\" sz=\"1200\" kern=\"0\" dirty=\"0\"><a:solidFill><a:prstClr val=\"white\"/></a:solidFill><a:latin typeface=\"Roboto\"/><a:ea typeface=\"等线\" panose=\"02010600030101010101\" pitchFamily=\"2\" charset=\"-122\"/></a:endParaRPr></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "2db91cdc464e5cd8a9a10b0e1867dba3b107f13ff94c61338ba27d02d139424c",
+      "sourceBoundsEmu": [
+        5927323,
+        1253693,
+        5329337,
+        1974478
+      ],
+      "sourceGeometryStyleSha256": "816172b16febaebf2ef9697f0d0e45388510c517258b221aa341bd14cbc74210"
+    }
+  ],
+  "typeId": "materials-figure-frame-dashed",
+  "label": "虚线图组容器",
+  "relation": "figure-frame",
+  "sourceFile": "materials/4白蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+  "sourceFileSha256": "11ea0401903ddfb9df94e5e2f9955a7f554c81d96a41d280914ac60bfb14fa5e",
+  "sourceSlidePart": "ppt/slides/slide3.xml",
+  "nativeOnly": true,
+  "noGeometryFallback": true,
+  "repeatable": true,
+  "itemCount": 1,
+  "contentTasks": [
+    "figure-container"
+  ],
+  "contentStructures": [
+    "figure",
+    "figure-group"
+  ],
+  "visualTreatment": "figure-frame-dashed",
+  "frameStyle": "dashed",
+  "lineContract": {
+    "dash": "lgDash",
+    "widthPt": 0.75,
+    "color": "0C56AE"
+  },
+  "themeResolution": {
+    "themePart": "ppt/theme/theme1.xml",
+    "mapping": {
+      "bg1": "lt1",
+      "tx1": "dk1",
+      "bg2": "lt2",
+      "tx2": "dk2",
+      "accent1": "accent1",
+      "accent2": "accent2",
+      "accent3": "accent3",
+      "accent4": "accent4",
+      "accent5": "accent5",
+      "accent6": "accent6",
+      "hlink": "hlink",
+      "folHlink": "folHlink"
+    },
+    "colors": [
+      {
+        "source": "accent6",
+        "resolved": "0C56AE"
+      },
+      {
+        "source": "accent6",
+        "resolved": "0C56AE"
+      }
+    ],
+    "reason": "Bake the actual source theme colors so copied objects retain appearance under the target master. Geometry, line width, dash, fill and effects are copied."
+  },
+  "capacityPolicy": "Frame actual image union plus 2-12 px padding; no empty-space quota. Keep all picture pixels and editable native line.",
+  "coordinateFixture": true
+}

@@ -1,0 +1,37 @@
+{
+  "sourcePage": 12,
+  "sourceObjectIds": [
+    "4104"
+  ],
+  "sourceBoundsEmu": [
+    6258601,
+    2495337,
+    5318359,
+    3761215
+  ],
+  "slots": {
+    "image": "4104"
+  },
+  "objects": [
+    {
+      "sourceId": "4104",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"4104\" name=\"Picture 8\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{B321E30E-DDD1-4607-BCD2-A8C7A22B3500}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\" noChangeArrowheads=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"ASSET_SLOT\"/><a:srcRect/><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr bwMode=\"auto\"><a:xfrm><a:off x=\"6258601\" y=\"2495337\"/><a:ext cx=\"5318359\" cy=\"3761215\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/><a:extLst><a:ext uri=\"{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}\"><a14:hiddenFill xmlns:a14=\"http://schemas.microsoft.com/office/drawing/2010/main\"><a:solidFill><a:srgbClr val=\"FFFFFF\"/></a:solidFill></a14:hiddenFill></a:ext></a:extLst></p:spPr></p:pic>",
+      "geometryStyleSha256": "76a7e4891d5b2ad8e20d7fcd7441035f54d6c2d7a589329c93426f3717bc41bf",
+      "sourceBoundsEmu": [
+        6258601,
+        2495337,
+        5318359,
+        3761215
+      ]
+    }
+  ],
+  "typeId": "materials-paper-image",
+  "relation": "figure",
+  "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+  "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+  "nativeOnly": true,
+  "noGeometryFallback": true,
+  "repeatable": true,
+  "itemCount": 1,
+  "capacityPolicy": "Explicit font and slot bounds; actual PowerPoint fit check is mandatory. Never shrink or truncate."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "materials-paper-image-optional",
+  "role": "component-test",
+  "title": "materials-paper-image / optional",
+  "operations": [
+    {
+      "typeId": "materials-paper-image",
+      "bounds": [
+        80,
+        160,
+        450,
+        420
+      ],
+      "fields": {},
+      "textOptions": {},
+      "assetId": "neutral-image"
+    }
+  ],
+  "notes": "中性组件检验；没有科学事实与用户身份。"
+}

@@ -1,0 +1,156 @@
+{
+  "id": "materials-gradient-tab-capacity",
+  "role": "component-test",
+  "title": "渐变胶囊标题 · 近容量内容",
+  "operations": [
+    {
+      "typeId": "materials-frame",
+      "bounds": [
+        0,
+        0,
+        1280,
+        77
+      ],
+      "fields": {
+        "title": "渐变胶囊标题 · 近容量内容",
+        "number": "10"
+      },
+      "textOptions": {
+        "title": {
+          "font": 30,
+          "color": "FFFFFF",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 100,
+          "box": [
+            124,
+            10,
+            1100,
+            57
+          ],
+          "bold": true
+        },
+        "number": {
+          "font": 23,
+          "color": "004BAD",
+          "align": "ctr",
+          "vAlign": "ctr",
+          "leading": 100,
+          "box": [
+            45,
+            13,
+            73,
+            50
+          ],
+          "bold": true
+        }
+      },
+      "objectBoxes": {},
+      "id": "materials-gradient-tab-capacity.op1"
+    },
+    {
+      "typeId": "materials-gradient-tab",
+      "bounds": [
+        80,
+        210,
+        480,
+        72
+      ],
+      "fields": {
+        "heading": "条件、方法与证据的联合说明"
+      },
+      "textOptions": {
+        "heading": {
+          "font": 22,
+          "color": "FFFFFF",
+          "align": "ctr",
+          "vAlign": "ctr",
+          "leading": 110,
+          "box": [
+            100,
+            222,
+            440,
+            48
+          ],
+          "bold": true
+        }
+      },
+      "objectBoxes": {
+        "33": [
+          80,
+          210,
+          480,
+          72
+        ]
+      },
+      "id": "materials-gradient-tab-capacity.op2"
+    },
+    {
+      "typeId": "materials-text",
+      "bounds": [
+        85,
+        320,
+        1110,
+        160
+      ],
+      "fields": {
+        "body": [
+          "围绕同一问题说明条件、作用与边界，正文保持可编辑。",
+          "对象在指定条件下产生相应变化，说明材料、方法与观察之间的联系；解释适用范围及证据边界，具体结论须由调用方本次输入支持。"
+        ]
+      },
+      "textOptions": {
+        "body": {
+          "font": 19,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 110,
+          "box": [
+            85,
+            320,
+            1110,
+            111.57
+          ],
+          "bold": false
+        }
+      },
+      "objectBoxes": {},
+      "id": "materials-gradient-tab-capacity.op3"
+    },
+    {
+      "typeId": "materials-caption",
+      "bounds": [
+        60,
+        665,
+        1160,
+        42
+      ],
+      "fields": {
+        "body": "materials-gradient-tab | materials/1深蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx | 原页 7 | 中性示例，非科研结论"
+      },
+      "textOptions": {
+        "body": {
+          "font": 11,
+          "color": "284461",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 100,
+          "box": [
+            60,
+            665,
+            1160,
+            42
+          ],
+          "bold": false
+        }
+      },
+      "objectBoxes": {},
+      "id": "materials-gradient-tab-capacity.op4"
+    }
+  ],
+  "notes": [
+    "中性原生组件测试，不包含样本原文、Logo或科研结论。",
+    "源组件：materials/1深蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx，实际页码7，对象33,34"
+  ]
+}

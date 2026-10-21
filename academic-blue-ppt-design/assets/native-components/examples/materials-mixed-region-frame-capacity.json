@@ -1,0 +1,20 @@
+{
+  "id": "materials-mixed-region-frame-capacity",
+  "role": "component-test",
+  "title": "图文混合区域外框 / capacity",
+  "operations": [
+    {
+      "id": "materials-mixed-region-frame-capacity",
+      "typeId": "materials-mixed-region-frame",
+      "bounds": [
+        100,
+        180,
+        1040,
+        420
+      ],
+      "fields": {},
+      "textOptions": {}
+    }
+  ],
+  "notes": "中性原生组件检查，不代表区域组合编译已经实现。"
+}

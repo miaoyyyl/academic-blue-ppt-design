@@ -1,0 +1,48 @@
+{
+  "id": "materials-compact-label-optional",
+  "role": "component-test",
+  "title": "白底实线短标签",
+  "operations": [
+    {
+      "id": "materials-compact-label-optional",
+      "typeId": "materials-compact-label",
+      "bounds": [
+        150,
+        240,
+        260,
+        80
+      ],
+      "fields": {
+        "label": ""
+      },
+      "textOptions": {
+        "label": {
+          "box": [
+            166,
+            248,
+            228,
+            64
+          ],
+          "font": 18,
+          "align": "ctr",
+          "vAlign": "ctr"
+        }
+      },
+      "objectBoxes": {
+        "123": [
+          150,
+          240,
+          260,
+          80
+        ],
+        "127": [
+          166,
+          248,
+          228,
+          64
+        ]
+      }
+    }
+  ],
+  "notes": "中性原生组件示例"
+}

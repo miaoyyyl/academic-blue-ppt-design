@@ -1,0 +1,37 @@
+{
+  "sourcePage": 14,
+  "sourceObjectIds": [
+    "13"
+  ],
+  "sourceBoundsEmu": [
+    643586,
+    3706358,
+    11167414,
+    782971
+  ],
+  "slots": {
+    "body": "13"
+  },
+  "objects": [
+    {
+      "sourceId": "13",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"13\" name=\"米菲PPT31\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{9AF9A8DA-7E02-4D79-BD6C-B5220EEBF6F8}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"643586\" y=\"3706358\"/><a:ext cx=\"11167414\" cy=\"782971\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL=\"360000\" indent=\"-360000\"><a:lnSpc><a:spcPct val=\"130000\"/></a:lnSpc><a:buFont typeface=\"+mj-lt\"/><a:buAutoNum type=\"romanUcPeriod\"/></a:pPr><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" dirty=\"0\"><a:latin typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/><a:sym typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/></a:rPr><a:t></a:t></a:r><a:r><a:rPr lang=\"en-US\" altLang=\"zh-CN\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"C00000\"/></a:solidFill><a:latin typeface=\"Arial Black\" panose=\"020B0A04020102020204\" pitchFamily=\"34\" charset=\"0\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/><a:sym typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/></a:rPr><a:t></a:t></a:r><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" dirty=\"0\"><a:latin typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/><a:sym typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/></a:rPr><a:t></a:t></a:r><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"C00000\"/></a:solidFill><a:latin typeface=\"Arial Black\" panose=\"020B0A04020102020204\" pitchFamily=\"34\" charset=\"0\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/><a:sym typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/></a:rPr><a:t></a:t></a:r><a:r><a:rPr lang=\"en-US\" altLang=\"zh-CN\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"C00000\"/></a:solidFill><a:latin typeface=\"Arial Black\" panose=\"020B0A04020102020204\" pitchFamily=\"34\" charset=\"0\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/><a:sym typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/></a:rPr><a:t></a:t></a:r><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" dirty=\"0\"><a:latin typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/><a:sym typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/></a:rPr><a:t></a:t></a:r><a:r><a:rPr lang=\"en-US\" altLang=\"zh-CN\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"C00000\"/></a:solidFill><a:latin typeface=\"Arial Black\" panose=\"020B0A04020102020204\" pitchFamily=\"34\" charset=\"0\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/><a:sym typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/></a:rPr><a:t></a:t></a:r><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"C00000\"/></a:solidFill><a:latin typeface=\"Arial Black\" panose=\"020B0A04020102020204\" pitchFamily=\"34\" charset=\"0\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/><a:sym typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/></a:rPr><a:t></a:t></a:r><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" dirty=\"0\"><a:latin typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/><a:sym typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/></a:rPr><a:t></a:t></a:r></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "0cf2d1c08a049a03c4f13c6ce4cbc0bdb12d1f0fec4cf471adfdeba238cb3d30",
+      "sourceBoundsEmu": [
+        643586,
+        3706358,
+        11167414,
+        782971
+      ]
+    }
+  ],
+  "typeId": "materials-text",
+  "relation": "text",
+  "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+  "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+  "nativeOnly": true,
+  "noGeometryFallback": true,
+  "repeatable": true,
+  "itemCount": 1,
+  "capacityPolicy": "Explicit font and slot bounds; actual PowerPoint fit check is mandatory. Never shrink or truncate."
+}

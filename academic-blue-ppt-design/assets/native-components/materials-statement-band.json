@@ -1,0 +1,49 @@
+{
+  "sourcePage": 18,
+  "sourceObjectIds": [
+    "11",
+    "12"
+  ],
+  "sourceBoundsEmu": [
+    479426,
+    959184,
+    11217274,
+    1132717
+  ],
+  "slots": {
+    "body": "12"
+  },
+  "objects": [
+    {
+      "sourceId": "11",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"11\" name=\"矩形: 圆角 10\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{DFAD366D-47C1-42AE-98F6-C6A4D81A3220}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"479426\" y=\"959184\"/><a:ext cx=\"11217274\" cy=\"1132717\"/></a:xfrm><a:prstGeom prst=\"roundRect\"><a:avLst><a:gd name=\"adj\" fmla=\"val 0\"/></a:avLst></a:prstGeom><a:solidFill><a:schemeClr val=\"bg1\"><a:lumMod val=\"95000\"/></a:schemeClr></a:solidFill><a:ln><a:noFill/></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"50000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"zh-CN\" altLang=\"en-US\"/></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "cc25c5db8a7e9031e613a9c73dd1c9fca4491ba0000d29fa6026d80933972613",
+      "sourceBoundsEmu": [
+        479426,
+        959184,
+        11217274,
+        1132717
+      ]
+    },
+    {
+      "sourceId": "12",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"12\" name=\"文本框 11\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{BDB50CF6-2E9B-4B01-AC27-B5DD0009B732}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"611211\" y=\"986102\"/><a:ext cx=\"10953705\" cy=\"1012778\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:pPr algn=\"ctr\"><a:lnSpc><a:spcPct val=\"130000\"/></a:lnSpc></a:pPr><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"2400\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"C00000\"/></a:solidFill><a:latin typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/></a:rPr><a:t></a:t></a:r></a:p><a:p><a:pPr algn=\"ctr\"><a:lnSpc><a:spcPct val=\"130000\"/></a:lnSpc></a:pPr><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"2400\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"C00000\"/></a:solidFill><a:latin typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/></a:rPr><a:t></a:t></a:r><a:endParaRPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"2400\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"C00000\"/></a:solidFill><a:latin typeface=\"Arial Black\" panose=\"020B0A04020102020204\" pitchFamily=\"34\" charset=\"0\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/></a:endParaRPr></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "0cf2d1c08a049a03c4f13c6ce4cbc0bdb12d1f0fec4cf471adfdeba238cb3d30",
+      "sourceBoundsEmu": [
+        611211,
+        986102,
+        10953705,
+        1012778
+      ]
+    }
+  ],
+  "typeId": "materials-statement-band",
+  "relation": "statement",
+  "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+  "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+  "nativeOnly": true,
+  "noGeometryFallback": true,
+  "repeatable": false,
+  "itemCount": 1,
+  "capacityPolicy": "Explicit font and slot bounds; actual PowerPoint fit check is mandatory. Never shrink or truncate."
+}

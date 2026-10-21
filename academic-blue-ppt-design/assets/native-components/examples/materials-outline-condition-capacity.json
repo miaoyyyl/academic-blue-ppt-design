@@ -1,0 +1,151 @@
+{
+  "id": "materials-outline-condition-capacity",
+  "role": "component-test",
+  "title": "紧凑白底细蓝框条件节点 / capacity",
+  "operations": [
+    {
+      "typeId": "materials-frame",
+      "bounds": [
+        0,
+        0,
+        1280,
+        77
+      ],
+      "fields": {
+        "title": "紧凑白底细蓝框条件节点 / 容量",
+        "number": "03"
+      },
+      "textOptions": {
+        "title": {
+          "font": 27,
+          "bold": true,
+          "color": "FFFFFF",
+          "box": [
+            124,
+            10,
+            1100,
+            57
+          ]
+        },
+        "number": {
+          "font": 23,
+          "color": "0046A4",
+          "align": "ctr",
+          "vAlign": "ctr",
+          "box": [
+            45,
+            13,
+            73,
+            50
+          ]
+        }
+      }
+    },
+    {
+      "typeId": "materials-outline-condition",
+      "bounds": [
+        90,
+        270,
+        320,
+        80
+      ],
+      "fields": {
+        "body": "说明对象甲的条件、作用及证据边界，保留。"
+      },
+      "objectBoxes": {
+        "90": [
+          90,
+          270,
+          320,
+          80
+        ]
+      },
+      "textOptions": {
+        "body": {
+          "font": 18,
+          "bold": true,
+          "color": "0046A4",
+          "align": "ctr",
+          "box": [
+            102,
+            280,
+            296,
+            60
+          ],
+          "leading": 108
+        }
+      }
+    },
+    {
+      "typeId": "materials-outline-condition",
+      "bounds": [
+        480,
+        270,
+        320,
+        80
+      ],
+      "fields": {
+        "body": "说明对象甲的条件、作用及证据边界，保留。"
+      },
+      "objectBoxes": {
+        "90": [
+          480,
+          270,
+          320,
+          80
+        ]
+      },
+      "textOptions": {
+        "body": {
+          "font": 18,
+          "bold": true,
+          "color": "0046A4",
+          "align": "ctr",
+          "box": [
+            492,
+            280,
+            296,
+            60
+          ],
+          "leading": 108
+        }
+      }
+    },
+    {
+      "typeId": "materials-outline-condition",
+      "bounds": [
+        870,
+        270,
+        320,
+        80
+      ],
+      "fields": {
+        "body": "说明对象甲的条件、作用及证据边界，保留。"
+      },
+      "objectBoxes": {
+        "90": [
+          870,
+          270,
+          320,
+          80
+        ]
+      },
+      "textOptions": {
+        "body": {
+          "font": 18,
+          "bold": true,
+          "color": "0046A4",
+          "align": "ctr",
+          "box": [
+            882,
+            280,
+            296,
+            60
+          ],
+          "leading": 108
+        }
+      }
+    }
+  ],
+  "notes": "中性组件操作示例。没有科学事实、用户身份或原稿图片。容量数值为待 PowerPoint 实渲染核验的候选边界。"
+}

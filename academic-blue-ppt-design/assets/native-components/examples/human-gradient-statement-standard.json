@@ -1,0 +1,130 @@
+{
+  "id": "human-gradient-statement-standard",
+  "role": "component-test",
+  "title": "渐变核心判断 · 标准内容",
+  "operations": [
+    {
+      "typeId": "materials-frame",
+      "bounds": [
+        0,
+        0,
+        1280,
+        77
+      ],
+      "fields": {
+        "title": "渐变核心判断 · 标准内容",
+        "number": "8"
+      },
+      "textOptions": {
+        "title": {
+          "font": 30,
+          "color": "FFFFFF",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 100,
+          "box": [
+            124,
+            10,
+            1100,
+            57
+          ],
+          "bold": true
+        },
+        "number": {
+          "font": 23,
+          "color": "004BAD",
+          "align": "ctr",
+          "vAlign": "ctr",
+          "leading": 100,
+          "box": [
+            45,
+            13,
+            73,
+            50
+          ],
+          "bold": true
+        }
+      },
+      "objectBoxes": {},
+      "id": "human-gradient-statement-standard.op1"
+    },
+    {
+      "typeId": "human-gradient-statement",
+      "bounds": [
+        60,
+        220,
+        1160,
+        95
+      ],
+      "fields": {
+        "body": "共同条件与适用边界：用可编辑正文表达核心判断。"
+      },
+      "textOptions": {
+        "body": {
+          "font": 23,
+          "color": "004BAD",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 110,
+          "box": [
+            78,
+            232,
+            1124,
+            71
+          ],
+          "bold": true,
+          "emphasis": [
+            {
+              "text": "共同条件与适用边界",
+              "color": "C00000",
+              "bold": true
+            }
+          ]
+        }
+      },
+      "objectBoxes": {
+        "49": [
+          60,
+          220,
+          1160,
+          95
+        ]
+      },
+      "id": "human-gradient-statement-standard.op2"
+    },
+    {
+      "typeId": "materials-caption",
+      "bounds": [
+        60,
+        665,
+        1160,
+        42
+      ],
+      "fields": {
+        "body": "human-gradient-statement | by_human/环境修复Cd污染修复.pptx | 原页 15 | 中性示例，非科研结论"
+      },
+      "textOptions": {
+        "body": {
+          "font": 11,
+          "color": "284461",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 100,
+          "box": [
+            60,
+            665,
+            1160,
+            42
+          ],
+          "bold": false
+        }
+      },
+      "objectBoxes": {},
+      "id": "human-gradient-statement-standard.op3"
+    }
+  ],
+  "notes": [
+    "中性原生组件测试，不包含样本原文、Logo或科研结论。",
+    "源组件：by_human/环境修复Cd污染修复.pptx，实际页码15，对象49,50"
+  ]
+}

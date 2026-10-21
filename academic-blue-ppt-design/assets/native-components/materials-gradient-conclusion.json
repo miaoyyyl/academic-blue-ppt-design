@@ -1,0 +1,111 @@
+{
+  "sourcePage": 6,
+  "sourceObjectIds": [
+    "100",
+    "105"
+  ],
+  "sourceBoundsEmu": [
+    492840,
+    5791724,
+    11191160,
+    647174
+  ],
+  "slots": {
+    "body": "105"
+  },
+  "objects": [
+    {
+      "sourceId": "100",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"100\" name=\"矩形: 圆角 99\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{1A05459E-303F-4A4B-993B-FBDA62C50BBE}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm flipH=\"1\"><a:off x=\"492840\" y=\"5791724\"/><a:ext cx=\"11191160\" cy=\"647174\"/></a:xfrm><a:prstGeom prst=\"roundRect\"><a:avLst><a:gd name=\"adj\" fmla=\"val 0\"/></a:avLst></a:prstGeom><a:gradFill><a:gsLst><a:gs pos=\"100000\"><a:srgbClr val=\"0046A4\"><a:alpha val=\"0\"/></a:srgbClr></a:gs><a:gs pos=\"0\"><a:srgbClr val=\"0046A4\"><a:alpha val=\"0\"/></a:srgbClr></a:gs><a:gs pos=\"50000\"><a:srgbClr val=\"0046A4\"><a:alpha val=\"10000\"/></a:srgbClr></a:gs></a:gsLst><a:lin ang=\"10800000\" scaled=\"0\"/></a:gradFill><a:ln w=\"3175\"><a:noFill/></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:srgbClr val=\"0046A4\"><a:shade val=\"50000\"/></a:srgbClr></a:lnRef><a:fillRef idx=\"1\"><a:srgbClr val=\"0046A4\"/></a:fillRef><a:effectRef idx=\"0\"><a:srgbClr val=\"0046A4\"/></a:effectRef><a:fontRef idx=\"minor\"><a:srgbClr val=\"FFFFFF\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr marL=\"0\" marR=\"0\" lvl=\"0\" indent=\"0\" algn=\"ctr\" defTabSz=\"457200\" rtl=\"0\" eaLnBrk=\"1\" fontAlgn=\"auto\" latinLnBrk=\"0\" hangingPunct=\"1\"><a:lnSpc><a:spcPct val=\"100000\"/></a:lnSpc><a:spcBef><a:spcPts val=\"0\"/></a:spcBef><a:spcAft><a:spcPts val=\"0\"/></a:spcAft><a:buClrTx/><a:buSzTx/><a:buFontTx/><a:buNone/><a:tabLst/><a:defRPr/></a:pPr><a:endParaRPr kumimoji=\"0\" lang=\"zh-CN\" altLang=\"en-US\" sz=\"1800\" b=\"0\" i=\"0\" u=\"none\" strike=\"noStrike\" kern=\"1200\" cap=\"none\" spc=\"0\" normalizeH=\"0\" baseline=\"0\" noProof=\"0\" dirty=\"0\"><a:ln><a:noFill/></a:ln><a:solidFill><a:prstClr val=\"white\"/></a:solidFill><a:effectLst/><a:uLnTx/><a:uFillTx/><a:latin typeface=\"Calibri\" panose=\"020F0502020204030204\"/><a:ea typeface=\"宋体\" panose=\"02010600030101010101\" pitchFamily=\"2\" charset=\"-122\"/><a:cs typeface=\"+mn-cs\"/></a:endParaRPr></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "f502bf2c07f895753d0033b45da3af0b6183253cee84a0b8bc4f0fec6a42ec31",
+      "sourceBoundsEmu": [
+        492840,
+        5791724,
+        11191160,
+        647174
+      ]
+    },
+    {
+      "sourceId": "105",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"105\" name=\"米菲PPT38\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{F2664623-05BA-4CC8-B3CA-37B35817F347}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"2925902\" y=\"5900938\"/><a:ext cx=\"6340197\" cy=\"461665\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"none\"><a:spAutoFit/></a:bodyPr><a:lstStyle><a:defPPr><a:defRPr lang=\"zh-CN\"/></a:defPPr><a:lvl1pPr algn=\"ctr\"><a:defRPr sz=\"2400\"><a:solidFill><a:srgbClr val=\"C00000\"/></a:solidFill><a:effectLst><a:glow rad=\"38100\"><a:srgbClr val=\"FFFFFF\"/></a:glow></a:effectLst><a:latin typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"Times New Roman\" panose=\"02020603050405020304\" pitchFamily=\"18\" charset=\"0\"/></a:defRPr></a:lvl1pPr></a:lstStyle><a:p><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" dirty=\"0\"/><a:t/></a:r></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "0cf2d1c08a049a03c4f13c6ce4cbc0bdb12d1f0fec4cf471adfdeba238cb3d30",
+      "sourceBoundsEmu": [
+        2925902,
+        5900938,
+        6340197,
+        461665
+      ]
+    }
+  ],
+  "typeId": "materials-gradient-conclusion",
+  "label": "渐变收束判断带",
+  "relation": "statement",
+  "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+  "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+  "sourceSlidePart": "ppt/slides/slide6.xml",
+  "nativeOnly": true,
+  "noGeometryFallback": true,
+  "repeatable": true,
+  "itemCount": 1,
+  "visualTreatment": "gradient-band",
+  "contentTasks": [
+    "conclusion",
+    "shared-result",
+    "integration"
+  ],
+  "markerRole": null,
+  "defaultTextOptions": {},
+  "bulletSource": null,
+  "coordinateFixture": true,
+  "themeResolution": {
+    "policy": "resolve source scheme colors to source RGB; preserve alpha/luminance/gradient stops",
+    "themePart": "ppt/theme/theme1.xml",
+    "mappings": [
+      {
+        "scheme": "accent1",
+        "mapped": "accent1",
+        "rgb": "0046A4"
+      },
+      {
+        "scheme": "accent1",
+        "mapped": "accent1",
+        "rgb": "0046A4"
+      },
+      {
+        "scheme": "accent1",
+        "mapped": "accent1",
+        "rgb": "0046A4"
+      },
+      {
+        "scheme": "accent1",
+        "mapped": "accent1",
+        "rgb": "0046A4"
+      },
+      {
+        "scheme": "accent1",
+        "mapped": "accent1",
+        "rgb": "0046A4"
+      },
+      {
+        "scheme": "accent1",
+        "mapped": "accent1",
+        "rgb": "0046A4"
+      },
+      {
+        "scheme": "lt1",
+        "mapped": "lt1",
+        "rgb": "FFFFFF"
+      },
+      {
+        "scheme": "bg1",
+        "mapped": "lt1",
+        "rgb": "FFFFFF"
+      }
+    ]
+  },
+  "capacityPolicy": "Keep assigned pt size; validate actual PowerPoint fit. Use content height, reorganize or split; never shrink or truncate.",
+  "semanticConstraints": [
+    "Symbols identify list roles; unordered items must not be represented as temporal or causal arrows.",
+    "Text is supplied by the current task; source scientific text and identities are not runtime defaults."
+  ]
+}

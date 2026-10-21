@@ -1,0 +1,35 @@
+{
+  "id": "materials-folded-tab-capacity",
+  "role": "component-test",
+  "title": "折角专题标题 / capacity",
+  "operations": [
+    {
+      "id": "materials-folded-tab-capacity",
+      "typeId": "materials-folded-tab",
+      "bounds": [
+        100,
+        180,
+        580,
+        64
+      ],
+      "fields": {
+        "heading": "局部方法与证据及适用条件说明"
+      },
+      "textOptions": {
+        "heading": {
+          "font": 20,
+          "color": "FFFFFF",
+          "bold": true,
+          "box": [
+            118,
+            184,
+            544,
+            40
+          ],
+          "align": "ctr"
+        }
+      }
+    }
+  ],
+  "notes": "中性原生组件检查，不代表区域组合编译已经实现。"
+}

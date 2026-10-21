@@ -1,0 +1,11 @@
+import fs from 'node:fs';
+import {auditComposition,recommendComponents} from '../assets/component-selection.mjs';
+import {auditPptxComposition} from '../assets/pptx-composition.mjs';
+const [input,output,bindings,report]=process.argv.slice(2);
+if(!input)throw Error('Usage: audit_composition.mjs plan.json [report.json], --select request.json, or deck.pptx plan.json native-bindings.json report.json');
+const actual=input.toLowerCase().endsWith('.pptx');
+if(actual&&(!bindings||!report))throw Error('ACTUAL_COMPOSITION_BINDINGS_AND_REPORT_REQUIRED');
+const result=actual?auditPptxComposition({deck:input,plan:output,bindings,report}):input==='--select'?recommendComponents(JSON.parse(fs.readFileSync(output,'utf8'))):auditComposition(JSON.parse(fs.readFileSync(input,'utf8').replace(/^\uFEFF/,'')));
+if(output&&input!=='--select'&&!actual)fs.writeFileSync(output,JSON.stringify(result,null,2));
+console.log(JSON.stringify(result,null,2));
+if(!result.ok&&input==='--select'||result.pass===false)process.exitCode=2;

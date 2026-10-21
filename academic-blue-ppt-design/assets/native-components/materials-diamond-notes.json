@@ -1,0 +1,71 @@
+{
+  "sourcePage": 7,
+  "sourceObjectIds": [
+    "31"
+  ],
+  "sourceBoundsEmu": [
+    715922,
+    3250376,
+    2340349,
+    1129665
+  ],
+  "slots": {
+    "body": "31"
+  },
+  "objects": [
+    {
+      "sourceId": "31",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"31\" name=\"文本框 30\"/><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"715922\" y=\"3250376\"/><a:ext cx=\"2340349\" cy=\"1129665\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\"><a:spAutoFit/></a:bodyPr><a:p><a:pPr marL=\"285750\" indent=\"-285750\"><a:lnSpc><a:spcPct val=\"125000\"/></a:lnSpc><a:spcBef><a:spcPts val=\"300\"/></a:spcBef><a:buFont typeface=\"Wingdings\" panose=\"05000000000000000000\" charset=\"0\"/><a:buChar char=\"u\"/></a:pPr><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" dirty=\"0\"><a:latin typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/><a:cs typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:r><a:rPr lang=\"en-US\" altLang=\"zh-CN\" dirty=\"0\"><a:latin typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/><a:cs typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" dirty=\"0\"><a:latin typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/><a:cs typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:r><a:rPr lang=\"en-US\" altLang=\"zh-CN\" dirty=\"0\"><a:latin typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/><a:cs typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" dirty=\"0\"><a:latin typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/><a:cs typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:r><a:rPr lang=\"en-US\" altLang=\"zh-CN\" dirty=\"0\"><a:latin typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/><a:cs typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" dirty=\"0\"><a:latin typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/><a:cs typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:r><a:rPr lang=\"en-US\" altLang=\"zh-CN\" dirty=\"0\"><a:latin typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/><a:cs typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" dirty=\"0\"><a:latin typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/><a:cs typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:r><a:rPr lang=\"en-US\" altLang=\"zh-CN\" dirty=\"0\"><a:latin typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/><a:cs typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" dirty=\"0\"><a:latin typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/><a:cs typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:r><a:rPr lang=\"en-US\" dirty=\"0\"><a:latin typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/><a:cs typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:endParaRPr lang=\"en-US\" dirty=\"0\"><a:latin typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/><a:cs typeface=\"微软雅黑\" panose=\"020B0503020204020204\" charset=\"-122\"/></a:endParaRPr></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "b3a8dc5ac034cd2be407cb84f8471fbfb19e5a803739ba25ea56acfb48ff0e41",
+      "sourceBoundsEmu": [
+        715922,
+        3250376,
+        2340349,
+        1129665
+      ]
+    }
+  ],
+  "typeId": "materials-diamond-notes",
+  "label": "菱形分组要点",
+  "relation": "hierarchy",
+  "sourceFile": "materials/【深蓝白色系】青年申请长江ppt模板.pptx",
+  "sourceFileSha256": "fc8740293f95d2b9a60164fff2040c2bfcf19eb13975d4565f37060c1377d6c9",
+  "sourceSlidePart": "ppt/slides/slide7.xml",
+  "nativeOnly": true,
+  "noGeometryFallback": true,
+  "repeatable": true,
+  "itemCount": 1,
+  "visualTreatment": "open-list",
+  "contentTasks": [
+    "group-heading",
+    "category-heading"
+  ],
+  "markerRole": "diamond",
+  "defaultTextOptions": {
+    "body": {
+      "bullet": "source"
+    }
+  },
+  "bulletSource": {
+    "char": "u",
+    "font": {
+      "typeface": "Wingdings",
+      "panose": "05000000000000000000",
+      "charset": "0"
+    },
+    "marL": "285750",
+    "indent": "-285750",
+    "xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" marL=\"285750\" indent=\"-285750\"><a:lnSpc><a:spcPct val=\"125000\"/></a:lnSpc><a:spcBef><a:spcPts val=\"300\"/></a:spcBef><a:buFont typeface=\"Wingdings\" panose=\"05000000000000000000\" charset=\"0\"/><a:buChar char=\"u\"/></a:pPr>"
+  },
+  "coordinateFixture": true,
+  "themeResolution": {
+    "policy": "resolve source scheme colors to source RGB; preserve alpha/luminance/gradient stops",
+    "themePart": "ppt/theme/theme2.xml",
+    "mappings": []
+  },
+  "capacityPolicy": "Keep assigned pt size; validate actual PowerPoint fit. Use content height, reorganize or split; never shrink or truncate.",
+  "semanticConstraints": [
+    "Symbols identify list roles; unordered items must not be represented as temporal or causal arrows.",
+    "Text is supplied by the current task; source scientific text and identities are not runtime defaults."
+  ]
+}

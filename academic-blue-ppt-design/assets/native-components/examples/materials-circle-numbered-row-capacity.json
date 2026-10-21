@@ -1,0 +1,316 @@
+{
+  "id": "materials-circle-numbered-row-capacity",
+  "role": "component-test",
+  "title": "无底色圆形编号条目 / capacity",
+  "operations": [
+    {
+      "typeId": "materials-frame",
+      "bounds": [
+        0,
+        0,
+        1280,
+        77
+      ],
+      "fields": {
+        "title": "无底色圆形编号条目 / 容量",
+        "number": "02"
+      },
+      "textOptions": {
+        "title": {
+          "font": 27,
+          "bold": true,
+          "color": "FFFFFF",
+          "box": [
+            124,
+            10,
+            1100,
+            57
+          ]
+        },
+        "number": {
+          "font": 23,
+          "color": "0046A4",
+          "align": "ctr",
+          "vAlign": "ctr",
+          "box": [
+            45,
+            13,
+            73,
+            50
+          ]
+        }
+      }
+    },
+    {
+      "typeId": "materials-circle-numbered-row",
+      "bounds": [
+        70,
+        142,
+        1140,
+        112
+      ],
+      "fields": {
+        "number": "1",
+        "heading": "对象甲",
+        "body": "说明对象甲的条件、作用及证据边界，保留与对象乙的区别和适用范围。说明对象甲的条件、作用及证据边界，保留与对象乙的区别和适用范围。说明对象甲的条。"
+      },
+      "objectBoxes": {
+        "77": [
+          72,
+          148,
+          43.3,
+          50.4
+        ]
+      },
+      "textOptions": {
+        "number": {
+          "font": 19,
+          "bold": true,
+          "color": "FFFFFF",
+          "align": "ctr",
+          "vAlign": "ctr"
+        },
+        "heading": {
+          "font": 18,
+          "bold": true,
+          "color": "0046A4",
+          "box": [
+            140,
+            148,
+            200,
+            102
+          ],
+          "leading": 112
+        },
+        "body": {
+          "font": 18,
+          "color": "162B40",
+          "box": [
+            360,
+            148,
+            830,
+            102
+          ],
+          "leading": 112
+        }
+      }
+    },
+    {
+      "typeId": "materials-circle-numbered-row",
+      "bounds": [
+        70,
+        254,
+        1140,
+        112
+      ],
+      "fields": {
+        "number": "2",
+        "heading": "对象乙",
+        "body": "说明对象甲的条件、作用及证据边界，保留与对象乙的区别和适用范围。说明对象甲的条件、作用及证据边界，保留与对象乙的区别和适用范围。说明对象甲的条。"
+      },
+      "objectBoxes": {
+        "77": [
+          72,
+          260,
+          43.3,
+          50.4
+        ]
+      },
+      "textOptions": {
+        "number": {
+          "font": 19,
+          "bold": true,
+          "color": "FFFFFF",
+          "align": "ctr",
+          "vAlign": "ctr"
+        },
+        "heading": {
+          "font": 18,
+          "bold": true,
+          "color": "0046A4",
+          "box": [
+            140,
+            260,
+            200,
+            102
+          ],
+          "leading": 112
+        },
+        "body": {
+          "font": 18,
+          "color": "162B40",
+          "box": [
+            360,
+            260,
+            830,
+            102
+          ],
+          "leading": 112
+        }
+      }
+    },
+    {
+      "typeId": "materials-circle-numbered-row",
+      "bounds": [
+        70,
+        366,
+        1140,
+        112
+      ],
+      "fields": {
+        "number": "3",
+        "heading": "对象丙",
+        "body": "说明对象甲的条件、作用及证据边界，保留与对象乙的区别和适用范围。说明对象甲的条件、作用及证据边界，保留与对象乙的区别和适用范围。说明对象甲的条。"
+      },
+      "objectBoxes": {
+        "77": [
+          72,
+          372,
+          43.3,
+          50.4
+        ]
+      },
+      "textOptions": {
+        "number": {
+          "font": 19,
+          "bold": true,
+          "color": "FFFFFF",
+          "align": "ctr",
+          "vAlign": "ctr"
+        },
+        "heading": {
+          "font": 18,
+          "bold": true,
+          "color": "0046A4",
+          "box": [
+            140,
+            372,
+            200,
+            102
+          ],
+          "leading": 112
+        },
+        "body": {
+          "font": 18,
+          "color": "162B40",
+          "box": [
+            360,
+            372,
+            830,
+            102
+          ],
+          "leading": 112
+        }
+      }
+    },
+    {
+      "typeId": "materials-circle-numbered-row",
+      "bounds": [
+        70,
+        478,
+        1140,
+        112
+      ],
+      "fields": {
+        "number": "4",
+        "heading": "对象丁",
+        "body": "说明对象甲的条件、作用及证据边界，保留与对象乙的区别和适用范围。说明对象甲的条件、作用及证据边界，保留与对象乙的区别和适用范围。说明对象甲的条。"
+      },
+      "objectBoxes": {
+        "77": [
+          72,
+          484,
+          43.3,
+          50.4
+        ]
+      },
+      "textOptions": {
+        "number": {
+          "font": 19,
+          "bold": true,
+          "color": "FFFFFF",
+          "align": "ctr",
+          "vAlign": "ctr"
+        },
+        "heading": {
+          "font": 18,
+          "bold": true,
+          "color": "0046A4",
+          "box": [
+            140,
+            484,
+            200,
+            102
+          ],
+          "leading": 112
+        },
+        "body": {
+          "font": 18,
+          "color": "162B40",
+          "box": [
+            360,
+            484,
+            830,
+            102
+          ],
+          "leading": 112
+        }
+      }
+    },
+    {
+      "typeId": "materials-circle-numbered-row",
+      "bounds": [
+        70,
+        590,
+        1140,
+        112
+      ],
+      "fields": {
+        "number": "5",
+        "heading": "对象戊",
+        "body": "说明对象甲的条件、作用及证据边界，保留与对象乙的区别和适用范围。说明对象甲的条件、作用及证据边界，保留与对象乙的区别和适用范围。说明对象甲的条。"
+      },
+      "objectBoxes": {
+        "77": [
+          72,
+          596,
+          43.3,
+          50.4
+        ]
+      },
+      "textOptions": {
+        "number": {
+          "font": 19,
+          "bold": true,
+          "color": "FFFFFF",
+          "align": "ctr",
+          "vAlign": "ctr"
+        },
+        "heading": {
+          "font": 18,
+          "bold": true,
+          "color": "0046A4",
+          "box": [
+            140,
+            596,
+            200,
+            102
+          ],
+          "leading": 112
+        },
+        "body": {
+          "font": 18,
+          "color": "162B40",
+          "box": [
+            360,
+            596,
+            830,
+            102
+          ],
+          "leading": 112
+        }
+      }
+    }
+  ],
+  "notes": "中性组件操作示例。没有科学事实、用户身份或原稿图片。容量数值为待 PowerPoint 实渲染核验的候选边界。"
+}

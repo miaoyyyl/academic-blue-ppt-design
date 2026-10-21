@@ -1,0 +1,19 @@
+{
+  "id": "materials-figure-frame-dashed-optional",
+  "role": "component-test",
+  "title": "原生图框几何 / optional",
+  "operations": [
+    {
+      "typeId": "materials-figure-frame-dashed",
+      "bounds": [
+        100,
+        170,
+        350,
+        450
+      ],
+      "fields": {},
+      "textOptions": {}
+    }
+  ],
+  "notes": "中性原生图框几何检查；真实内容图另须有效图框绑定、实际边界和可见描边检查。"
+}

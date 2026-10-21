@@ -1,0 +1,60 @@
+{
+  "id": "materials-filled-column-capacity",
+  "role": "component-test",
+  "title": "materials-filled-column / capacity",
+  "operations": [
+    {
+      "typeId": "materials-filled-column",
+      "bounds": [
+        70,
+        190,
+        520,
+        340
+      ],
+      "fields": {
+        "heading": "同层栏目甲",
+        "body": [
+          "依据：说明对象甲的条件、作用及边界，关联证据乙，并保留适用范围。依据：说明对象甲的条件、作用及边界，关联证据乙，并保留适用范围。依据：说明对象甲的条件、作用及边界，关联证据乙，并保留适用范围。依据：说明对象甲的条件、作用及边界，关联证据乙，并保留适用范围。依据：说明对象甲的条件、作用及边界，关联证据乙，并保留适用范围。依据：说明对象甲的条。"
+        ]
+      },
+      "textOptions": {
+        "heading": {
+          "font": 20,
+          "color": "FFFFFF",
+          "bold": true,
+          "box": [
+            82,
+            194,
+            496,
+            38
+          ]
+        },
+        "body": {
+          "font": 17,
+          "color": "162B40",
+          "box": [
+            84,
+            245,
+            492,
+            271
+          ]
+        }
+      },
+      "objectBoxes": {
+        "14": [
+          70,
+          190,
+          520,
+          340
+        ],
+        "15": [
+          70,
+          190,
+          520,
+          46
+        ]
+      }
+    }
+  ],
+  "notes": "中性组件检验；没有科学事实与用户身份。"
+}

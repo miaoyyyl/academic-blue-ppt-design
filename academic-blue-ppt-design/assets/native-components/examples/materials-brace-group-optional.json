@@ -1,0 +1,161 @@
+{
+  "id": "materials-brace-group-optional",
+  "role": "component-test",
+  "title": "括号归组 · 可选内容变化",
+  "operations": [
+    {
+      "typeId": "materials-frame",
+      "bounds": [
+        0,
+        0,
+        1280,
+        77
+      ],
+      "fields": {
+        "title": "括号归组 · 可选内容变化",
+        "number": "12"
+      },
+      "textOptions": {
+        "title": {
+          "font": 30,
+          "color": "FFFFFF",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 100,
+          "box": [
+            124,
+            10,
+            1100,
+            57
+          ],
+          "bold": true
+        },
+        "number": {
+          "font": 23,
+          "color": "004BAD",
+          "align": "ctr",
+          "vAlign": "ctr",
+          "leading": 100,
+          "box": [
+            45,
+            13,
+            73,
+            50
+          ],
+          "bold": true
+        }
+      },
+      "objectBoxes": {},
+      "id": "materials-brace-group-optional.op1"
+    },
+    {
+      "typeId": "materials-brace-group",
+      "bounds": [
+        85,
+        200,
+        32,
+        285
+      ],
+      "fields": {},
+      "textOptions": {},
+      "objectBoxes": {},
+      "id": "materials-brace-group-optional.op2"
+    },
+    {
+      "typeId": "materials-text",
+      "bounds": [
+        160,
+        205,
+        1000,
+        83
+      ],
+      "fields": {
+        "body": "条件甲：围绕同一问题说明条件、作用与边界，正文保持可编辑。"
+      },
+      "textOptions": {
+        "body": {
+          "font": 18,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 110,
+          "box": [
+            160,
+            205,
+            1000,
+            83
+          ],
+          "labelBold": true,
+          "bold": false
+        }
+      },
+      "objectBoxes": {},
+      "id": "materials-brace-group-optional.op3"
+    },
+    {
+      "typeId": "materials-text",
+      "bounds": [
+        160,
+        301,
+        1000,
+        83
+      ],
+      "fields": {
+        "body": "条件乙：围绕同一问题说明条件、作用与边界，正文保持可编辑。"
+      },
+      "textOptions": {
+        "body": {
+          "font": 18,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 110,
+          "box": [
+            160,
+            301,
+            1000,
+            83
+          ],
+          "labelBold": true,
+          "bold": false
+        }
+      },
+      "objectBoxes": {},
+      "id": "materials-brace-group-optional.op4"
+    },
+    {
+      "typeId": "materials-caption",
+      "bounds": [
+        60,
+        665,
+        1160,
+        42
+      ],
+      "fields": {
+        "body": "materials-brace-group | materials/【蓝色系】青年申请长江ppt模板.pptx | 原页 37 | 中性示例，非科研结论"
+      },
+      "textOptions": {
+        "body": {
+          "font": 11,
+          "color": "284461",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 100,
+          "box": [
+            60,
+            665,
+            1160,
+            42
+          ],
+          "bold": false
+        }
+      },
+      "objectBoxes": {},
+      "id": "materials-brace-group-optional.op5"
+    }
+  ],
+  "notes": [
+    "中性原生组件测试，不包含样本原文、Logo或科研结论。",
+    "源组件：materials/【蓝色系】青年申请长江ppt模板.pptx，实际页码37，对象91"
+  ]
+}

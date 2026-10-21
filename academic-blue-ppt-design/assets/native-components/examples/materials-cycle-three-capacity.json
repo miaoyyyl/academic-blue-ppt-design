@@ -1,0 +1,500 @@
+{
+  "relation": "cycle",
+  "compositionOptions": {
+    "center": "回用关系",
+    "relationEvidence": {
+      "sourceIds": [
+        "neutral-0"
+      ],
+      "kind": "cycle",
+      "edges": [
+        [
+          "unit-0",
+          "unit-1"
+        ],
+        [
+          "unit-1",
+          "unit-2"
+        ],
+        [
+          "unit-2",
+          "unit-0"
+        ]
+      ]
+    }
+  },
+  "id": "materials-cycle-three-capacity",
+  "role": "component-test",
+  "chapterId": "neutral",
+  "subsectionId": "cycle-with-evidence",
+  "title": "真实回流与应用图 · 接近容量",
+  "thesis": "条件与对象共同决定解释，关系结构保持一致。",
+  "visibleArgument": "条件与对象共同决定解释，关系结构保持一致。",
+  "sourceIds": [
+    "neutral-0",
+    "neutral-1",
+    "neutral-2"
+  ],
+  "modules": [
+    {
+      "id": "unit-0",
+      "heading": "对象甲",
+      "paras": [
+        "说明当前对象的条件与作用。保留作用边界。"
+      ],
+      "sourceIds": [
+        "neutral-0"
+      ],
+      "visualIntent": "mechanism",
+      "role": "peer"
+    },
+    {
+      "id": "unit-1",
+      "heading": "对象乙",
+      "paras": [
+        "说明当前对象的条件与作用。"
+      ],
+      "sourceIds": [
+        "neutral-1"
+      ],
+      "visualIntent": "mechanism",
+      "role": "peer"
+    },
+    {
+      "id": "unit-2",
+      "heading": "对象丙",
+      "paras": [
+        "说明当前对象的条件与作用。"
+      ],
+      "sourceIds": [
+        "neutral-2"
+      ],
+      "visualIntent": "mechanism",
+      "role": "peer"
+    }
+  ],
+  "supportFigures": [
+    {
+      "id": "neutral-figure",
+      "assetId": "neutral-wide",
+      "dimensions": [
+        1200,
+        650
+      ],
+      "figureType": "mechanism",
+      "figureRole": "supporting-explanation",
+      "claimModuleIds": [
+        "unit-0",
+        "unit-1",
+        "unit-2"
+      ],
+      "readingTargets": [
+        {
+          "name": "中性图像的对象",
+          "task": "recognize",
+          "rect": [
+            0.04,
+            0.04,
+            0.92,
+            0.92
+          ]
+        }
+      ],
+      "captionPolicy": "none",
+      "imageAlign": "center",
+      "operationId": "cycle-with-evidence-capacity-f0-image",
+      "imageCrop": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "requestedBounds": [
+        842,
+        177,
+        394,
+        480
+      ],
+      "displayGeometry": {
+        "imageCrop": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "sourceWindow": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "sourcePixelRect": [
+          0,
+          0,
+          1200,
+          650
+        ],
+        "actualBounds": [
+          846,
+          312.45833333333337,
+          386,
+          209.08333333333331
+        ]
+      },
+      "frameOperationId": "cycle-with-evidence-capacity-f0-frame",
+      "frameStyle": "dashed",
+      "frameScope": "image",
+      "framePadding": 4
+    }
+  ],
+  "contentGroups": [
+    {
+      "id": "cycle-with-evidence-capacity-c0-relation",
+      "task": "cycle",
+      "relation": "cycle",
+      "anchorId": "cycle-with-evidence-capacity-c0",
+      "memberIds": [
+        "cycle-with-evidence-capacity-c1",
+        "cycle-with-evidence-capacity-c2",
+        "cycle-with-evidence-capacity-c3"
+      ],
+      "moduleIds": [
+        "unit-0",
+        "unit-1",
+        "unit-2"
+      ],
+      "bounds": [
+        44,
+        177,
+        770,
+        480
+      ]
+    }
+  ],
+  "operations": [
+    {
+      "id": "cycle-with-evidence-capacity-frame",
+      "typeId": "materials-frame",
+      "bounds": [
+        0,
+        0,
+        1280,
+        77
+      ],
+      "fields": {
+        "title": "真实回流与应用图 · 接近容量",
+        "number": "1.8"
+      },
+      "textOptions": {
+        "title": {
+          "font": 29,
+          "color": "FFFFFF",
+          "bold": true,
+          "box": [
+            124,
+            10,
+            1100,
+            57
+          ]
+        },
+        "number": {
+          "font": 22,
+          "color": "004BAD",
+          "bold": true,
+          "align": "ctr",
+          "vAlign": "ctr",
+          "box": [
+            40,
+            13,
+            80,
+            50
+          ]
+        }
+      }
+    },
+    {
+      "id": "cycle-with-evidence-capacity-argument",
+      "typeId": "human-gradient-statement",
+      "bounds": [
+        44,
+        94,
+        1192,
+        64
+      ],
+      "fields": {
+        "body": "条件与对象共同决定解释，关系结构保持一致。"
+      },
+      "textOptions": {
+        "body": {
+          "font": 21,
+          "color": "004BAD",
+          "bold": true,
+          "box": [
+            56,
+            103,
+            1168,
+            48
+          ],
+          "align": "ctr"
+        }
+      }
+    },
+    {
+      "id": "cycle-with-evidence-capacity-c0",
+      "typeId": "materials-cycle-three",
+      "bounds": [
+        289,
+        257,
+        280,
+        280
+      ],
+      "fields": {
+        "center": "回用关系"
+      },
+      "textOptions": {
+        "center": {
+          "font": 20,
+          "bold": true,
+          "color": "FFFFFF",
+          "align": "ctr",
+          "vAlign": "ctr"
+        }
+      }
+    },
+    {
+      "id": "cycle-with-evidence-capacity-c1",
+      "typeId": "materials-text",
+      "bounds": [
+        44,
+        187,
+        210,
+        165
+      ],
+      "fields": {
+        "body": [
+          "对象甲",
+          "说明当前对象的条件与作用。保留作用边界。"
+        ]
+      },
+      "textOptions": {
+        "body": {
+          "box": [
+            44,
+            187,
+            210,
+            165
+          ],
+          "font": 17,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 112,
+          "paragraphAfter": 5,
+          "inset": 0,
+          "emphasis": [
+            {
+              "text": "对象甲",
+              "color": "004BAD",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "cycle-with-evidence-capacity-c2",
+      "typeId": "materials-text",
+      "bounds": [
+        604,
+        187,
+        210,
+        165
+      ],
+      "fields": {
+        "body": [
+          "对象乙",
+          "说明当前对象的条件与作用。"
+        ]
+      },
+      "textOptions": {
+        "body": {
+          "box": [
+            604,
+            187,
+            210,
+            165
+          ],
+          "font": 17,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 112,
+          "paragraphAfter": 5,
+          "inset": 0,
+          "emphasis": [
+            {
+              "text": "对象乙",
+              "color": "004BAD",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "cycle-with-evidence-capacity-c3",
+      "typeId": "materials-text",
+      "bounds": [
+        194,
+        542,
+        470,
+        115
+      ],
+      "fields": {
+        "body": [
+          "对象丙",
+          "说明当前对象的条件与作用。"
+        ]
+      },
+      "textOptions": {
+        "body": {
+          "box": [
+            194,
+            542,
+            470,
+            115
+          ],
+          "font": 17,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 112,
+          "paragraphAfter": 5,
+          "inset": 0,
+          "emphasis": [
+            {
+              "text": "对象丙",
+              "color": "004BAD",
+              "bold": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "cycle-with-evidence-capacity-f0-frame",
+      "typeId": "materials-figure-frame-dashed",
+      "bounds": [
+        842,
+        308.45833333333337,
+        394,
+        217.08333333333337
+      ],
+      "fields": {},
+      "textOptions": {},
+      "componentTask": "figure-container",
+      "figureFrame": {
+        "style": "dashed",
+        "scope": "image",
+        "padding": 4,
+        "figureIds": [
+          "neutral-figure"
+        ],
+        "reason": "用虚线框定位辅助机理示意，与数据及实物证据区分。"
+      }
+    },
+    {
+      "id": "cycle-with-evidence-capacity-f0-image",
+      "typeId": "materials-paper-image",
+      "bounds": [
+        846,
+        312.45833333333337,
+        386,
+        209.08333333333331
+      ],
+      "fields": {},
+      "textOptions": {},
+      "assetId": "neutral-wide",
+      "imageCrop": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "imageAlign": "center"
+    }
+  ],
+  "contentRouting": [
+    {
+      "id": "cycle-with-evidence-capacity-thesis",
+      "sourceIds": [
+        "neutral-0"
+      ],
+      "importance": "key",
+      "destination": "body",
+      "target": {
+        "operationId": "cycle-with-evidence-capacity-argument",
+        "slot": "body"
+      },
+      "visibleText": "条件与对象共同决定解释，关系结构保持一致。"
+    },
+    {
+      "id": "cycle-with-evidence-capacity-route-0",
+      "sourceIds": [
+        "neutral-0"
+      ],
+      "importance": "key",
+      "destination": "body",
+      "target": {
+        "operationId": "cycle-with-evidence-capacity-c1",
+        "slot": "body"
+      },
+      "visibleText": "说明当前对象的条件与作用。保留作用边界。"
+    },
+    {
+      "id": "cycle-with-evidence-capacity-route-1",
+      "sourceIds": [
+        "neutral-1"
+      ],
+      "importance": "key",
+      "destination": "body",
+      "target": {
+        "operationId": "cycle-with-evidence-capacity-c2",
+        "slot": "body"
+      },
+      "visibleText": "说明当前对象的条件与作用。"
+    },
+    {
+      "id": "cycle-with-evidence-capacity-route-2",
+      "sourceIds": [
+        "neutral-2"
+      ],
+      "importance": "key",
+      "destination": "body",
+      "target": {
+        "operationId": "cycle-with-evidence-capacity-c3",
+        "slot": "body"
+      },
+      "visibleText": "说明当前对象的条件与作用。"
+    }
+  ],
+  "layoutFamily": "cycle-with-evidence",
+  "compositionSeries": {
+    "id": "cycle-with-evidence",
+    "reason": "同一通用组合的标准、容量与可选内容变化，用于验证结构保持与适配能力。",
+    "pageIds": [
+      "cycle-with-evidence-standard",
+      "cycle-with-evidence-capacity",
+      "cycle-with-evidence-optional"
+    ],
+    "sourceIds": [
+      "neutral-0"
+    ]
+  },
+  "notes": [
+    "中性技术验证素材，不是科研证据。"
+  ],
+  "sectionLabel": "1.8",
+  "chapterNumber": 1,
+  "subsectionNumber": 8
+}

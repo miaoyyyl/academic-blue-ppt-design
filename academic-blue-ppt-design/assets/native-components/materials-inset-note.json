@@ -1,0 +1,109 @@
+{
+  "sourcePage": 7,
+  "sourceObjectIds": [
+    "125",
+    "118"
+  ],
+  "sourceBoundsEmu": [
+    9511566,
+    5153372,
+    2143017,
+    1092467
+  ],
+  "slots": {
+    "body": "118"
+  },
+  "objects": [
+    {
+      "sourceId": "125",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"125\" name=\"矩形: 圆角 124\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5430EC68-41D9-B76B-E672-908387E02B09}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"9511566\" y=\"5153372\"/><a:ext cx=\"2143017\" cy=\"1092467\"/></a:xfrm><a:prstGeom prst=\"roundRect\"><a:avLst><a:gd name=\"adj\" fmla=\"val 5371\"/></a:avLst></a:prstGeom><a:solidFill><a:srgbClr val=\"0B4FA1\"><a:alpha val=\"5000\"/></a:srgbClr></a:solidFill><a:ln w=\"6350\"><a:solidFill><a:srgbClr val=\"FFFFFF\"><a:lumMod val=\"85000\"/></a:srgbClr></a:solidFill></a:ln><a:effectLst/></p:spPr><p:style><a:lnRef idx=\"2\"><a:srgbClr val=\"549E39\"><a:shade val=\"15000\"/></a:srgbClr></a:lnRef><a:fillRef idx=\"1\"><a:srgbClr val=\"549E39\"/></a:fillRef><a:effectRef idx=\"0\"><a:srgbClr val=\"549E39\"/></a:effectRef><a:fontRef idx=\"minor\"><a:srgbClr val=\"FFFFFF\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"zh-CN\" altLang=\"en-US\" dirty=\"0\"/></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "c9017fda248210f0bfcd53c255e5a93d7ae53f1adf46851aae1c0c96c44e2bc9",
+      "sourceBoundsEmu": [
+        9511566,
+        5153372,
+        2143017,
+        1092467
+      ],
+      "sourceGeometryStyleSha256": "bb717e17b7637f9c4473809d5f66becf7369f5e470809e6748aee4b4bcf9909b"
+    },
+    {
+      "sourceId": "118",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"118\" name=\"文本框 117\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{67AE808E-87C7-7A44-E545-229F891262B5}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"9511566\" y=\"5220307\"/><a:ext cx=\"2143017\" cy=\"958596\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:pPr><a:lnSpc><a:spcPct val=\"120000\"/></a:lnSpc></a:pPr><a:r><a:rPr lang=\"en-US\" altLang=\"zh-CN\" sz=\"1600\" dirty=\"0\"><a:latin typeface=\"+mn-ea\"/></a:rPr><a:t/></a:r><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" dirty=\"0\"><a:latin typeface=\"+mn-ea\"/></a:rPr><a:t/></a:r><a:endParaRPr lang=\"en-US\" altLang=\"zh-CN\" sz=\"1600\" dirty=\"0\"><a:latin typeface=\"+mn-ea\"/></a:endParaRPr></a:p><a:p><a:pPr><a:lnSpc><a:spcPct val=\"120000\"/></a:lnSpc></a:pPr><a:r><a:rPr lang=\"en-US\" altLang=\"zh-CN\" sz=\"1600\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"C00000\"/></a:solidFill><a:latin typeface=\"+mn-ea\"/></a:rPr><a:t/></a:r><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"C00000\"/></a:solidFill><a:latin typeface=\"+mn-ea\"/></a:rPr><a:t/></a:r></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "0cf2d1c08a049a03c4f13c6ce4cbc0bdb12d1f0fec4cf471adfdeba238cb3d30",
+      "sourceBoundsEmu": [
+        9511566,
+        5220307,
+        2143017,
+        958596
+      ],
+      "sourceGeometryStyleSha256": "0cf2d1c08a049a03c4f13c6ce4cbc0bdb12d1f0fec4cf471adfdeba238cb3d30"
+    }
+  ],
+  "typeId": "materials-inset-note",
+  "label": "局部浅底圆角说明",
+  "relation": "annotation",
+  "sourceFile": "materials/1深蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+  "sourceFileSha256": "83cdad74701b75d8f4d2527ce1b0138c3ce54574ddc4a4dd47c7c7a04db9afcb",
+  "sourceSlidePart": "ppt/slides/slide7.xml",
+  "nativeOnly": true,
+  "noGeometryFallback": true,
+  "repeatable": true,
+  "itemCount": 1,
+  "contentTasks": [
+    "local-annotation"
+  ],
+  "contentStructures": [
+    "annotation"
+  ],
+  "visualTreatment": "inset-note",
+  "coordinateFixture": true,
+  "themeResolution": {
+    "themePart": "ppt/theme/theme1.xml",
+    "mapping": {
+      "bg1": "lt1",
+      "tx1": "dk1",
+      "bg2": "lt2",
+      "tx2": "dk2",
+      "accent1": "accent1",
+      "accent2": "accent2",
+      "accent3": "accent3",
+      "accent4": "accent4",
+      "accent5": "accent5",
+      "accent6": "accent6",
+      "hlink": "hlink",
+      "folHlink": "folHlink"
+    },
+    "colors": [
+      {
+        "source": "accent6",
+        "resolved": "0B4FA1"
+      },
+      {
+        "source": "bg1",
+        "resolved": "FFFFFF"
+      },
+      {
+        "source": "accent1",
+        "resolved": "549E39"
+      },
+      {
+        "source": "accent1",
+        "resolved": "549E39"
+      },
+      {
+        "source": "accent1",
+        "resolved": "549E39"
+      },
+      {
+        "source": "lt1",
+        "resolved": "FFFFFF"
+      }
+    ],
+    "policy": "Resolve source theme colors only; preserve geometry, alpha, lines and effects."
+  },
+  "capacityPolicy": "Use natural text height at assigned font; preserve picture aspect and reading targets. Actual PowerPoint rendering is required.",
+  "semanticConstraints": [
+    "Use a named region with explicit member ids. A region frame cannot substitute for missing evidence or fill a sparse page.",
+    "All runtime text is supplied by the current task; reference scientific content is cleared."
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "materials-outline-lead-capacity",
+  "role": "component-test",
+  "title": "白底细框引领句",
+  "operations": [
+    {
+      "id": "materials-outline-lead-capacity",
+      "typeId": "materials-outline-lead",
+      "bounds": [
+        70,
+        200,
+        1140,
+        100
+      ],
+      "fields": {
+        "body": "不同证据共同支撑本页判断，保留条件和适用范围"
+      },
+      "textOptions": {
+        "body": {
+          "box": [
+            90,
+            210,
+            1100,
+            80
+          ],
+          "font": 20,
+          "align": "ctr",
+          "vAlign": "ctr",
+          "color": "004BAD"
+        }
+      },
+      "objectBoxes": {
+        "12": [
+          70,
+          200,
+          1140,
+          100
+        ],
+        "13": [
+          90,
+          210,
+          1100,
+          80
+        ]
+      }
+    }
+  ],
+  "notes": "中性原生组件示例"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "materials-outline-lead-standard",
+  "role": "component-test",
+  "title": "白底细框引领句",
+  "operations": [
+    {
+      "id": "materials-outline-lead-standard",
+      "typeId": "materials-outline-lead",
+      "bounds": [
+        70,
+        200,
+        1140,
+        74
+      ],
+      "fields": {
+        "body": "共同判断来自本页各项证据"
+      },
+      "textOptions": {
+        "body": {
+          "box": [
+            90,
+            210,
+            1100,
+            54
+          ],
+          "font": 20,
+          "align": "ctr",
+          "vAlign": "ctr",
+          "color": "004BAD"
+        }
+      },
+      "objectBoxes": {
+        "12": [
+          70,
+          200,
+          1140,
+          74
+        ],
+        "13": [
+          90,
+          210,
+          1100,
+          54
+        ]
+      }
+    }
+  ],
+  "notes": "中性原生组件示例"
+}

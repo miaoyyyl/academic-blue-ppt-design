@@ -1,0 +1,43 @@
+{
+  "id": "materials-inset-note-capacity",
+  "role": "component-test",
+  "title": "局部浅底圆角说明 / capacity",
+  "operations": [
+    {
+      "id": "materials-inset-note-capacity",
+      "typeId": "materials-inset-note",
+      "bounds": [
+        100,
+        180,
+        540,
+        180
+      ],
+      "fields": {
+        "body": "这里说明局部图像的含义与适用条件。这里说明局部图像的含义与适用条件。这里说明局部图像的含义与适用条件。这里说明局部图像的含义与适用条件。这里说明局部图像的含义与适用条件。"
+      },
+      "textOptions": {
+        "body": {
+          "font": 17,
+          "color": "162B40",
+          "box": [
+            114,
+            194,
+            512,
+            152
+          ],
+          "vAlign": "t",
+          "align": "l"
+        }
+      },
+      "objectBoxes": {
+        "125": [
+          100,
+          180,
+          540,
+          180
+        ]
+      }
+    }
+  ],
+  "notes": "中性原生组件检查，不代表区域组合编译已经实现。"
+}

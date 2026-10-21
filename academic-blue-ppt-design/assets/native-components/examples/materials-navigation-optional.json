@@ -1,0 +1,234 @@
+{
+  "id": "materials-navigation-optional",
+  "role": "component-test",
+  "title": "materials-navigation / optional",
+  "operations": [
+    {
+      "typeId": "materials-navigation",
+      "bounds": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "fields": {
+        "item0": "中性章节1",
+        "num0": "1",
+        "item1": "中性章节2",
+        "num1": "2",
+        "item2": "中性章节3",
+        "num2": "3",
+        "item3": "中性章节4",
+        "num3": "4",
+        "item4": "中性章节5",
+        "num4": "5"
+      },
+      "textOptions": {
+        "item0": {
+          "font": 21,
+          "color": "65788C",
+          "bold": false,
+          "align": "ctr",
+          "vAlign": "ctr",
+          "leading": 100,
+          "box": [
+            647,
+            118,
+            425,
+            68
+          ]
+        },
+        "num0": {
+          "font": 30,
+          "color": "65788C",
+          "bold": true,
+          "align": "ctr",
+          "vAlign": "ctr",
+          "leading": 100,
+          "box": [
+            512,
+            118,
+            115,
+            68
+          ]
+        },
+        "item1": {
+          "font": 21,
+          "color": "65788C",
+          "bold": false,
+          "align": "ctr",
+          "vAlign": "ctr",
+          "leading": 100,
+          "box": [
+            647,
+            222,
+            425,
+            68
+          ]
+        },
+        "num1": {
+          "font": 30,
+          "color": "65788C",
+          "bold": true,
+          "align": "ctr",
+          "vAlign": "ctr",
+          "leading": 100,
+          "box": [
+            512,
+            222,
+            115,
+            68
+          ]
+        },
+        "item2": {
+          "font": 21,
+          "color": "65788C",
+          "bold": false,
+          "align": "ctr",
+          "vAlign": "ctr",
+          "leading": 100,
+          "box": [
+            647,
+            326,
+            425,
+            68
+          ]
+        },
+        "num2": {
+          "font": 30,
+          "color": "65788C",
+          "bold": true,
+          "align": "ctr",
+          "vAlign": "ctr",
+          "leading": 100,
+          "box": [
+            512,
+            326,
+            115,
+            68
+          ]
+        },
+        "item3": {
+          "font": 21,
+          "color": "65788C",
+          "bold": false,
+          "align": "ctr",
+          "vAlign": "ctr",
+          "leading": 100,
+          "box": [
+            647,
+            430,
+            425,
+            68
+          ]
+        },
+        "num3": {
+          "font": 30,
+          "color": "65788C",
+          "bold": true,
+          "align": "ctr",
+          "vAlign": "ctr",
+          "leading": 100,
+          "box": [
+            512,
+            430,
+            115,
+            68
+          ]
+        },
+        "item4": {
+          "font": 21,
+          "color": "004BAD",
+          "bold": true,
+          "align": "ctr",
+          "vAlign": "ctr",
+          "leading": 100,
+          "box": [
+            647,
+            534,
+            425,
+            68
+          ]
+        },
+        "num4": {
+          "font": 30,
+          "color": "004BAD",
+          "bold": true,
+          "align": "ctr",
+          "vAlign": "ctr",
+          "leading": 100,
+          "box": [
+            512,
+            534,
+            115,
+            68
+          ]
+        }
+      },
+      "objectBoxes": {
+        "166": [
+          500.27,
+          116,
+          595.74,
+          72
+        ],
+        "167": [
+          627.63,
+          127,
+          0.001,
+          50
+        ],
+        "170": [
+          500.27,
+          220,
+          595.74,
+          72
+        ],
+        "171": [
+          627.63,
+          231,
+          0.001,
+          50
+        ],
+        "174": [
+          500.27,
+          324,
+          595.74,
+          72
+        ],
+        "175": [
+          627.63,
+          335,
+          0.001,
+          50
+        ],
+        "178": [
+          500.27,
+          428,
+          595.74,
+          72
+        ],
+        "179": [
+          627.63,
+          439,
+          0.001,
+          50
+        ],
+        "182": [
+          500.27,
+          532,
+          595.74,
+          72
+        ],
+        "183": [
+          627.63,
+          543,
+          0.001,
+          50
+        ]
+      },
+      "activeIndex": 4
+    }
+  ],
+  "notes": "中性目录组件，五个概括标题，等间距及居中；无章节介绍。"
+}

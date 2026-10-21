@@ -1,0 +1,43 @@
+{
+  "id": "materials-inset-note-standard",
+  "role": "component-test",
+  "title": "局部浅底圆角说明 / standard",
+  "operations": [
+    {
+      "id": "materials-inset-note-standard",
+      "typeId": "materials-inset-note",
+      "bounds": [
+        100,
+        180,
+        400,
+        144
+      ],
+      "fields": {
+        "body": "这里说明局部图像的含义与适用条件。这里说明局部图像的含义与适用条件。"
+      },
+      "textOptions": {
+        "body": {
+          "font": 17,
+          "color": "162B40",
+          "box": [
+            114,
+            194,
+            372,
+            116
+          ],
+          "vAlign": "t",
+          "align": "l"
+        }
+      },
+      "objectBoxes": {
+        "125": [
+          100,
+          180,
+          400,
+          144
+        ]
+      }
+    }
+  ],
+  "notes": "中性原生组件检查，不代表区域组合编译已经实现。"
+}

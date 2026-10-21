@@ -1,0 +1,13 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {auditAudienceCopy,auditPptxAudienceCopy} from '../assets/audience-copy.mjs';
+const args=process.argv.slice(2),value=name=>{const i=args.indexOf(name);return i<0?null:args[i+1];};
+const planFile=value('--plan'),deck=value('--deck'),out=value('--report');
+if((!planFile&&!deck)||!out)throw Error('Usage: audit_audience_copy.mjs [--plan plan.json] [--deck presentation.pptx] --report audit.json');
+const result={policyVersion:1};
+if(planFile)result.plan=auditAudienceCopy(JSON.parse(fs.readFileSync(planFile,'utf8').replace(/^\uFEFF/,'')));
+if(deck)result.pptx=auditPptxAudienceCopy({deck});
+result.pass=(!result.plan||result.plan.pass)&&(!result.pptx||result.pptx.pass);
+fs.mkdirSync(path.dirname(path.resolve(out)),{recursive:true});fs.writeFileSync(out,JSON.stringify(result,null,2));
+console.log(JSON.stringify({pass:result.pass,planIssues:result.plan?.issues.length||0,actualIssues:result.pptx?.issues.length||0}));
+if(!result.pass)process.exitCode=2;

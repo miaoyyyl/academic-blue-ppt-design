@@ -1,0 +1,20 @@
+{
+  "id": "materials-mixed-region-frame-standard",
+  "role": "component-test",
+  "title": "图文混合区域外框 / standard",
+  "operations": [
+    {
+      "id": "materials-mixed-region-frame-standard",
+      "typeId": "materials-mixed-region-frame",
+      "bounds": [
+        100,
+        180,
+        760,
+        310
+      ],
+      "fields": {},
+      "textOptions": {}
+    }
+  ],
+  "notes": "中性原生组件检查，不代表区域组合编译已经实现。"
+}

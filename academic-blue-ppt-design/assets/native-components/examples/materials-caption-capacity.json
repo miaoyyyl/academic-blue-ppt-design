@@ -1,0 +1,32 @@
+{
+  "id": "materials-caption-capacity",
+  "role": "component-test",
+  "title": "materials-caption / capacity",
+  "operations": [
+    {
+      "typeId": "materials-caption",
+      "bounds": [
+        75,
+        220,
+        580,
+        110
+      ],
+      "fields": {
+        "body": "依据：说明对象甲的条件、作用及边界，关联证据乙，并保留适用范围。依据：说明对象甲的条件、作用及边界，关联证据乙，并保留适用范围。依据：说明对象甲的条件、作用及边界，关联证据乙，并保留适用范围。依据：说明对象甲的条件、作用及边界，关联证据乙，并保留适用范围。依据：说明对象甲的条件。"
+      },
+      "textOptions": {
+        "body": {
+          "font": 11.5,
+          "color": "284461",
+          "box": [
+            75,
+            220,
+            580,
+            110
+          ]
+        }
+      }
+    }
+  ],
+  "notes": "中性组件检验；没有科学事实与用户身份。"
+}

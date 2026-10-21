@@ -1,0 +1,24 @@
+import fs from 'node:fs';
+import assert from 'node:assert/strict';
+import {applyNavigationPolicy,createNavigationOperation} from '../assets/navigation-layout.mjs';
+import {findCases,renderComponent} from '../assets/native-components/api.mjs';
+const checks=[];function check(name,fn){fn();checks.push({name,pass:true});}
+const items=['主题甲','主题乙','主题丙','主题丁','主题戊'];
+const chapters=items.map((title,i)=>({id:String(i),title,thesis:'正文规划中的总论点'}));
+const content={id:'body',role:'content',operations:[{typeId:'materials-text',fields:{body:'保持实际正文。'}}]};
+const input={chapters,pages:[{id:'nav',role:'toc',chapterId:'2',operations:[{typeId:'materials-navigation',fields:{thesis:'旧的章节介绍'}}]},content]};
+const plan=applyNavigationPolicy(input),op=plan.pages[0].operations[0];
+check('legacy blurb and its slot are absent',()=>assert(!('thesis' in op.fields)&&Object.keys(op.fields).length===10));
+check('chapter claims remain in planning and body operations remain exact',()=>{assert.deepEqual(plan.chapters,chapters);assert.deepEqual(plan.pages[1],content);});
+check('input snapshots are not mutated',()=>assert.equal(input.pages[0].operations[0].fields.thesis,'旧的章节介绍'));
+check('current chapter activates the matching entry',()=>assert.equal(op.activeIndex,2));
+check('all entry text is horizontally and vertically centered',()=>assert(Object.values(op.textOptions).every(x=>x.align==='ctr'&&x.vAlign==='ctr')));
+check('unsupported chapter counts require another native structure',()=>assert.throws(()=>applyNavigationPolicy({...input,chapters:chapters.slice(0,4)}),/FIVE_CHAPTERS/));
+check('missing directory structure fails',()=>assert.throws(()=>applyNavigationPolicy({chapters,pages:[{role:'toc',operations:[{typeId:'materials-text'}]}]}),/DIRECTORY_NATIVE_NAVIGATION_REQUIRED/));
+check('extra directory explanation cannot survive policy application',()=>assert.throws(()=>applyNavigationPolicy({chapters,pages:[{role:'toc',operations:[op,{typeId:'materials-text'}]}]}),/MUST_CONTAIN_ONLY/));
+check('source-native introduction shapes were removed, not blanked',()=>{const t=findCases({typeId:'materials-navigation'})[0];assert(!t.sourceObjectIds.includes('192')&&!t.sourceObjectIds.includes('194')&&!t.slots.thesis);});
+let slide={nativeOperations:[]};let r=await renderComponent({typeId:'materials-navigation',slide,bounds:[0,0,1280,720],content:{...createNavigationOperation({items}),fields:{...op.fields,thesis:'禁止再插入介绍'}}});
+check('primitive interface rejects a reintroduced blurb without committing',()=>assert(!r.ok&&slide.nativeOperations.length===0));
+slide={nativeOperations:[]};r=await renderComponent({typeId:'materials-navigation',slide,bounds:[0,0,1280,720],content:{fields:op.fields,activeIndex:4,textOptions:{item0:{align:'l',vAlign:'t'}}}});
+check('primitive interface applies the centered directory defaults',()=>assert(r.ok&&slide.nativeOperations[0].textOptions.item0.align==='ctr'&&slide.nativeOperations[0].textOptions.item0.vAlign==='ctr'));
+const report={pass:true,checks};if(process.argv[2])fs.writeFileSync(process.argv[2],JSON.stringify(report,null,2));console.log(JSON.stringify({pass:true,checks:checks.length}));

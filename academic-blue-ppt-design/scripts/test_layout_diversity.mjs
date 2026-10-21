@@ -1,0 +1,11 @@
+import fs from 'node:fs';
+import assert from 'node:assert/strict';
+import {auditComposition} from '../assets/component-selection.mjs';
+import {compileComposition} from '../assets/composition-layout.mjs';
+import {compositionExample} from '../assets/composition-examples.mjs';
+const old={pages:Array.from({length:16},(_,i)=>{const q=compositionExample(i%2?'text-over-figures':'figure-with-explanations');const c=compileComposition(q);assert.equal(c.ok,true);return{id:'neutral-'+i,role:'content',chapterId:'neutral',sourceIds:['neutral-0','neutral-1'],modules:q.groups,compositionId:q.compositionId,compositionBounds:[44,177,1192,480],...c};})};
+const cases=[],test=(name,run)=>{try{run();cases.push({name,pass:true});}catch(e){cases.push({name,pass:false,message:e.message});}};
+test('alternating similar titled panels in the old deck requires structural review',()=>{const a=auditComposition(old);assert.ok(a.issues.some(v=>v.code==='SIMILAR_BODY_FORMS_DOMINATE'));});
+test('renaming recipes and recoloring does not erase repetition',()=>{const p=structuredClone(old);p.pages.forEach((p,i)=>{p.compositionId='renamed-'+i;for(const o of p.operations||[])for(const t of Object.values(o.textOptions||{}))t.color=i%2?'003355':'446688';});const a=auditComposition(p);assert.ok(a.issues.some(v=>v.code==='SIMILAR_BODY_FORMS_DOMINATE'));});
+test('public headers and figure frames do not count as new body structures',()=>{const a=auditComposition(old);assert.ok(a.diversity);assert.ok(a.diversity.pages.every(p=>!p.structureTypes.some(t=>/frame|caption|navigation/.test(t))));});
+const report={pass:cases.every(c=>c.pass),cases};if(process.argv[2])fs.writeFileSync(process.argv[2],JSON.stringify(report,null,2));console.log(JSON.stringify(report,null,2));if(!report.pass)process.exitCode=2;

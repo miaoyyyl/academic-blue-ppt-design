@@ -1,0 +1,35 @@
+{
+  "id": "materials-folded-tab-standard",
+  "role": "component-test",
+  "title": "折角专题标题 / standard",
+  "operations": [
+    {
+      "id": "materials-folded-tab-standard",
+      "typeId": "materials-folded-tab",
+      "bounds": [
+        100,
+        180,
+        330,
+        55
+      ],
+      "fields": {
+        "heading": "同层专题标题"
+      },
+      "textOptions": {
+        "heading": {
+          "font": 20,
+          "color": "FFFFFF",
+          "bold": true,
+          "box": [
+            118,
+            184,
+            294,
+            40
+          ],
+          "align": "ctr"
+        }
+      }
+    }
+  ],
+  "notes": "中性原生组件检查，不代表区域组合编译已经实现。"
+}

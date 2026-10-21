@@ -1,0 +1,20 @@
+{
+  "id": "materials-feedback-return-standard",
+  "role": "component-test",
+  "title": "反馈返回连接线 / standard",
+  "operations": [
+    {
+      "id": "materials-feedback-return-standard",
+      "typeId": "materials-feedback-return",
+      "bounds": [
+        140,
+        260,
+        500,
+        32
+      ],
+      "fields": {},
+      "textOptions": {}
+    }
+  ],
+  "notes": "中性原生组件检查，不代表区域组合编译已经实现。"
+}

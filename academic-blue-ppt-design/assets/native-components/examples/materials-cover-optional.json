@@ -1,0 +1,60 @@
+{
+  "id": "materials-cover-optional",
+  "role": "component-test",
+  "title": "materials-cover / optional",
+  "operations": [
+    {
+      "typeId": "materials-cover",
+      "bounds": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "fields": {
+        "title": "中性研究主题\n条件、方法与证据的整合表达",
+        "subtitle": "示例材料 · 结构展示",
+        "meta": ""
+      },
+      "textOptions": {
+        "title": {
+          "font": 42,
+          "color": "004BAD",
+          "bold": true,
+          "align": "ctr",
+          "box": [
+            75,
+            185,
+            1130,
+            235
+          ]
+        },
+        "subtitle": {
+          "font": 19,
+          "color": "004BAD",
+          "align": "ctr"
+        },
+        "meta": {
+          "font": 15,
+          "color": "FFFFFF",
+          "align": "ctr"
+        }
+      },
+      "objectBoxes": {
+        "8": [
+          0,
+          0,
+          1280,
+          720
+        ],
+        "60": [
+          344.581,
+          -344.581,
+          590.838,
+          1280
+        ]
+      }
+    }
+  ],
+  "notes": "中性组件检验；没有科学事实与用户身份。"
+}

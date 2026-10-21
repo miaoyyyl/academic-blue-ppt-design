@@ -1,0 +1,77 @@
+{
+  "sourcePage": 20,
+  "sourceObjectIds": [
+    "22"
+  ],
+  "sourceBoundsEmu": [
+    452929,
+    1674911,
+    5479201,
+    4374450
+  ],
+  "slots": {},
+  "objects": [
+    {
+      "sourceId": "22",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"22\" name=\"矩形 21\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{93218DCD-24AA-CB67-EF67-37F2BFC9233D}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"452929\" y=\"1674911\"/><a:ext cx=\"5479201\" cy=\"4374450\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"12700\" cap=\"flat\" cmpd=\"sng\" algn=\"ctr\"><a:solidFill><a:srgbClr val=\"003F88\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"800000\"/></a:ln><a:effectLst><a:outerShdw blurRad=\"50800\" dist=\"38100\" dir=\"2700000\" algn=\"tl\" rotWithShape=\"0\"><a:prstClr val=\"black\"><a:alpha val=\"40000\"/></a:prstClr></a:outerShdw></a:effectLst></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\" anchor=\"ctr\"><a:noAutofit/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL=\"0\" marR=\"0\" lvl=\"0\" indent=\"0\" algn=\"l\" defTabSz=\"914400\" rtl=\"0\" eaLnBrk=\"1\" fontAlgn=\"auto\" latinLnBrk=\"0\" hangingPunct=\"1\"><a:lnSpc><a:spcPct val=\"100000\"/></a:lnSpc><a:spcBef><a:spcPts val=\"0\"/></a:spcBef><a:spcAft><a:spcPts val=\"0\"/></a:spcAft><a:buClrTx/><a:buSzTx/><a:buFontTx/><a:buNone/><a:tabLst/><a:defRPr/></a:pPr><a:endParaRPr kumimoji=\"0\" lang=\"zh-CN\" altLang=\"en-US\" sz=\"1600\" b=\"0\" i=\"0\" u=\"none\" strike=\"noStrike\" kern=\"0\" cap=\"none\" spc=\"0\" normalizeH=\"0\" baseline=\"0\" noProof=\"0\" dirty=\"0\"><a:ln><a:noFill/></a:ln><a:solidFill><a:srgbClr val=\"151723\"/></a:solidFill><a:effectLst/><a:uLnTx/><a:uFillTx/><a:latin typeface=\"Arial Black\" panose=\"020B0A04020102020204\" pitchFamily=\"34\" charset=\"0\"/><a:ea typeface=\"微软雅黑\" panose=\"020B0503020204020204\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"+mn-cs\"/></a:endParaRPr></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "868759517d8ee48dcd5187d1d1b37796fa96572893cebf7ba0292bccecab3476",
+      "sourceBoundsEmu": [
+        452929,
+        1674911,
+        5479201,
+        4374450
+      ],
+      "sourceGeometryStyleSha256": "e47a256c459f1457fb97551b08a6f573fcb2a789608d3952192851cf3a04be59"
+    }
+  ],
+  "typeId": "human-figure-frame-solid",
+  "label": "实线图像容器",
+  "relation": "figure-frame",
+  "sourceFile": "by_human/微塑料的生物累积与食物链传递能力研究进展.pptx",
+  "sourceFileSha256": "fc60a7e2b8b597fd12bc4441ec3ccf126870435c25ac1792d6a3edf89668ea27",
+  "sourceSlidePart": "ppt/slides/slide20.xml",
+  "nativeOnly": true,
+  "noGeometryFallback": true,
+  "repeatable": true,
+  "itemCount": 1,
+  "contentTasks": [
+    "figure-container"
+  ],
+  "contentStructures": [
+    "figure",
+    "figure-group"
+  ],
+  "visualTreatment": "figure-frame-solid",
+  "frameStyle": "solid",
+  "lineContract": {
+    "dash": "solid",
+    "widthPt": 1.0,
+    "color": "003F88"
+  },
+  "themeResolution": {
+    "themePart": "ppt/theme/theme1.xml",
+    "mapping": {
+      "bg1": "lt1",
+      "tx1": "dk1",
+      "bg2": "lt2",
+      "tx2": "dk2",
+      "accent1": "accent1",
+      "accent2": "accent2",
+      "accent3": "accent3",
+      "accent4": "accent4",
+      "accent5": "accent5",
+      "accent6": "accent6",
+      "hlink": "hlink",
+      "folHlink": "folHlink"
+    },
+    "colors": [
+      {
+        "source": "accent1",
+        "resolved": "003F88"
+      }
+    ],
+    "reason": "Bake the actual source theme colors so copied objects retain appearance under the target master. Geometry, line width, dash, fill and effects are copied."
+  },
+  "capacityPolicy": "Frame actual image union plus 2-12 px padding; no empty-space quota. Keep all picture pixels and editable native line.",
+  "coordinateFixture": true
+}

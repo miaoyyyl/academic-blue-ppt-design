@@ -1,0 +1,130 @@
+{
+  "id": "human-check-notes-standard",
+  "role": "component-test",
+  "title": "已报告结果 · 标准内容",
+  "operations": [
+    {
+      "typeId": "materials-frame",
+      "bounds": [
+        0,
+        0,
+        1280,
+        77
+      ],
+      "fields": {
+        "title": "已报告结果 · 标准内容",
+        "number": "4"
+      },
+      "textOptions": {
+        "title": {
+          "font": 30,
+          "color": "FFFFFF",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 100,
+          "box": [
+            124,
+            10,
+            1100,
+            57
+          ],
+          "bold": true
+        },
+        "number": {
+          "font": 23,
+          "color": "004BAD",
+          "align": "ctr",
+          "vAlign": "ctr",
+          "leading": 100,
+          "box": [
+            45,
+            13,
+            73,
+            50
+          ],
+          "bold": true
+        }
+      },
+      "objectBoxes": {},
+      "id": "human-check-notes-standard.op1"
+    },
+    {
+      "typeId": "human-check-notes",
+      "bounds": [
+        90,
+        192,
+        1100,
+        440
+      ],
+      "fields": {
+        "body": [
+          "条件甲：围绕同一问题说明条件、作用与边界，正文保持可编辑。",
+          "条件乙：围绕同一问题说明条件、作用与边界，正文保持可编辑。",
+          "条件丙：围绕同一问题说明条件、作用与边界，正文保持可编辑。"
+        ]
+      },
+      "textOptions": {
+        "body": {
+          "font": 18,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 110,
+          "box": [
+            90,
+            192,
+            1100,
+            440
+          ],
+          "bold": false,
+          "paragraphAfter": 15,
+          "labelBold": true,
+          "bullet": "source",
+          "emphasis": [
+            {
+              "text": "边界",
+              "color": "C00000",
+              "bold": true
+            }
+          ]
+        }
+      },
+      "objectBoxes": {},
+      "id": "human-check-notes-standard.op2"
+    },
+    {
+      "typeId": "materials-caption",
+      "bounds": [
+        60,
+        665,
+        1160,
+        42
+      ],
+      "fields": {
+        "body": "human-check-notes | by_human/微塑料的生物累积与食物链传递能力研究进展.pptx | 原页 3 | 中性示例，非科研结论"
+      },
+      "textOptions": {
+        "body": {
+          "font": 11,
+          "color": "284461",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 100,
+          "box": [
+            60,
+            665,
+            1160,
+            42
+          ],
+          "bold": false
+        }
+      },
+      "objectBoxes": {},
+      "id": "human-check-notes-standard.op3"
+    }
+  ],
+  "notes": [
+    "中性原生组件测试，不包含样本原文、Logo或科研结论。",
+    "源组件：by_human/微塑料的生物累积与食物链传递能力研究进展.pptx，实际页码3，对象56"
+  ]
+}

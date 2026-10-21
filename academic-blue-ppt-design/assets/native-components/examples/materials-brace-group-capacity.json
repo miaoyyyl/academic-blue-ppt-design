@@ -1,0 +1,223 @@
+{
+  "id": "materials-brace-group-capacity",
+  "role": "component-test",
+  "title": "括号归组 · 近容量内容",
+  "operations": [
+    {
+      "typeId": "materials-frame",
+      "bounds": [
+        0,
+        0,
+        1280,
+        77
+      ],
+      "fields": {
+        "title": "括号归组 · 近容量内容",
+        "number": "12"
+      },
+      "textOptions": {
+        "title": {
+          "font": 30,
+          "color": "FFFFFF",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 100,
+          "box": [
+            124,
+            10,
+            1100,
+            57
+          ],
+          "bold": true
+        },
+        "number": {
+          "font": 23,
+          "color": "004BAD",
+          "align": "ctr",
+          "vAlign": "ctr",
+          "leading": 100,
+          "box": [
+            45,
+            13,
+            73,
+            50
+          ],
+          "bold": true
+        }
+      },
+      "objectBoxes": {},
+      "id": "materials-brace-group-capacity.op1"
+    },
+    {
+      "typeId": "materials-brace-group",
+      "bounds": [
+        85,
+        200,
+        32,
+        355
+      ],
+      "fields": {},
+      "textOptions": {},
+      "objectBoxes": {},
+      "id": "materials-brace-group-capacity.op2"
+    },
+    {
+      "typeId": "materials-text",
+      "bounds": [
+        160,
+        205,
+        1000,
+        83
+      ],
+      "fields": {
+        "body": "条件甲：对象在指定条件下产生相应变化，说明材料、方法与观察之间的联系；解释适用范围及证据边界，具体结论须由调用方本次输入支持。"
+      },
+      "textOptions": {
+        "body": {
+          "font": 18,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 110,
+          "box": [
+            160,
+            205,
+            1000,
+            73.38
+          ],
+          "labelBold": true,
+          "bold": false
+        }
+      },
+      "objectBoxes": {},
+      "id": "materials-brace-group-capacity.op3"
+    },
+    {
+      "typeId": "materials-text",
+      "bounds": [
+        160,
+        295,
+        1000,
+        83
+      ],
+      "fields": {
+        "body": "条件乙：对象在指定条件下产生相应变化，说明材料、方法与观察之间的联系；解释适用范围及证据边界，具体结论须由调用方本次输入支持。"
+      },
+      "textOptions": {
+        "body": {
+          "font": 18,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 110,
+          "box": [
+            160,
+            295,
+            1000,
+            73.38
+          ],
+          "labelBold": true,
+          "bold": false
+        }
+      },
+      "objectBoxes": {},
+      "id": "materials-brace-group-capacity.op4"
+    },
+    {
+      "typeId": "materials-text",
+      "bounds": [
+        160,
+        385,
+        1000,
+        83
+      ],
+      "fields": {
+        "body": "条件丙：对象在指定条件下产生相应变化，说明材料、方法与观察之间的联系；解释适用范围及证据边界，具体结论须由调用方本次输入支持。"
+      },
+      "textOptions": {
+        "body": {
+          "font": 18,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 110,
+          "box": [
+            160,
+            385,
+            1000,
+            73.38
+          ],
+          "labelBold": true,
+          "bold": false
+        }
+      },
+      "objectBoxes": {},
+      "id": "materials-brace-group-capacity.op5"
+    },
+    {
+      "typeId": "materials-text",
+      "bounds": [
+        160,
+        475,
+        1000,
+        83
+      ],
+      "fields": {
+        "body": "条件丁：对象在指定条件下产生相应变化，说明材料、方法与观察之间的联系；解释适用范围及证据边界，具体结论须由调用方本次输入支持。"
+      },
+      "textOptions": {
+        "body": {
+          "font": 18,
+          "color": "162B40",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 110,
+          "box": [
+            160,
+            475,
+            1000,
+            73.38
+          ],
+          "labelBold": true,
+          "bold": false
+        }
+      },
+      "objectBoxes": {},
+      "id": "materials-brace-group-capacity.op6"
+    },
+    {
+      "typeId": "materials-caption",
+      "bounds": [
+        60,
+        665,
+        1160,
+        42
+      ],
+      "fields": {
+        "body": "materials-brace-group | materials/【蓝色系】青年申请长江ppt模板.pptx | 原页 37 | 中性示例，非科研结论"
+      },
+      "textOptions": {
+        "body": {
+          "font": 11,
+          "color": "284461",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 100,
+          "box": [
+            60,
+            665,
+            1160,
+            42
+          ],
+          "bold": false
+        }
+      },
+      "objectBoxes": {},
+      "id": "materials-brace-group-capacity.op7"
+    }
+  ],
+  "notes": [
+    "中性原生组件测试，不包含样本原文、Logo或科研结论。",
+    "源组件：materials/【蓝色系】青年申请长江ppt模板.pptx，实际页码37，对象91"
+  ]
+}

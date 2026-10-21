@@ -1,0 +1,33 @@
+{
+  "id": "materials-statement-band-optional",
+  "role": "component-test",
+  "title": "materials-statement-band / optional",
+  "operations": [
+    {
+      "typeId": "materials-statement-band",
+      "bounds": [
+        60,
+        140,
+        1160,
+        100
+      ],
+      "fields": {
+        "body": ""
+      },
+      "textOptions": {
+        "body": {
+          "font": 22,
+          "color": "004BAD",
+          "bold": true,
+          "box": [
+            74,
+            149,
+            1132,
+            81
+          ]
+        }
+      }
+    }
+  ],
+  "notes": "中性组件检验；没有科学事实与用户身份。"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "materials-inward-left-standard",
+  "role": "component-test",
+  "title": "向左汇入柔和箭头",
+  "operations": [
+    {
+      "id": "materials-inward-left-standard",
+      "typeId": "materials-inward-left",
+      "bounds": [
+        200,
+        260,
+        90,
+        40
+      ],
+      "fields": {},
+      "textOptions": {},
+      "objectBoxes": {}
+    }
+  ],
+  "notes": "中性原生组件示例"
+}

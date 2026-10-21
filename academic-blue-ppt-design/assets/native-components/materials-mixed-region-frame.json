@@ -1,0 +1,90 @@
+{
+  "sourcePage": 7,
+  "sourceObjectIds": [
+    "29"
+  ],
+  "sourceBoundsEmu": [
+    442913,
+    2531715,
+    3492982,
+    3957985
+  ],
+  "slots": {},
+  "objects": [
+    {
+      "sourceId": "29",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"29\" name=\"矩形: 圆角 28\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{6CBFBB50-36B3-6E57-411A-61DD8D3FA502}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"442913\" y=\"2531715\"/><a:ext cx=\"3492982\" cy=\"3957985\"/></a:xfrm><a:prstGeom prst=\"roundRect\"><a:avLst><a:gd name=\"adj\" fmla=\"val 1384\"/></a:avLst></a:prstGeom><a:solidFill><a:sysClr val=\"window\" lastClr=\"FFFFFF\"/></a:solidFill><a:ln w=\"3175\" cap=\"flat\" cmpd=\"sng\" algn=\"ctr\"><a:solidFill><a:srgbClr val=\"0B4FA1\"/></a:solidFill><a:prstDash val=\"solid\"/><a:miter lim=\"800000\"/></a:ln><a:effectLst><a:outerShdw blurRad=\"266700\" dist=\"215900\" dir=\"8100000\" algn=\"tr\" rotWithShape=\"0\"><a:srgbClr val=\"0B4FA1\"><a:alpha val=\"8000\"/></a:srgbClr></a:outerShdw></a:effectLst></p:spPr><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:r><a:rPr lang=\"en-US\" altLang=\"zh-CN\" kern=\"0\" dirty=\"0\"><a:solidFill><a:prstClr val=\"white\"/></a:solidFill><a:latin typeface=\"Roboto Bold\"/><a:ea typeface=\"思源黑体 CN Bold\"/></a:rPr><a:t/></a:r></a:p><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"zh-CN\" altLang=\"en-US\" kern=\"0\" dirty=\"0\"><a:solidFill><a:prstClr val=\"white\"/></a:solidFill><a:latin typeface=\"Roboto Bold\"/><a:ea typeface=\"思源黑体 CN Bold\"/></a:endParaRPr></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "dd44c50e677af8e4d7d7ad4cc8290dc768049d4f915dfb92b02acca5c9ed480a",
+      "sourceBoundsEmu": [
+        442913,
+        2531715,
+        3492982,
+        3957985
+      ],
+      "sourceGeometryStyleSha256": "33901eb402244d6b2244d5c51b224d1632c6175010a443a6c08e37e836c06c9b"
+    }
+  ],
+  "typeId": "materials-mixed-region-frame",
+  "label": "图文混合区域外框",
+  "relation": "region-container",
+  "sourceFile": "materials/1深蓝色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+  "sourceFileSha256": "83cdad74701b75d8f4d2527ce1b0138c3ce54574ddc4a4dd47c7c7a04db9afcb",
+  "sourceSlidePart": "ppt/slides/slide7.xml",
+  "nativeOnly": true,
+  "noGeometryFallback": true,
+  "repeatable": true,
+  "itemCount": 1,
+  "contentTasks": [
+    "mixed-region-container"
+  ],
+  "contentStructures": [
+    "region"
+  ],
+  "visualTreatment": "mixed-region",
+  "coordinateFixture": true,
+  "themeResolution": {
+    "themePart": "ppt/theme/theme1.xml",
+    "mapping": {
+      "bg1": "lt1",
+      "tx1": "dk1",
+      "bg2": "lt2",
+      "tx2": "dk2",
+      "accent1": "accent1",
+      "accent2": "accent2",
+      "accent3": "accent3",
+      "accent4": "accent4",
+      "accent5": "accent5",
+      "accent6": "accent6",
+      "hlink": "hlink",
+      "folHlink": "folHlink"
+    },
+    "colors": [
+      {
+        "source": "accent6",
+        "resolved": "0B4FA1"
+      },
+      {
+        "source": "accent6",
+        "resolved": "0B4FA1"
+      }
+    ],
+    "policy": "Resolve source theme colors only; preserve geometry, alpha, lines and effects."
+  },
+  "capacityPolicy": "Use natural text height at assigned font; preserve picture aspect and reading targets. Actual PowerPoint rendering is required.",
+  "semanticConstraints": [
+    "Use a named region with explicit member ids. A region frame cannot substitute for missing evidence or fill a sparse page.",
+    "All runtime text is supplied by the current task; reference scientific content is cleared."
+  ],
+  "containerContract": {
+    "allows": [
+      "text",
+      "figure",
+      "heading",
+      "annotation",
+      "relation"
+    ],
+    "nesting": "one outer semantic region and at most one local annotation layer",
+    "figureFrameEquivalent": false,
+    "emptyAllowed": false
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": "materials-gradient-conclusion-capacity",
+  "role": "component-test",
+  "title": "渐变共同结论 · 近容量内容",
+  "operations": [
+    {
+      "typeId": "materials-frame",
+      "bounds": [
+        0,
+        0,
+        1280,
+        77
+      ],
+      "fields": {
+        "title": "渐变共同结论 · 近容量内容",
+        "number": "9"
+      },
+      "textOptions": {
+        "title": {
+          "font": 30,
+          "color": "FFFFFF",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 100,
+          "box": [
+            124,
+            10,
+            1100,
+            57
+          ],
+          "bold": true
+        },
+        "number": {
+          "font": 23,
+          "color": "004BAD",
+          "align": "ctr",
+          "vAlign": "ctr",
+          "leading": 100,
+          "box": [
+            45,
+            13,
+            73,
+            50
+          ],
+          "bold": true
+        }
+      },
+      "objectBoxes": {},
+      "id": "materials-gradient-conclusion-capacity.op1"
+    },
+    {
+      "typeId": "materials-gradient-conclusion",
+      "bounds": [
+        60,
+        220,
+        1160,
+        114.43
+      ],
+      "fields": {
+        "body": "共同条件与适用边界：围绕同一问题整合方法与证据，保留内容间的关系，并明确当前输入能够支持的结论范围。"
+      },
+      "textOptions": {
+        "body": {
+          "font": 23,
+          "color": "004BAD",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 110,
+          "box": [
+            78,
+            232,
+            1124,
+            90.43
+          ],
+          "bold": true,
+          "emphasis": [
+            {
+              "text": "共同条件与适用边界",
+              "color": "C00000",
+              "bold": true
+            }
+          ]
+        }
+      },
+      "objectBoxes": {
+        "100": [
+          60,
+          220,
+          1160,
+          114.43
+        ]
+      },
+      "id": "materials-gradient-conclusion-capacity.op2"
+    },
+    {
+      "typeId": "materials-caption",
+      "bounds": [
+        60,
+        665,
+        1160,
+        42
+      ],
+      "fields": {
+        "body": "materials-gradient-conclusion | materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx | 原页 6 | 中性示例，非科研结论"
+      },
+      "textOptions": {
+        "body": {
+          "font": 11,
+          "color": "284461",
+          "align": "l",
+          "vAlign": "t",
+          "leading": 100,
+          "box": [
+            60,
+            665,
+            1160,
+            42
+          ],
+          "bold": false
+        }
+      },
+      "objectBoxes": {},
+      "id": "materials-gradient-conclusion-capacity.op3"
+    }
+  ],
+  "notes": [
+    "中性原生组件测试，不包含样本原文、Logo或科研结论。",
+    "源组件：materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx，实际页码6，对象100,105"
+  ]
+}

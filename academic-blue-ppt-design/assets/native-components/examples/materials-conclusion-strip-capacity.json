@@ -1,0 +1,43 @@
+{
+  "id": "materials-conclusion-strip-capacity",
+  "role": "component-test",
+  "title": "区域底部蓝色结论带 / capacity",
+  "operations": [
+    {
+      "id": "materials-conclusion-strip-capacity",
+      "typeId": "materials-conclusion-strip",
+      "bounds": [
+        80,
+        210,
+        1120,
+        90
+      ],
+      "fields": {
+        "body": "将上述证据整合为具有明确适用边界的结论，说明支持范围、条件和仍需验证的内容，不能仅凭排版强调替代证据判断"
+      },
+      "textOptions": {
+        "body": {
+          "font": 22,
+          "color": "FFFFFF",
+          "bold": true,
+          "box": [
+            98,
+            216,
+            1084,
+            78
+          ],
+          "align": "ctr"
+        }
+      },
+      "objectBoxes": {
+        "55": [
+          80,
+          210,
+          1120,
+          90
+        ]
+      }
+    }
+  ],
+  "notes": "中性原生组件检查，不代表区域组合编译已经实现。"
+}

@@ -1,0 +1,84 @@
+{
+  "sourcePage": 14,
+  "sourceObjectIds": [
+    "26"
+  ],
+  "sourceBoundsEmu": [
+    643586,
+    1481939,
+    11167414,
+    422873
+  ],
+  "slots": {
+    "body": "26"
+  },
+  "objects": [
+    {
+      "sourceId": "26",
+      "xml": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\"><p:nvSpPr><p:cNvPr id=\"26\" name=\"米菲PPT31\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{B406C460-B1C0-447C-AC2E-F76971601373}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"643586\" y=\"1481939\"/><a:ext cx=\"11167414\" cy=\"422873\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:pPr marL=\"285750\" indent=\"-285750\"><a:lnSpc><a:spcPct val=\"130000\"/></a:lnSpc><a:buClr><a:srgbClr val=\"000000\"/></a:buClr><a:buFont typeface=\"Wingdings\" panose=\"05000000000000000000\" pitchFamily=\"2\" charset=\"2\"/><a:buChar char=\"Ø\"/></a:pPr><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"0046A4\"/></a:solidFill><a:latin typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Bold\" panose=\"020B0800000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/><a:sym typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/></a:rPr><a:t/></a:r><a:r><a:rPr lang=\"zh-CN\" altLang=\"en-US\" dirty=\"0\"><a:latin typeface=\"思源黑体 CN Medium\" panose=\"020B0600000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:ea typeface=\"思源黑体 CN Medium\" panose=\"020B0600000000000000\" pitchFamily=\"34\" charset=\"-122\"/><a:cs typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/><a:sym typeface=\"MiSans Medium\" panose=\"00000600000000000000\" pitchFamily=\"2\" charset=\"-122\"/></a:rPr><a:t/></a:r></a:p></p:txBody></p:sp>",
+      "geometryStyleSha256": "0cf2d1c08a049a03c4f13c6ce4cbc0bdb12d1f0fec4cf471adfdeba238cb3d30",
+      "sourceBoundsEmu": [
+        643586,
+        1481939,
+        11167414,
+        422873
+      ]
+    }
+  ],
+  "typeId": "materials-arrow-notes",
+  "label": "开放箭头解释列表",
+  "relation": "unordered",
+  "sourceFile": "materials/3深蓝白色系-国家自然科学项目申请答辩结题汇报PPT.pptx",
+  "sourceFileSha256": "4a385116f610368158911f54588dfc3e7c44f2eb3a79caac9b32f1239cd1112a",
+  "sourceSlidePart": "ppt/slides/slide14.xml",
+  "nativeOnly": true,
+  "noGeometryFallback": true,
+  "repeatable": true,
+  "itemCount": 1,
+  "visualTreatment": "open-list",
+  "contentTasks": [
+    "supporting-points",
+    "mechanism-notes",
+    "comparison-notes"
+  ],
+  "markerRole": "arrow",
+  "defaultTextOptions": {
+    "body": {
+      "bullet": "source"
+    }
+  },
+  "bulletSource": {
+    "char": "Ø",
+    "font": {
+      "typeface": "Wingdings",
+      "panose": "05000000000000000000",
+      "pitchFamily": "2",
+      "charset": "2"
+    },
+    "marL": "285750",
+    "indent": "-285750",
+    "xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" marL=\"285750\" indent=\"-285750\"><a:lnSpc><a:spcPct val=\"130000\"/></a:lnSpc><a:buClr><a:schemeClr val=\"tx1\"/></a:buClr><a:buFont typeface=\"Wingdings\" panose=\"05000000000000000000\" pitchFamily=\"2\" charset=\"2\"/><a:buChar char=\"&#216;\"/></a:pPr>"
+  },
+  "coordinateFixture": true,
+  "themeResolution": {
+    "policy": "resolve source scheme colors to source RGB; preserve alpha/luminance/gradient stops",
+    "themePart": "ppt/theme/theme1.xml",
+    "mappings": [
+      {
+        "scheme": "tx1",
+        "mapped": "dk1",
+        "rgb": "000000"
+      },
+      {
+        "scheme": "accent2",
+        "mapped": "accent2",
+        "rgb": "0046A4"
+      }
+    ]
+  },
+  "capacityPolicy": "Keep assigned pt size; validate actual PowerPoint fit. Use content height, reorganize or split; never shrink or truncate.",
+  "semanticConstraints": [
+    "Symbols identify list roles; unordered items must not be represented as temporal or causal arrows.",
+    "Text is supplied by the current task; source scientific text and identities are not runtime defaults."
+  ]
+}
